@@ -87,31 +87,29 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
                         SESSION 1            SESSION 2           STUDENT DEADLINES
 
-     W01 Abr23-Abr24    0.Intro              1.PYTHON             
-     W02 Abr23-May01    2.PANDAS             -. -----            Festivo 01 Mayo
-     W03 May07-May08    3.STATS              3.STATS-PSETS
-     W04 May14-May15    4.BAYES              4.BAYES-PSETS
-     W05 May21-May22    QUIZPREP             QUIZ                PSETS FIRST DEADLINE    
-     W06 May28-May29    5.MLCLASS            6.MLREG            Junio 01 Registro primera calificación
-     W07 Jun04-Jun05    7.MLMETH             8.--   
-     W09 Jul02-Jul03    8.NAIVE              8.IMGCLASS             Vacaciones - (Junio 17- Julio 02)
-     W10 Jul09-Jul10    9.DeepL              10.DeepL  
-     W11 Jul16-Jul17    QUIZPREP             PRE-SUS PROJ        PSETS SECOND DEADLINE QUIZ (sabado 20 Julio)                   
-     W12 Jul23-Jul24    13.KMEANS            13.KMEANS                 
-     W13 Jul30-Jul31    14.PLAN              0.PLAN-SETS                         
-     W14 Ago06-Ago07    15.GA                0.GA-PSETS     
-     W15 Ago13-Ago14    14.SA                14.-----            Festivo 07 de Agosto.  	
-     W16 Ago20-Ago21    QUIZPREP             QUIZ-PROJECT        Quiz (sábado, 17 Agosto)
-     W16 Ago28-Ago29    PROJECT              PROJECT       	     Agosto 23 Finalización de clases    		                
+     W01 Sep16-Sep20    0.Intro            1.PYTHON
+     W02 Sep23-Sep27    2.PANDAS           3.STATS
+     W03 Sep30-Oct04    3.STATS-PSETS      4.BAYES
+     W04 Oct07-Oct11    4.BAYES-PSETS      QUIZPREP           PSETS FIRST DEADLINE
+     W05 Oct14-Oct18    QUIZ               5.MLCLASS          Festivo 14 Octubre
+     W06 Oct21-Oct25    6.MLREG            7.MLMETH           Oct26 Registro primera calificación
+     W07 Oct28-Nov01    8.NAIVE            8.IMGCLASS
+     W08 Nov04-Nov08    8.DeepL            9.DeepL-PSETS      Festivo 04 Noviembre
+     W09 Nov11-Nov15    10.PRE-SUS PROJ    QUIZPREP           Festivo 11 Noviembre
+     W10 Nov18-Nov22    QUIZ               13.KMEANS          PSETS SECOND DEADLINE
+     W11 Nov25-Nov29    13.KMEANS          14.PLAN
+     W12 Dic02-Dic06    0.PLAN-SETS        15.GA
+     W13 Dic09-Dic13    0.GA-PSETS         14.SA
+     W14 Dic16-Dic20    QUIZPREP           QUIZ               Vacaciones - (Diciembre 23 - Enero 15)
+     W15 Ene13-Ene17    PROJECT            PROJECT
 
 
-    Jun01 -        -> Registro primera calificación
-    Jun02 -        -> Último día cancelación materias
-    Jun12 - Jun14  -> COLIFRI
-    Jun17 - Jul02  -> Vacaciones docentes
-    Ago23 -        -> Finalización clase
-    Ago26-Ago31    -> Evaluaciones finales
-    Ago31 -        -> Registro calificaciones finales
+    Oct26 -        -> Registro primera calificación
+    Oct27 -        -> Último día cancelación materias
+    Dic23-Ene15    -> Vacaciones docentes
+    Ene29 -        -> Finalización clase
+    Ene30-Feb08    -> Evaluaciones finales
+    Feb08 -        -> Registro calificaciones finales
     
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)
 
