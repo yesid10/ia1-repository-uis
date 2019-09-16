@@ -1,4 +1,5 @@
 # Inteligencia Artificial I 2019-2
+# BIENVENIDOS!
 
 <img src="/imgs/img_IA.jpg" style="width:400px;">
 
