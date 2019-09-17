@@ -1,5 +1,6 @@
 # Inteligencia Artificial I 2019-2
 
+## Bienvenidos!
 
 <img src="/imgs/img_IA.jpg" style="width:400px;">
 
@@ -7,10 +8,21 @@ _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
                                             
 La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1X3h7U1JTSnKPTVPzVHeflKuOMv0kG3VN/view?usp=sharing)
 
+## Colaboratory (Google)
+
+Vamos a utilizar la plataforma de google para editar, compartir y correr notebooks: [**Colaboratory**](https://colab.research.google.com/notebooks/welcome.ipynb) 
+
+- Necesitas una cuenta de gmail y luego entras a drive
+- Colaboratory es un entorno de notebook de Jupyter gratuito que no requiere configuración y se ejecuta completamente en la nube.
+    - Usaremos parte de la infraestructura de computo de google....by free! (máximo procesos de 8 horas)
+- Con Colaboratory, puedes escribir y ejecutar código, guardar y compartir análisis, y acceder a recursos informáticos potentes, todo gratis en tu navegador.
+- También puedes usar tu recursos de computador Local. 
 
 ## Máquina Virtual
 
-Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
+Alternativamente, usaremos esta máquina virtual que tiene instalado un entorno Python (2) Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
+
+Esta opción es util si no tienes buen internet en casa, para contestar talleres y parciales. 
 
 **Observa la configuración de la máquina**
 
@@ -22,15 +34,16 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
 
     sudo mount share
 
-## Colaboratory (Google)
-
-También puedes utilizar la plataforma de google para editar, compartir y correr notebooks: [**Colaboratory**](https://colab.research.google.com/notebooks/welcome.ipynb) 
 
 ## Calificación
-40% Talleres (Problemsets)<br/>
-30% Parciales (Quizes) <br/>
-30 % + [10% ,20 %, 30 %] Proyecto funcional IA <br/>
-+10% Online courses (MOOC)
+- 40% Talleres (Problemsets)
+- 30% Parciales (Quizes) 
+- 30 % + [10% ,20 %, 30 %] Proyecto funcional IA 
+    - 10% -> Hasta + una unidad en una nota de un 10% (los parciales por ejemplo) o su equivalente en otros porcentajes. 
+    - Las notas o porcentajes adicionales se obtienen si fueron puntuales en todas las entregas. 
+- +10% Online courses (MOOC). 
+    - Esta vez, unicamente se aceptan cursos relacionados con I.A., machine learning, análisis de datos, o tecnologías relacionadas.
+    - Solo se evalua el curso, si ha sido previamente aprobado antes del primer corte. 
 
 ## Talleres (Problemsets)
 
@@ -65,7 +78,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
 ## Online Courses (MOOC) [Extra]
 
-El avance vertiginoso de la tecnología nos obliga a adquirir destresas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curo se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. El MOOC habrá de tratar un topico relacionado con la tecnología y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+El avance vertiginoso de la tecnología nos obliga a adquirir destresas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curo se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
 Tendras que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
 
@@ -86,24 +99,24 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 ## Calendario y plazos
 
-                        SESSION 1            SESSION 2           STUDENT DEADLINES
+                        SESSION 1            SESSION 2      SESSION SATURDAY    STUDENT DEADLINES
 
-     W01 Sep16-Sep20    0.Intro            1.PYTHON
-     W02 Sep23-Sep27    2.PANDAS           3.STATS
-     W03 Sep30-Oct04    3.STATS-PSETS      4.BAYES
-     W04 Oct07-Oct11    4.BAYES-PSETS      QUIZPREP           PSETS FIRST DEADLINE
-     W05 Oct14-Oct18    QUIZ               5.MLCLASS          Festivo 14 Octubre
-     W06 Oct21-Oct25    6.MLREG            7.MLMETH           Oct26 Registro primera calificación
-     W07 Oct28-Nov01    8.NAIVE            8.IMGCLASS
-     W08 Nov04-Nov08    8.DeepL            9.DeepL-PSETS      Festivo 04 Noviembre
-     W09 Nov11-Nov15    10.PRE-SUS PROJ    QUIZPREP           Festivo 11 Noviembre
-     W10 Nov18-Nov22    QUIZ               13.KMEANS          PSETS SECOND DEADLINE
-     W11 Nov25-Nov29    13.KMEANS          14.PLAN
-     W12 Dic02-Dic06    0.PLAN-SETS        15.GA
-     W13 Dic09-Dic13    0.GA-PSETS         14.SA
-     W14 Dic16-Dic20    QUIZPREP           QUIZ               Vacaciones - (Diciembre 23 - Enero 15)
-     W15 Ene13-Ene17    PROJECT            PROJECT
-
+     W01 Sep16-Sep20    0.Intro            1.PYTHON         ---
+     W02 Sep23-Sep27    ---                ---              ---                 U18-participate in one challenge
+     W03 Sep30-Oct04    2.PANDAS           3.STATS          ---
+     W04 Oct07-Oct11    3.STATS-PSETS      4.BAYES          --- 
+     W05 Oct14-Oct18    4.BAYES-PSETS      QUIZPREP         QUIZ                Festivo 14 Octubre
+     W06 Oct21-Oct25    5.MLCLASS          6.MLREG                              Oct26 Registro primera calificación
+     W07 Oct28-Nov01    7.MLMETH           8.NAIVE          ---
+     W08 Nov04-Nov08    8.IMGCLASS         ---              ---                 Festivo 04 Noviembre, SIPAIM
+     W09 Nov11-Nov15    8.DeepL            9.DeepL-PSETS    ---                 Festivo 11 Noviembre
+     W10 Nov18-Nov22    10.PRE-SUS PROJ    QUIZPREP         QUIZ                       
+     W11 Nov25-Nov29    13.KMEANS          13.KMEANS        ---
+     W12 Dic02-Dic06    14.PLAN            0.PLAN-SETS      ---
+     W13 Dic09-Dic13    15.GA              14.SA-PSETS      ---
+     W14 Dic16-Dic20    QUIZPREP           QUIZ             ---                 Vacaciones - (Diciembre 23 - Enero 15)
+     W15 Ene13-Ene17    PROJECT            PROJECT          ---           
+                        
 
     Oct26 -        -> Registro primera calificación
     Oct27 -        -> Último día cancelación materias
@@ -116,3 +129,5 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS%**
+**DEADLINE DE LOS PROBLEMSETS SERÁN EL DIA DE CADA QUIZ**
+
