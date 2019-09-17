@@ -41,7 +41,7 @@
 
 **Autores: Alejandro Ramirez, David Villabona**
 
-<img src="https://github.com/dabid-va/ViolenciaSimbolicaTwitter/blob/master/data/una.jpeg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/dabid-va/ViolenciaSimbolicaTwitter/master/data/una.jpeg" style="width:700px;">
 
 
 **Objetivo:** Anaĺitica de datos para predecir twits que contengan violencia simbólica. 
@@ -58,7 +58,7 @@
 
 **Autores: Juan Mantilla, Luisa Jaimes, Hector Gonzalez**
 
-<img src="https://github.com/juandmantilla/Estudio-de-Factores-Sociales-Icfes/blob/master/img/banner_.jpg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/juandmantilla/Estudio-de-Factores-Sociales-Icfes/master/img/banner_.jpg" style="width:700px;">
 
 **Objetivo:** Analizar los factores sociales que influyen en los puntajes del icfes utilizando analítica de datos y  modelos de regresión. 
 
@@ -74,7 +74,7 @@
 
 **Autores: Douglas Ramirez, Marianne Rojas**
 
-<img src="https://github.com/Doukuest/IA_Regresor_shows_animados/blob/master/data/other/ProjectBanner.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/Doukuest/IA_Regresor_shows_animados/master/data/other/ProjectBanner.png" style="width:700px;">
 
 **Objetivo:**  Predecir la popularidad  de shows animados en terminos de, cantidad de personas, puntaje y favoritos a partir del tipo de show, fuente de material y genereros. 
 
@@ -90,7 +90,7 @@
 
 **Autores: Brayan Valenzuela, Alejandra Moreno, Lina Ruiz**
 
-<img src="https://github.com/Brayan-Valenzuela/Caracterizacion-de-Marcha-Parkinsoniana-Empleando-Trayectorias-de-Movimiento./blob/master/Parkinson%20disease.png" style="width:400px;">
+<img src="https://raw.githubusercontent.com/Brayan-Valenzuela/Caracterizacion-de-Marcha-Parkinsoniana-Empleando-Trayectorias-de-Movimiento./master/Parkinson%20disease.png" style="width:400px;">
 
 **Objetivo:** Reconocer patrones relacionados con la enfermedad del parkinson utilizando clasificadores automáticas y trayectorias de movimiento. 
 
@@ -140,7 +140,7 @@
 
 **Autores: Edgar Montenegro, Jorge Triana, Brayan Rivera**
 
-<img src="https://github.com/EdgarAndresMontenegro/Soccer-Regression/blob/master/img/FIFA-19.jpg" style="width:300px;">
+<img src="https://raw.githubusercontent.com/EdgarAndresMontenegro/Soccer-Regression/master/img/FIFA-19.jpg" style="width:300px;">
 
 
 **Objetivo:** Construir un modelo cuntitativo del futbol de elite para ser usado como referencia en otras ligas. 
@@ -158,7 +158,7 @@
 
 **Autores: Karina Sequeda, Veronica Lucena, Angel Gómez, Brayan Alvarez**
 
-<img src="https://github.com/sequedakarina/reconocimiento-de-caracteres-y-reproduccion-de-voz/blob/master/Banner.png" style="width:300px;">
+<img src="https://raw.githubusercontent.com/sequedakarina/reconocimiento-de-caracteres-y-reproduccion-de-voz/master/Banner.png" style="width:300px;">
 
 **Objetivo:** desarrollar una aplicación para el apoyo a personas con discapacidad visual reconociendo automaticamente los caracteres y traduciendolos a señales auditivas. 
 
@@ -212,7 +212,7 @@
 
 **Autores: Juan Felipe Silva, Javier Rueda**
 
-<img src="https://github.com/felipe0479/Caracteristicas-que-afectan-el-consumo-de-combustible-en-los-carros/blob/master/BANNER.jpg" style="width:500px;">
+<img src="https://raw.githubusercontent.com/felipe0479/Caracteristicas-que-afectan-el-consumo-de-combustible-en-los-carros/master/BANNER.jpg" style="width:500px;">
 
 
 **Objetivo:** Predecir el factor que mas influye en el consumo de combustible de un carro. 
