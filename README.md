@@ -22,7 +22,8 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 Alternativamente, usaremos esta máquina virtual que tiene instalado un entorno Python (2) Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
-Esta opción es util si no tienes buen internet en casa, para contestar talleres y parciales. 
+- Esta opción es util para contestar talleres y para trabajar desde casa. 
+- También para contestar parciales desde la U.
 
 **Observa la configuración de la máquina**
 
@@ -99,22 +100,22 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 ## Calendario y plazos
 
-                        SESSION 1            SESSION 2      SESSION SATURDAY    STUDENT DEADLINES
+                        SESSION 1            SESSION 2      SESSION SATURDAY            STUDENT DEADLINES
 
      W01 Sep16-Sep20    0.Intro            1.PYTHON         ---
-     W02 Sep23-Sep27    ---                ---              ---                 U18-participate in one challenge
+     W02 Sep23-Sep27    ---                ---              ---                         U18-participate in one challenge
      W03 Sep30-Oct04    2.PANDAS           3.STATS          ---
      W04 Oct07-Oct11    3.STATS-PSETS      4.BAYES          --- 
-     W05 Oct14-Oct18    4.BAYES-PSETS      QUIZPREP         QUIZ                Festivo 14 Octubre
-     W06 Oct21-Oct25    5.MLCLASS          6.MLREG                              Oct26 Registro primera calificación
+     W05 Oct14-Oct18    4.BAYES-PSETS      QUIZPREP         QUIZ                        Festivo 14 Octubre
+     W06 Oct21-Oct25    5.MLCLASS          6.MLREG                                      Oct26 Registro primera calificación
      W07 Oct28-Nov01    7.MLMETH           8.NAIVE          ---
-     W08 Nov04-Nov08    8.IMGCLASS         ---              ---                 Festivo 04 Noviembre, SIPAIM
-     W09 Nov11-Nov15    8.DeepL            9.DeepL-PSETS    ---                 Festivo 11 Noviembre
+     W08 Nov04-Nov08    8.IMGCLASS         ---              ---                         Festivo 04 Noviembre, SIPAIM
+     W09 Nov11-Nov15    8.DeepL            9.DeepL-PSETS    ---                         Festivo 11 Noviembre
      W10 Nov18-Nov22    10.PRE-SUS PROJ    QUIZPREP         QUIZ                       
      W11 Nov25-Nov29    13.KMEANS          13.KMEANS        ---
      W12 Dic02-Dic06    14.PLAN            0.PLAN-SETS      ---
-     W13 Dic09-Dic13    15.GA              14.SA-PSETS      ---
-     W14 Dic16-Dic20    QUIZPREP           QUIZ             ---                 Vacaciones - (Diciembre 23 - Enero 15)
+     W13 Dic09-Dic13    15.GA              14.SA      ---
+     W14 Dic16-Dic20    15.GA-SA-PSETS     QUIZPREP         QUIZ                         Vacaciones - (Diciembre 23 - Enero 15)
      W15 Ene13-Ene17    PROJECT            PROJECT          ---           
                         
 
