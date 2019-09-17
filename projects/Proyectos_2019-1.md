@@ -43,7 +43,7 @@
 
 **Autores: Valentina Goyeneche, Liceth Rozo**
 
-<img src="https://github.com/vgoyenechec/Hatespeech-en-twitter/blob/master/imgs/banner.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/vgoyenechec/Hatespeech-en-twitter/master/imgs/banner.png" style="width:700px;">
 
 **Objetivo:Clasificar tweets en ofensivo, hatespeech o ninguno, para filtrar el contenido que promueva el odio.**  
 
@@ -58,7 +58,7 @@
 
 **Autores: Jose Saul Vega, Diego Armando Villamizar**
 
-<img src="https://github.com/JoseSaul23/ProyectoIA/blob/master/BANNER.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/JoseSaul23/ProyectoIA/master/BANNER.png" style="width:700px;">
 
 **Objetivo:**   Predicción de ingresos en adultos, para saber si se encuentran por encima o por debajo de la linea de estabilidad económica
 
@@ -76,7 +76,7 @@
 **Autores: Daniela Quintero, Martha Eliana Arenas, Carlos Daniel Barrera**
 
 
-<img src="https://github.com/carlos-1299/Analisis-de-suicidios-a-nivel-mundial/blob/master/banner_mundial.jpeg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/carlos-1299/Analisis-de-suicidios-a-nivel-mundial/master/banner_mundial.jpeg" style="width:700px;">
 
 **Objetivo:**  Analizar la crisis del suicidio que se vive a nivel mundial, estudiando las principales causas que lleva a que las personas se suiciden. 
 
@@ -93,7 +93,7 @@
 
 **Autores: Diana Torres, Luis Jimenez, Maria Aparicio**
 
-<img src="https://github.com/sofiat99/VoiceHelp/blob/master/banner1.png" style="width:1200px;">
+<img src="https://raw.githubusercontent.com/sofiat99/VoiceHelp/master/banner1.png" style="width:1200px;">
 
 **Objetivo:  Ayudar a las personas con problemas auditivos y personas interesadas en aprender español.**  
 
@@ -109,7 +109,7 @@
 
 **Autores: Juan David Niño, Maria Fernanda Navas, Juan Pablo Moreno**
 
-<img src="https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/fhum/ArtSource/master/logo.png" style="width:700px;">
 
 **Objetivo: ArtSource es un proyecto de inteligencia artificial que busca clasificar las pinturas de arte según su corriente artística.**  
 
@@ -124,7 +124,7 @@
 
 **Autores: Cristian Andrés Picón, Andrea Juliana Villalba**
 
-<img src="https://github.com/capr99/AI_Agricultura/blob/master/images/BannerAI.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/capr99/AI_Agricultura/master/images/BannerAI.png" style="width:700px;">
 
 **Objetivo:Obtener una estimación de la producción de un cultivo en determinada zona para ayudar a los agricultores Colombianos.**  
 
@@ -139,7 +139,7 @@
 
 **Autores: Maximiliano Garavito, Maria Daniela Lizarazo**
 
-<img src="https://github.com/mdlizarazo/IA-Project/blob/master/banner.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/mdlizarazo/IA-Project/master/banner.png" style="width:700px;">
 
 **Objetivo:Detectar eventos climaticos extremos.**  
 
@@ -157,7 +157,7 @@
 
 
 
-<img src="https://github.com/omarsan1/ProyectoInteligencia/blob/master/BannerProyect.jpeg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/omarsan1/ProyectoInteligencia/master/BannerProyect.jpeg" style="width:700px;">
 
 **Objetivo: Predecir falsas alarmas y prioridades en las llamadas según los datos proporcionados en las llamadas a la línea 123.**  
 
@@ -176,7 +176,7 @@
 
 **Autores:  Javier Vargas - Yann Castellanos**
 
-<img src="https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/banner/banner_proyecto.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/master/banner/banner_proyecto.png" style="width:700px;">
 
 **Objetivo: Predecir si la solicitud de una persona para una tarjeta de crédito sería aprobada o rechazada, dada una información acerca del solicitante**  
 
@@ -192,7 +192,7 @@
 **Autores: JORGE ANDRES MOGOTOCORO,JHEYSON ARLEY JAIMES, ANDRES RICARDO HERNANDEZ**
 
 
-<img src="https://github.com/Jamf05/20191-ai-class-project/blob/master/banner.jpeg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/Jamf05/20191-ai-class-project/master/banner.jpeg" style="width:700px;">
 
 **Objetivo:Encontrar señales relacionadas con el aumento de las tasas de suicidio entre las diferentes cohortes a nivel mundial, en todo el espectro socioeconómico para ademas generar las mejores condiciones de un pais para minimizar su tasa de suicidios.**  
 
