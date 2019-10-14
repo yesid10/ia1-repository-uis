@@ -1,3 +1,2 @@
 #!/bin/sh
-export PATH=/opt/miniconda/bin:$PATH
-./utils/runepy utils/rlxmooc.epy $*
+./utils/runepy utils/mc.epy $*
