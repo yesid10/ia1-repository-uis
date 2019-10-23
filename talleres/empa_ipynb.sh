@@ -1,5 +1,6 @@
 #!/bin/bash
-zip -r ../$1".zip" * >/dev/null
+echo "uno: $1 dos $2"
+zip -r ../$1".zip" $2* >/dev/null
 if [ ! -f ../$1".zip" ]; then
 echo "ERROR!: NO FUE POSIBLE CREAR EL ARCHIVO!."
 else
