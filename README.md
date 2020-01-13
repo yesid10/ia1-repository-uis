@@ -110,19 +110,18 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W06 Ene20-Ene24    4.BAYES-PSETS      QUIZPREP         QUIZ
      W07 Ene27-Ene31    5.MLCLASS          6.MLREG          --- 
      W08 Feb03-Feb07    7.MLMETH           8.NAIVE          --- 
-     W09 Feb10-Feb14    8.IMGCLASS         ---              --- 
-     W10 Feb17-Feb21    8.DeepL            9.DeepL-PSETS    --- 
-     W11 Feb24-Feb28    10.PRE-SUS PROJ    QUIZPREP         QUIZ                       
-     W12 Mar02-Mar06    13.KMEANS          13.KMEANS        --- 
-     W13 Mar09-Mar13    14.PLAN            0.PLAN-SETS      --- 
-     W14 Mar16-Mar20    15.GA              14.SA            ---
-     W15 Mar23-Mar27    15.GA-SA-PSETS     QUIZPREP         QUIZ                        Festivo 23 marzo
-     W16 Ene13-Ene17    PROJECT            PROJECT          --- 
+     W09 Feb10-Feb14    8.IMGCLASS         8.DeepL          --- 
+     W10 Feb17-Feb21    9.DeepL-PSETS      10.PRE-SUS PROJ  ---
+     W11 Feb24-Feb28    QUIZPREP           13.KMEANS        QUIZ
+     W12 Mar02-Mar06    13.KMEANS          14.PLAN          --- 
+     W13 Mar09-Mar13    0.PLAN-SETS        15.GA            --- 
+     W14 Mar16-Mar20    14.SA              15.GA-SA-PSETS   ---
+     W15 Mar23-Mar27    ---                QUIZPREP         QUIZ                        Festivo 23 marzo
+     W16 Mar30-Abr03    PROJECT            PROJECT          --- 
                         
 
     Feb03 -        -> Registro primera calificación
     Feb09 -        -> Último día cancelación materias
-    
     Mar27 -        -> Finalización clase
     Mar30-Abr03    -> Evaluaciones finales
     Abr03 -        -> Registro calificaciones finales
