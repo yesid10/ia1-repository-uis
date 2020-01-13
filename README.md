@@ -119,14 +119,15 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W15 Ene13-Ene17    PROJECT            PROJECT          ---           
                         
 
-    Oct26 -        -> Registro primera calificación
-    Oct27 -        -> Último día cancelación materias
-    Dic23-Ene15    -> Vacaciones docentes
-    Ene29 -        -> Finalización clase
-    Ene30-Feb08    -> Evaluaciones finales
-    Feb08 -        -> Registro calificaciones finales
+    Feb03 -        -> Registro primera calificación
+    Feb09 -        -> Último día cancelación materias
     
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)
+    Mar27 -        -> Finalización clase
+    Mar30-Abr03    -> Evaluaciones finales
+    Abr03 -        -> Registro calificaciones finales
+    
+<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS%**
