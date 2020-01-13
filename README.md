@@ -102,21 +102,22 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
                         SESSION 1            SESSION 2      SESSION SATURDAY            STUDENT DEADLINES
 
-     W01 Sep16-Sep20    0.Intro            1.PYTHON         ---
+     W01 Sep16-Sep20    0.Intro            1.PYTHON         --- 
      W02 Sep23-Sep27    ---                ---              ---                         U18-participate in one challenge
-     W03 Sep30-Oct04    2.PANDAS           3.STATS          ---
+     W03 Sep30-Oct04    2.PANDAS           3.STATS          --- 
      W04 Oct07-Oct11    3.STATS-PSETS      4.BAYES          --- 
-     W05 Oct14-Oct18    4.BAYES-PSETS      QUIZPREP         QUIZ                        Festivo 14 Octubre
-     W06 Oct21-Oct25    5.MLCLASS          6.MLREG                                      Oct26 Registro primera calificación
-     W07 Oct28-Nov01    7.MLMETH           8.NAIVE          ---
-     W08 Nov04-Nov08    8.IMGCLASS         ---              ---                         Festivo 04 Noviembre, SIPAIM
-     W09 Nov11-Nov15    8.DeepL            9.DeepL-PSETS    ---                         Festivo 11 Noviembre
-     W10 Nov18-Nov22    10.PRE-SUS PROJ    QUIZPREP         QUIZ                       
-     W11 Nov25-Nov29    13.KMEANS          13.KMEANS        ---
-     W12 Dic02-Dic06    14.PLAN            0.PLAN-SETS      ---
-     W13 Dic09-Dic13    15.GA              14.SA      ---
-     W14 Dic16-Dic20    15.GA-SA-PSETS     QUIZPREP         QUIZ                         Vacaciones - (Diciembre 23 - Enero 15)
-     W15 Ene13-Ene17    PROJECT            PROJECT          ---           
+     W05 Ene13-Ene17    ---                QUIZPREP         --- 
+     W06 Ene20-Ene24    4.BAYES-PSETS      QUIZPREP         QUIZ
+     W07 Ene27-Ene31    5.MLCLASS          6.MLREG          --- 
+     W08 Feb03-Feb07    7.MLMETH           8.NAIVE          --- 
+     W09 Feb10-Feb14    8.IMGCLASS         ---              --- 
+     W10 Feb17-Feb21    8.DeepL            9.DeepL-PSETS    --- 
+     W11 Feb24-Feb28    10.PRE-SUS PROJ    QUIZPREP         QUIZ                       
+     W12 Mar02-Mar06    13.KMEANS          13.KMEANS        --- 
+     W13 Mar09-Mar13    14.PLAN            0.PLAN-SETS      --- 
+     W14 Mar16-Mar20    15.GA              14.SA            ---
+     W15 Mar23-Mar27    15.GA-SA-PSETS     QUIZPREP         QUIZ                        Festivo 23 marzo
+     W16 Ene13-Ene17    PROJECT            PROJECT          --- 
                         
 
     Feb03 -        -> Registro primera calificación
