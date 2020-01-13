@@ -79,12 +79,12 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
 ## Online Courses (MOOC) [Extra]
 
-El avance vertiginoso de la tecnología nos obliga a adquirir destresas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curso se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+El avance vertiginoso de la tecnología nos obliga a adquirir destrezas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curso se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
 Tendras que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
 
 - Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
-- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
+- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realización del MOOC
 - Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
