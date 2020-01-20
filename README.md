@@ -114,8 +114,8 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W07 Jan14-Jan15    ---                REVIEW           ---
      W08 Jan21-Jan22    CACEROLAZO         QUIZPREP         ---   
      
-     W09 Jan28-Jan29    5.MLCLASS          6.MLREG          QUIZ           
-     W10 Feb04-Feb05    7.MLMETH           8.NAIVE          --- 
+     W09 Jan28-Jan29    5.MLCLASS          6.MLREG          ---           
+     W10 Feb04-Feb05    7.MLMETH           8.NAIVE          QUIZ (8 Feb) 
      W11 Feb11-Feb12    8.IMGCLASS         8.DeepL          ---
      W12 Feb18-Feb19    9.DeepL-PSETS      10.PRE-SUS PROJ  ---
      W13 Feb25-Feb26    QUIZPREP           QUIZPREP         ---
