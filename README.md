@@ -128,14 +128,15 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
                         
 
-    Feb03 -        -> Registro primera calificación
+    Feb07 -        -> Registro primera calificación
     Feb09 -        -> Último día cancelación materias
     Mar27 -        -> Finalización clase
-    Mar30-Abr03    -> Evaluaciones finales
-    Abr03 -        -> Registro calificaciones finales
+    Mar30-Abr07    -> Evaluaciones finales
+    Abr08 -        -> Registro calificaciones finales
     
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)
+<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)-->
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad001_2020.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS%**
