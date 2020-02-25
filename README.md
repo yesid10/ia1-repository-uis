@@ -117,13 +117,12 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W09 Jan28-Jan29    5.MLCLASS          6.MLCLASS          ---           
      W10 Feb04-Feb05    7.MLREG            8.MLMETH          QUIZ (8 Feb) 
      W11 Feb11-Feb12    8.IMGCLASS         8.DeepL          ---
-     W12 Feb18-Feb19    9.DeepL-PSETS      10.PRE-SUS PROJ  ---
-     W13 Feb25-Feb26    QUIZPREP           QUIZPREP         ---
-     W14 Mar03-Mar04    13.KMEANS          13.KMEANS        QUIZ 
-     W15 Mar10-Mar11    14.PLAN            0.PLAN-SETS      ---
-     W16 Mar17-Mar18    15.GA              15.SA            ---                         Festivo 23 marzo
-     W17 Mar24-Mar25    15.GA-SA-PSETS     QUIZPREP         QUIZ
-     w18 Mar31-Apr01    PROJECT            PROJECT          OPTIONAL MOOC
+     W12 Mar03-Mar04    9.DeepL-PSETS      10.DeepL	   QUIZ (7 Marzo)       
+     W14 Mar10-Mar11    13.KMEANS          13.PRE-SUS PROJ
+     W15 Mar17-Mar18    14.KMEANS          0.PLAN      ---
+     W16 Mar24-Mar25    15.GA              15.SA                                    Festivo 23 
+     W17 Mar31-Apr01    15.GA-SA-PSETS     PROJECT         QUIZ  (04 de Abril) 
+     w18 Apr04-Apr07    PROJECT            ---          OPTIONAL MOOC
 
 
                         
