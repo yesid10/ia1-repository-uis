@@ -116,8 +116,8 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      
      W09 Jan28-Jan29    5.MLCLASS          6.MLCLASS          ---           
      W10 Feb04-Feb05    7.MLREG            8.MLMETH          QUIZ (8 Feb) 
-     W11 Feb11-Feb12    8.IMGCLASS         8.DeepL          ---
-     W12 Mar03-Mar04    9.DeepL-PSETS      10.DeepL	   QUIZ (7 Marzo)       
+     W11 Feb25-Feb26    8.MLMETH           9.IMGCLASS          ---
+     W12 Mar03-Mar04    9.DeepL            10.DeepL-PSETS   QUIZ (7 Marzo)       
      W14 Mar10-Mar11    13.KMEANS          13.PRE-SUS PROJ
      W15 Mar17-Mar18    14.KMEANS          0.PLAN      ---
      W16 Mar24-Mar25    15.GA              15.SA                                    Festivo 23 
