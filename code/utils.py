@@ -27,8 +27,8 @@ def plot_2Ddata_with_boundary(predict,X,y, alpha=.5):
     
 hasdot = os.system("dot")
 if hasdot!=0:
-    print("Installing Graphviz for tree visualization")
+    print ("Installing Graphviz for tree visualization"
     os.system("sudo apt-get update")
     os.system("sudo apt-get install -y graphviz")
 else:
-    print("Graphviz already installed")
+    print( "Graphviz already installed")
