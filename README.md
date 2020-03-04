@@ -6,7 +6,7 @@
 
 _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
                                             
-La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1X3h7U1JTSnKPTVPzVHeflKuOMv0kG3VN/view?usp=sharing)
+La máquina virtual puede descargarse [aquí](https://drive.google.com/open?id=1lymG9E3m6tjblZinOQGDemxc_ZtFFCOW)
 
 ## Colaboratory (Google)
 
