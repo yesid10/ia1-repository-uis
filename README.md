@@ -119,10 +119,10 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W11 Feb25-Feb26    8.MLMETH           9.IMGCLASS          ---
      W12 Mar03-Mar04    9.DeepL            10.DeepL-PSETS   QUIZ (7 Marzo)       
      W14 Mar10-Mar11    13.KMEANS          13.PRE-SUS PROJ
-     W15 Mar17-Mar18    14.KMEANS          0.PLAN      ---
-     W16 Mar24-Mar25    15.GA              15.SA                                    Festivo 23 
+     W15 Mar17-Mar18    14.KMEANS          0.PLAN            VIRTUAL
+     W16 Mar24-Mar25    15.GA              15.SA             VIRTUAL                       Festivo 23 
      W17 Mar31-Apr01    15.GA-SA-PSETS     PROJECT         QUIZ  (04 de Abril) 
-     w18 Apr04-Apr07    PROJECT            ---          OPTIONAL MOOC
+     w18 Apr04-Apr07    PROJECT            ---               OPTIONAL MOOC
 
 
                         
