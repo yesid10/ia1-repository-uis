@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/dasuarezh/proyecto_IA/master/Banner.png" style="width:700px;">
 
-**Objetivo: Predecir la precipitación en la región de Santander utilizando modelos de machine learning**  
+**Objetivo: Predecir la precipitación en la región de Santander utilizando modelos de machine learning**
 
 - Dataset: Modelo ER5, Modelo satelital IMERGm dataset UNGRD
 - Modelo: Regresores basados en redes neuronales y Arboles de decisión
@@ -35,10 +35,7 @@
 
 <img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2170110-2160414/2170110-2160414.jpg" style="width:700px;">
 
-**Objetivo:
-- Predecir el estado vital de pacientes con determinada edad.
-- Trazar y analizar comportamientos estadísticos proporcionados por los datos
-- Implementar el uso de diversos mecanismos vistos en el curso para análisis, predicción y comprobación de acertación en el tratamiento de datos**  
+**Objetivo: Predecir el estado vital de pacientes con determinada edad. Trazar y analizar comportamientos estadísticos proporcionados por los datos. Implementar el uso de diversos mecanismos vistos en el curso para análisis, predicción y comprobación de acertación en el tratamiento de datos**
 
 - Dataset: Novel Corona Virus 2019 Dataset, DXY.cn
 - Modelo: SVC (Support Vector Classifier), KNeighborsClassifier, GaussianNB, DecisionTreeClassifier, RandomForestClassifier
