@@ -56,7 +56,7 @@
 - Dataset: Medical Speech, Transcription, and Intent.
 - Modelo: Redes neuronales con Tensorflow y Fastai.
 
-[(code)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio) [(video)](https://www.youtube.com/watch?v=MA9LT2hE7s0) [(+info)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio/blob/master/Presentation%20(Diapositivas)/Proyecto_IA.pptx)
+[(code)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio) [(video)](https://www.youtube.com/watch?v=MA9LT2hE7s0) [(+info)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio/blob/master/Presentation%20(Diapositivas)/Proyecto_IA.pdf)
 
 ---
 
