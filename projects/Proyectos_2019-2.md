@@ -9,6 +9,9 @@
 1. [Predicción de eventos extremos de precipitación](#proy1)
 
 2. [Análisis estadístico sobre Covid-19](#proy2)
+
+3. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy3)
+
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
@@ -40,5 +43,21 @@
 
 
 [(code)](https://github.com/camilosanmiguel/IA-covid-Uis) [(video)](https://www.youtube.com/watch?v=lVA7GA7Thyk) [(+info)](https://github.com/camilosanmiguel/IA-covid-Uis/blob/master/DiapositivasIA.pdf)
+
+---
+
+## Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto <a name="proy3"></a>
+
+**Autores: Martinez Estrada Emmanuel David - Riveros Gomez Maria Paula - Serrano Villanova Laura Daniela**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2162134-2162113-2162135/2162134-2162113-2162135.jpg" style="width:700px;">
+
+**Objetivo: Clasificar dolencias a partir de la descripción dada por los pacientes a través de los audios y textos.**
+
+- Dataset: (síntomas en audio y texto)
+- Modelo: Deep learning
+
+
+[(code)](NaN) [(video)](https://www.youtube.com/watch?v=MA9LT2hE7s0) [(+info)](NaN)
 
 ---
