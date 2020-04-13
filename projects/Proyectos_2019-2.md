@@ -10,6 +10,8 @@
 2. [Análisis estadístico sobre Covid-19](#proy2)
 3. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy3)
 4. [Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad](#proy4)
+5. [Estudio de delitos sexuales en Colombia](#proy5)
+
 
 ---
 
@@ -72,3 +74,20 @@
 - Modelo: Redes neuronales con Tensorflow y Keras.
 
 [(code)](https://github.com/jessicapedraza29/Proyecto_IA) [(video)](https://www.youtube.com/watch?v=6LP1-RKJQwQ) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2151853/2151853.pdf)
+
+---
+
+## Estudio de delitos sexuales en Colombia <a name="proy5"></a>
+
+**Autores: Juan Pablo Viviescas - Sergio Dulcey - Eduard Caballero**
+
+<img src="https://raw.githubusercontent.com/eduardcaballero/DelitosSexuales/master/NoteBook/delitos_sexuales.jpg" style="width:700px;">
+
+**Objetivo: Realizar una predicción del dia de la semana, hora y municipio en que ocurre un posible delito sexual, por medio de un análisis de datos proporcionados por la policía nacional de Colombia.**
+
+- Dataset: Delitos sexuales 2019, Datos abiertos Colombia.
+- Modelo: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier y XGBClassifier.
+
+[(code)](https://github.com/eduardcaballero/DelitosSexuales) [(video)](https://www.youtube.com/watch?v=ZKe4nODYyuA) [(+info)](https://github.com/eduardcaballero/DelitosSexuales/blob/master/Presentation/Delitos_sexuales.pdf)
+
+---
