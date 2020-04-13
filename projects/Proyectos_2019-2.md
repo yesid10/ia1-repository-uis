@@ -7,10 +7,9 @@
 
 # Lista de Proyectos
 1. [Predicción de eventos extremos de precipitación](#proy1)
-
 2. [Análisis estadístico sobre Covid-19](#proy2)
-
 3. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy3)
+4. [Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad](#proy4)
 
 ---
 
@@ -54,10 +53,22 @@
 
 **Objetivo: Clasificar dolencias a partir de la descripción dada por los pacientes a través de los audios y textos.**
 
-- Dataset: (síntomas en audio y texto)
-- Modelo: Deep learning
+- Dataset: Medical Speech, Transcription, and Intent.
+- Modelo: Redes neuronales con Tensorflow y Fastai.
 
-
-[(code)](NaN) [(video)](https://www.youtube.com/watch?v=MA9LT2hE7s0) [(+info)](NaN)
+[(code)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio) [(video)](https://www.youtube.com/watch?v=MA9LT2hE7s0) [(+info)](https://github.com/Enmartz/Clasificacion-de-dolencias-mediante-texto-y-audio/blob/master/Presentation%20(Diapositivas)/Proyecto_IA.pptx)
 
 ---
+
+## Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad <a name="proy4"></a>
+
+**Autores: Jessica Fernanda Pedraza Cadena**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2151853/2151853.jpg" style="width:700px;">
+
+**Objetivo: Se pretende entrenar una red neuronal para que aprenda a clasificar por sí sola si una persona tiene retinopatía diabética y la gravedad o la etapa en la que se encuentra.**
+
+- Dataset: Diabetic Retinopathy 224x224 Gaussian Filtered, dataset.
+- Modelo: Redes neuronales con Tensorflow y Keras.
+
+[(code)](https://github.com/jessicapedraza29/Proyecto_IA) [(video)](https://www.youtube.com/watch?v=6LP1-RKJQwQ) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2151853/2151853.pdf)
