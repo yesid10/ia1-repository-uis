@@ -11,6 +11,7 @@
 3. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy3)
 4. [Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad](#proy4)
 5. [Estudio de delitos sexuales en Colombia](#proy5)
+6. [Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito](#proy6)
 
 
 ---
@@ -89,5 +90,20 @@
 - Modelo: DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier y XGBClassifier.
 
 [(code)](https://github.com/eduardcaballero/DelitosSexuales) [(video)](https://www.youtube.com/watch?v=ZKe4nODYyuA) [(+info)](https://github.com/eduardcaballero/DelitosSexuales/blob/master/Presentation/Delitos_sexuales.pdf)
+
+---
+
+## Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito <a name="proy6"></a>
+
+**Autores: Jonattan Stivent Vargas Camacho - Jonathan Buitrago**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2163024-2142612/2163024-2142612.jpg" style="width:700px;">
+
+**Objetivo: Prestar un servicio para predecir con la mayor exactitud posible el costo de la atención hospitalaria de accidentes de tránsito en Bucaramanga.**
+
+- Dataset: Costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito enero 2018 a octubre 2019, Datos abiertos Colombia.
+- Modelo: DecisionTreeRegressor, RandomForestRegressor, SVR, KMeans.
+
+[(code)](https://github.com/J0bU/aiUIS) [(video)](https://www.youtube.com/watch?v=aVp1CeQiuww) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2163024-2142612/2163024-2142612.pdf)
 
 ---
