@@ -29,18 +29,21 @@
 
 ---
 
-## NaN <a name="proy2"></a>
+## ANÁLISIS ESTADÍSTICO SOBRE COVID-19 <a name="proy2"></a>
 
 **Autores: Amaya Garcia Luis Miguel - Sanmiguel Arenas Camilo Enrique**
 
-<img src="NaN" style="width:700px;">
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2170110-2160414/2170110-2160414.jpg" style="width:700px;">
 
-**Objetivo: NaN**  
+**Objetivo:
+- Predecir el estado vital de pacientes con determinada edad.
+- Trazar y analizar comportamientos estadísticos proporcionados por los datos
+- Implementar el uso de diversos mecanismos vistos en el curso para análisis, predicción y comprobación de acertación en el tratamiento de datos**  
 
-- Dataset: NaN
-- Modelo: NaN
+- Dataset: Novel Corona Virus 2019 Dataset, DXY.cn
+- Modelo: SVC (Support Vector Classifier), KNeighborsClassifier, GaussianNB, DecisionTreeClassifier, RandomForestClassifier
 
 
-[(code)](https:NaN) [(video)](https:NaN) [(+info)](https:NaN)
+[(code)](https://github.com/camilosanmiguel/IA-covid-Uis) [(video)](https://www.youtube.com/watch?v=lVA7GA7Thyk) [(+info)](https://github.com/camilosanmiguel/IA-covid-Uis/blob/master/DiapositivasIA.pdf)
 
 ---
