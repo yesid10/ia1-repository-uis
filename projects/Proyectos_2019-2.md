@@ -8,7 +8,7 @@
 # Lista de Proyectos
 1. [Predicción de eventos extremos de precipitación](#proy1)
 
-2. NaN(#proyNaN)
+2. [Predicción de eventos extremos de precipitación](#proy2)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
@@ -29,9 +29,9 @@
 
 ---
 
-## NaN <a name="proyNaN"></a>
+## NaN <a name="proy2"></a>
 
-**Autores: NaN**
+**Autores: Amaya Garcia Luis Miguel - Sanmiguel Arenas Camilo Enrique**
 
 <img src="NaN" style="width:700px;">
 
