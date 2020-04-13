@@ -8,14 +8,12 @@
 # Lista de Proyectos
 1. [Predicción de eventos extremos de precipitación](#proy1)
 
-2. [Predicción de eventos extremos de precipitación](#proy2)
+2. [Análisis estadístico sobre Covid-19](#proy2)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
 
 **Autores: Danilo Andres Suarez Higuita**
-
-
 
 <img src="https://raw.githubusercontent.com/dasuarezh/proyecto_IA/master/Banner.png" style="width:700px;">
 
@@ -29,7 +27,7 @@
 
 ---
 
-## ANÁLISIS ESTADÍSTICO SOBRE COVID-19 <a name="proy2"></a>
+## Análisis estadístico sobre Covid-19 <a name="proy2"></a>
 
 **Autores: Amaya Garcia Luis Miguel - Sanmiguel Arenas Camilo Enrique**
 
