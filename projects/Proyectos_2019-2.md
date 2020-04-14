@@ -19,6 +19,7 @@
 11. [Radiación Solar](#proy11)
 12. [Reconocimiento de emociones por voz](#proy12)
 13. [Análisis de calidad de vida en Colombia](#proy13)
+14. [Proyecto Next Earthquake](#proy14)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
