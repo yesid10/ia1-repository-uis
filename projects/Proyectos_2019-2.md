@@ -20,6 +20,7 @@
 12. [Reconocimiento de emociones por voz](#proy12)
 13. [Análisis de calidad de vida en Colombia](#proy13)
 14. [Proyecto Next Earthquake](#proy14)
+15. [Análisis de pacientes y sus principales causas de afecciones](#proy15)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
@@ -237,4 +238,18 @@
 
 [(code)](https://github.com/oscarandres16/nexthearthquake) [(video)](https://www.youtube.com/watch?v=dmtA5YXZE4c) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2019-2/2161327-2131799-2161336/2161327-2131799-2161336.pdf)
 
+---
+
+## Análisis de pacientes y sus principales causas de afecciones <a name="proy15"></a>
+
+**Autores: Sebastián Cárdenas Acevedo - Javier David Landazabal Landazabal**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2161062-2151482/2161062-2151482.jpg" style="width:700px;">
+
+**Objetivo: este proyecto propone una manera rápida y efectiva de poder prevenir los padecimientos de los pacientes de manera que puede facilitar el trabajo de miles de médicos que a diario exponen sus vidas.**
+
+- Dataset: Atención médica 2016, Datos abiertos Colombia.
+- Modelo: RandomForestClassifier, GaussianNB, Support Vector Machine
+
+[(code)](https://github.com/LandaAzul/proyectoIA) [(video)](https://www.youtube.com/watch?v=yZ9oFdyTb4c) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2019-2/2161062-2151482/2161062-2151482.pdf)
 
