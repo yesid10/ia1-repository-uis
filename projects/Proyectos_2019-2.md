@@ -2,18 +2,22 @@
 # Proyectos 2019-1. Inteligencia Artificial. 
 
 ## Prof: Fabio Martínez, Ph.D
-
+## Prof: Gustavo Garzón
 ---
 
 # Lista de Proyectos
 1. [Predicción de eventos extremos de precipitación](#proy1)
 2. [Análisis estadístico sobre Covid-19](#proy2)
-3. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy3)
-4. [Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad](#proy4)
-5. [Estudio de delitos sexuales en Colombia](#proy5)
-6. [Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito](#proy6)
-
-
+3. [IA_chest-xray-pneumonia: predicción de neumonía en Rx](#proy3)
+4. [Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto](#proy4)
+5. [TSIGN: reconocimiento de lenguaje de señas americano](#proy5)
+6. [Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad](#proy6)
+7. [Clasificador Musical](#proy7)
+8. [Estudio de delitos sexuales en Colombia](#proy8)
+9. [Accidentes de Transito y Costos de Atencion Hospitalaria](#proy9)
+10. [Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito](#proy10)
+11. [Radiacción Solar](#proy11)
+12. [Reconocimiento de emociones por voz](#proy12)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
@@ -47,8 +51,23 @@
 [(code)](https://github.com/camilosanmiguel/IA-covid-Uis) [(video)](https://www.youtube.com/watch?v=lVA7GA7Thyk) [(+info)](https://github.com/camilosanmiguel/IA-covid-Uis/blob/master/DiapositivasIA.pdf)
 
 ---
+## IA_chest-xray-pneumonia: predicción de neumonía en Radiografias de torax <a name="proy2"></a>
 
-## Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto <a name="proy3"></a>
+**Autores: Natalia Gómez, Nicolás Ramirez**
+
+<img src="https://raw.githubusercontent.com/nataliaalbiadez/IA_chest-xray-pneumonia/master/Banner.jpg" style="width:700px;">
+
+**Objetivo: Detectar Neumonía Empleando Radiografías de Tórax a través de redes Neuronales**  
+
+- Dataset: Disponible en Kaggle [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia#person1000_bacteria_2931.jpeg)
+- Modelo: Redes neuronales profundas
+
+
+[(code)](https://github.com/nataliaalbiadez/IA_chest-xray-pneumonia) [(video)](https://youtu.be/GbLDiErGXzY) [(+info)](https://github.com/nataliaalbiadez/IA_chest-xray-pneumonia/blob/master/INTELIGENCIA_DIAPO.pdf)
+
+---
+
+## Identificación de dolencias a partir de información suministrada por pacientes mediante audio y texto <a name="proy4"></a>
 
 **Autores: Martinez Estrada Emmanuel David - Riveros Gomez Maria Paula - Serrano Villanova Laura Daniela**
 
@@ -63,7 +82,24 @@
 
 ---
 
-## Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad <a name="proy4"></a>
+## TSIGN: reconocimiento de lenguaje de señas americano <a name="proy5"></a>
+
+**Autores: Sofia Torres, Sebastian Garcia, Yeison Valencia, Daniel Ardila**
+
+<img src="https://raw.githubusercontent.com/sofiat99/TSIGN-cv/master/Banner.jpeg" style="width:700px;">
+
+**Objetivo: Reconocer lenguaje de señas**  
+
+- Dataset: Lenguaje de Señas americano
+- Modelo: BoW, Backgroun substraction, DNN, CNN, Random forest, SVM
+
+
+[(code)](https://github.com/sofiat99/TSIGN-cv) [(video)](https://www.youtube.com/watch?v=AGOJ_qRG0Rc) [(+info)](https://www.canva.com/design/DAD2P6_P5zY/c6wfwcfF2UmP0qpoEPR4Xw/view?utm_content=DAD2P6_P5zY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+---
+
+
+## Clasificación de imágenes de retinopatía diabética de acuerdo a su gravedad <a name="proy6"></a>
 
 **Autores: Jessica Fernanda Pedraza Cadena**
 
@@ -78,7 +114,23 @@
 
 ---
 
-## Estudio de delitos sexuales en Colombia <a name="proy5"></a>
+## Clasificador Musical <a name="proy7"></a>
+
+**Autores: David Castro, Wilder Rojas**
+
+<img src="https://raw.githubusercontent.com/DavidCastro-IA/ClasificadorMusical/master/Banner.jpeg" style="width:700px;">
+
+**Objetivo: Clasificar piezas de audio basado en caracteristicas de los generos musicales**  
+
+- Dataset: Opihi, Kaggle [link](http://opihi.cs.uvic.ca/sound/genres.tar.gz)
+- Modelo: DNN, non-supervised, RF
+
+
+[(code)](https://github.com/DavidCa) [(video)](https://www.youtube.com/watch?v=boDPZP72) [(+info)](https://github.com/DavidCastro-IA/ClasificadorMusical/blob/master/Presentaci%C3%B3n.pptx)
+
+---
+
+## Estudio de delitos sexuales en Colombia <a name="proy8"></a>
 
 **Autores: Juan Pablo Viviescas - Sergio Dulcey - Eduard Caballero**
 
@@ -93,7 +145,25 @@
 
 ---
 
-## Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito <a name="proy6"></a>
+## Accidentes de Transito y Costos de Atencion Hospitalaria <a name="proy9"></a>
+
+**Autores: Elkin Fernandez, Jeferson Dominguez, Christian Camacho**
+
+<img src="https://www.policia.gov.co/sites/default/files/styles/2000/public/foto-direccion-transito-y-transporte.jpg?itok=pBKlsdpz" style="width:400px;">
+
+**Objetivo: Estimar los riesgos de gasto hospitalario debido a los accidentes de transito**  
+
+- Dataset: dataset que presentaba costos hospitalarios en la ciudad de Bucaramanga, acompañado de un registro de 19643 casos, en campos tales como: edad, sexo, fecha del accidente, costos, EPS, entre otros [data](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Costos-de-la-atenci-n-hospitalaria-en-Bucaramanga-/g4vd-w4ip)
+- Modelo: SVM, DNN, RF
+
+
+[(code)](https://gitlab.com/elkinfernandez21/proyectoartificial/-/blob/master/ProyectoFinal2.ipynb) [(video)](https://drive.google.com/drive/folders/1JvxQLWlzmajyCjHbcxwWpkZsRhxNlswq) [(+info)](https://gitlab.com/elkinfernandez21/proyectoartificial/-/blob/master/Video/EstimadorCostos.pptx)
+
+---
+
+
+
+## Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito <a name="proy10"></a>
 
 **Autores: Jonattan Stivent Vargas Camacho - Jonathan Buitrago**
 
@@ -105,5 +175,37 @@
 - Modelo: DecisionTreeRegressor, RandomForestRegressor, SVR, KMeans.
 
 [(code)](https://github.com/J0bU/aiUIS) [(video)](https://www.youtube.com/watch?v=aVp1CeQiuww) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2163024-2142612/2163024-2142612.pdf)
+
+---
+
+## Radiacción Solar <a name="proy11"></a>
+
+**Autores: Jhoan Diaz, Nestor Infante, Daniel Perez**
+
+<img src="https://raw.githubusercontent.com/NesttorIvan/IA-Project/master/imgs/Banner1.png" style="width:400px;">
+
+**Objetivo: Predecir el indice de radiación**  
+
+- Dataset: [dispnible](https://github.com/NesttorIvan/IA-Project/tree/master/data/csv)
+- Modelo: SVM, DT, RF
+
+
+[(code)](https://github.com/NesttorIvan/IA-Project) [(video)](https://drive.google.com/drive/folders/1luk7rIgQaLTVv2VMBDKHrQlUd-zOL9Y-?usp=sharing
+) [(+info)](https://github.com/NesttorIvan/IA-Project/blob/master/RadiacionSolar-IA.pdf)
+
+---
+## Reconocimiento de acciones por voz<a name="proy12"></a>
+
+**Autores: Mario Hernan Vallejo Huertas **
+
+<img src="https://raw.githubusercontent.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/master/banner.jpg" style="width:700px;">
+
+**Objetivo: Identificar emociones humanas a partir de grabaciones de voz**  
+
+- Dataset: CREMAD4 con   7442 audios y 91 actores
+- Modelo: DNN
+
+
+[(code)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me) [(video)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Video.mp4) [(+info)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Presentaci%C3%B3n.pptx.pdf)
 
 ---
