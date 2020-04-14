@@ -16,8 +16,9 @@
 8. [Estudio de delitos sexuales en Colombia](#proy8)
 9. [Accidentes de Transito y Costos de Atencion Hospitalaria](#proy9)
 10. [Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito](#proy10)
-11. [Radiacción Solar](#proy11)
+11. [Radiación Solar](#proy11)
 12. [Reconocimiento de emociones por voz](#proy12)
+13. [Análisis de calidad de vida en Colombia](#proy13)
 ---
 
 ## Predicción de eventos extremos de precipitación <a name="proy1"></a>
@@ -161,8 +162,6 @@
 
 ---
 
-
-
 ## Proyección de costos de la atención hospitalaria en Bucaramanga por accidentes de tránsito <a name="proy10"></a>
 
 **Autores: Jonattan Stivent Vargas Camacho - Jonathan Buitrago**
@@ -178,7 +177,7 @@
 
 ---
 
-## Radiacción Solar <a name="proy11"></a>
+## Radiación Solar <a name="proy11"></a>
 
 **Autores: Jhoan Diaz, Nestor Infante, Daniel Perez**
 
@@ -186,7 +185,7 @@
 
 **Objetivo: Predecir el indice de radiación**  
 
-- Dataset: [dispnible](https://github.com/NesttorIvan/IA-Project/tree/master/data/csv)
+- Dataset: [disponible](https://github.com/NesttorIvan/IA-Project/tree/master/data/csv)
 - Modelo: SVM, DT, RF
 
 
@@ -194,9 +193,10 @@
 ) [(+info)](https://github.com/NesttorIvan/IA-Project/blob/master/RadiacionSolar-IA.pdf)
 
 ---
-## Reconocimiento de acciones por voz<a name="proy12"></a>
 
-**Autores: Mario Hernan Vallejo Huertas **
+## Reconocimiento de acciones por voz <a name="proy12"></a>
+
+**Autores: Mario Hernan Vallejo Huertas**
 
 <img src="https://raw.githubusercontent.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/master/banner.jpg" style="width:700px;">
 
@@ -209,3 +209,18 @@
 [(code)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me) [(video)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Video.mp4) [(+info)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Presentaci%C3%B3n.pptx.pdf)
 
 ---
+
+## Análisis de calidad de vida en Colombia <a name="proy13"></a>
+
+**Autores: Iván Castillo - Juan Castellanos - Gabriela Vega**
+
+<img src="https://raw.githubusercontent.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/master/banner.jpg" style="width:700px;">
+
+**Objetivo: Identificar emociones humanas a partir de grabaciones de voz**  
+
+- Dataset: CREMAD4 con   7442 audios y 91 actores
+- Modelo: DNN
+
+
+[(code)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me) [(video)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Video.mp4) [(+info)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Presentaci%C3%B3n.pptx.pdf)
+
