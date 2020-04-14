@@ -188,7 +188,6 @@
 - Dataset: [disponible](https://github.com/NesttorIvan/IA-Project/tree/master/data/csv)
 - Modelo: SVM, DT, RF
 
-
 [(code)](https://github.com/NesttorIvan/IA-Project) [(video)](https://drive.google.com/drive/folders/1luk7rIgQaLTVv2VMBDKHrQlUd-zOL9Y-?usp=sharing
 ) [(+info)](https://github.com/NesttorIvan/IA-Project/blob/master/RadiacionSolar-IA.pdf)
 
@@ -202,9 +201,8 @@
 
 **Objetivo: Identificar emociones humanas a partir de grabaciones de voz**  
 
-- Dataset: CREMAD4 con   7442 audios y 91 actores
+- Dataset: CREMAD4 con 7442 audios y 91 actores
 - Modelo: DNN
-
 
 [(code)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me) [(video)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Video.mp4) [(+info)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Presentaci%C3%B3n.pptx.pdf)
 
@@ -214,13 +212,28 @@
 
 **Autores: Iván Castillo - Juan Castellanos - Gabriela Vega**
 
-<img src="https://raw.githubusercontent.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/master/banner.jpg" style="width:700px;">
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2162119-2160023-2161671/2162119-2160023-2161671.jpg" style="width:700px;">
 
-**Objetivo: Identificar emociones humanas a partir de grabaciones de voz**  
+**Objetivo: Clasificar por vivienda y servicios básicos las características que influyen en la calidad de vida de los hogares colombianos.**  
 
-- Dataset: CREMAD4 con   7442 audios y 91 actores
-- Modelo: DNN
+- Dataset: Cerca 88k registros de respuestas en la Encuesta de Calidad de Vida (DANE) y 35 caracteristicas, entre las cuales están tipo de vivienda y estrato.
+- Modelo: Clasificadores - Random Forest, Support Vectorial Machine, Decision Tree
 
+[(code)](https://github.com/ivanrcas/ACV_ai_project/blob/master/proyecto/ACV_ai_project.ipynb) [(video)](https://www.youtube.com/watch?v=zqZ8ipQfqRk) [(+info)](https://github.com/ivanrcas/ACV_ai_project/blob/master/proyecto/presentacion_ACV_ai_project.pdf)
 
-[(code)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me) [(video)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Video.mp4) [(+info)](https://github.com/mayito123/Reconocimiento-de-emociones-por-voz-para-la-determinaci-n-de-la-validez-de-llamadas-de-emergencia-me/blob/master/Presentaci%C3%B3n.pptx.pdf)
+---
+
+## Proyecto Next Earthquake <a name="proy14"></a>
+
+**Autores: Oscar Gil Gamez - Hordan Navarro - Jhon Parra Rodriguez**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2019-2/2161327-2131799-2161336/2161327-2131799-2161336.jpg" style="width:700px;">
+
+**Objetivo: predecir futuros terremotos para proteger a las comunidades donde se encuentra el sismo.**
+
+- Dataset: Reporte de Sismicidad del Servicio Geológico Colombiano-Año 2015, Datos abiertos Colombia
+- Modelo: DecisionTreeRegressor, RandomForestRegressor, LogisticRegressor, SVR
+
+[(code)](https://github.com/oscarandres16/nexthearthquake) [(video)](https://www.youtube.com/watch?v=dmtA5YXZE4c) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2019-2/2161327-2131799-2161336/2161327-2131799-2161336.pdf)
+
 
