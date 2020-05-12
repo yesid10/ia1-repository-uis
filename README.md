@@ -1,10 +1,12 @@
-# Inteligencia Artificial I 2019-2
+<!-- # Inteligencia Artificial I 2019-2 -->
+
+# Inteligencia Artificial I 2020-1
 
 ## Bienvenidos!
 
 <img src="/imgs/img_IA.jpg" style="width:400px;">
 
-_Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
+<!-- _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8) -->
                                             
 La máquina virtual puede descargarse [aquí](https://drive.google.com/open?id=1lymG9E3m6tjblZinOQGDemxc_ZtFFCOW)
 
@@ -39,12 +41,14 @@ Alternativamente, usaremos esta máquina virtual que tiene instalado un entorno 
 ## Calificación
 - 40% Talleres (Problemsets)
 - 30% Parciales (Quizes) 
-- 30 % + [10% ,20 %, 30 %] Proyecto funcional IA 
-    - 10% -> Hasta + una unidad en una nota de un 10% (los parciales por ejemplo) o su equivalente en otros porcentajes. 
-    - Las notas o porcentajes adicionales se obtienen si fueron puntuales en todas las entregas. 
-- +10% Online courses (MOOC). 
-    - Esta vez, unicamente se aceptan cursos relacionados con I.A., machine learning, análisis de datos, o tecnologías relacionadas.
-    - Solo se evalua el curso, si ha sido previamente aprobado antes del primer corte. 
+- 30% Proyecto funcional IA 
+
+<!-- - 10% -> Hasta + una unidad en una nota de un 10% (los parciales por ejemplo) o su equivalente en otros porcentajes. 
+    - Las notas o porcentajes adicionales se obtienen si fueron puntuales en todas las entregas. -->
+
+<!-- +10% Online courses (MOOC).
+- Esta vez, unicamente se aceptan cursos relacionados con I.A., machine learning, análisis de datos, o tecnologías relacionadas.
+- Solo se evalua el curso, si ha sido previamente aprobado antes del primer corte. -->
 
 ## Talleres (Problemsets)
 
@@ -60,10 +64,10 @@ Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados 
 
 - **Funcionamiento del proyecto**. El proyecto se debe realizar como un notebook.  
 
-- **Prototipo [+10% - +20%]**:  En este item se considera como esta estructurado el proyecto. Los porcentajes extras tienen en cuenta importancia o relevancia de 
-del proyecto y también la solución a problemas  reales.
+- **Prototipo**:  En este item se considera como esta estructurado el proyecto. Los porcentajes extras tienen en cuenta importancia o relevancia de 
+del proyecto y también la solución a problemas reales.
 
-- **Presentación (banner, video y diapositivas) [+ 10%]**:  Se debe enviar un video corto (max 5 minutos) y un documento de máximo 5 páginas en donde se exponga: 
+- **Presentación (banner, video y diapositivas)**:  Se debe enviar un video corto (max 5 minutos) y un documento de máximo 5 páginas en donde se exponga: 
 
 1- La motivación para el desarrollo del proyecto
 2- El tema principal de inteligencia artificial abordado
@@ -74,10 +78,10 @@ del proyecto y también la solución a problemas  reales.
  
 Todos los items tienen el mismo porcentaje de evaluación. 
 
-- **PRE-SUS PROJ**: En la presustentación del proyecto se deben presentar avances y se dará un estimado de la nota definitiva. En las siguientes semanas se tendrá chance de mejorar la nota según previas observaciones. 
+<!-- - **PRE-SUS PROJ**: En la presustentación del proyecto se deben presentar avances y se dará un estimado de la nota definitiva. En las siguientes semanas se tendrá chance de mejorar la nota según previas observaciones. -->
 
 
-## Online Courses (MOOC) [Extra]
+<!--## Online Courses (MOOC) [Extra]
 
 El avance vertiginoso de la tecnología nos obliga a adquirir destrezas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curso se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
 
@@ -95,7 +99,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 - CALIDAD DEL REPORTE 
 - CLARIDAD DEL REPORTE
 
-**UNICAMENTE SE TENDRAN EN CUENTA LOS MOOC QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**
+**UNICAMENTE SE TENDRAN EN CUENTA LOS MOOC QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**-->
 
 
 ## Calendario y plazos
@@ -103,7 +107,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
                         SESSION 1            SESSION 2      SESSION SATURDAY            STUDENT DEADLINES
 
      W01 Sep16-Sep20    0.Intro            1.PYTHON         --- 
-     W02 Sep23-Sep27    ---                ---              ---                         U18-participate in one challenge
+     W02 Sep23-Sep27    ---                ---              --- 
      W03 Sep30-Oct04    2.PANDAS           3.STATS          --- 
      W04 Oct07-Oct11    3.STATS-PSETS      4.BAYES          --- 
      W05 Ene13-Ene17    ---                QUIZPREP         --- 
@@ -135,9 +139,9 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
     
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)-->
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad001_2020.pdf)
+<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad001_2020.pdf)-->
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
-**LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS%**
-**DEADLINE DE LOS PROBLEMSETS SERÁN EL DIA DE CADA QUIZ**
+**LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS**
+**DEADLINE DE LOS PROBLEMSETS SERÁ EL DIA DE CADA QUIZ**
 
