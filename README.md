@@ -16,9 +16,9 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 - Necesitas una cuenta de gmail y luego entras a drive
 - Colaboratory es un entorno de notebook de Jupyter gratuito que no requiere configuración y se ejecuta completamente en la nube.
-    - Usaremos parte de la infraestructura de computo de google....by free! (máximo procesos de 8 horas)
+    - Usaremos parte de la infraestructura de computo de google... gratis! (máximo procesos de 8 horas)
 - Con Colaboratory, puedes escribir y ejecutar código, guardar y compartir análisis, y acceder a recursos informáticos potentes, todo gratis en tu navegador.
-- También puedes usar tu recursos de computador Local. 
+- También puedes usar los recursos de computador Local. 
 
 ## Máquina Virtual
 
@@ -69,9 +69,9 @@ del proyecto y también la solución a problemas reales.
 
 - **Presentación (banner, video y diapositivas)**:  Se debe enviar un video corto (max 5 minutos) y un documento de máximo 5 páginas en donde se exponga: 
 
-1- La motivación para el desarrollo del proyecto
-2- El tema principal de inteligencia artificial abordado
-3- funcionamiento y simulación del proyecto
+1. La motivación para el desarrollo del proyecto
+2. El tema principal de inteligencia artificial abordado
+3. funcionamiento y simulación del proyecto
 
 
 - **Preguntas**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
