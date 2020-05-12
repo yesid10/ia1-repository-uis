@@ -129,17 +129,42 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      w18 Apr04-Apr07    PROJECT            ---               OPTIONAL MOOC
 
 
+     W01 May19-May20    Intro            Python (a)            
+     W02 May26-May27    Python (b)       Pandas (a)
+     W03 Jun02-Jun03    Pandas (b)       Estadística
+     W04 Jun09-Jun10    Estadística      Talleres
+     W05 Jun16-Jun17    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
+     W06 Jun23-Jun24    Intro A.M.S.     Clasificación A.M.S.
+     W07 Jun30-Jul01    Regresión A.M.S. Métodos A.M.S. (a)
+     W08 Jul07-Jul08    Métodos A.M.S. (b) Aplicación A.M.S.
+     W09 Jul14-Jul15    Deep Learning (a) Deep Learning (b)
+     W10 Jul21-Jul22    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
+     W11 Jul28-Jul29    Intro A.M.N.S.   K-means A.M.N.S.
+     W12 Ago04-Ago05    DBScan A.M.N.S.  PRE-SUS PROJ
+     W13 Ago11-Ago12    Planning and S.  Genetic Alg.
+     W14 Ago18-Ago19    Simulated anne.  Aclaraciones
+     W15 Sep01-Sep02    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
+     W16 Sep08-Sep09    Prep. proyectos  Disc. proyectos
+     W17 Sep15-Sep16    Sustentaciones   Sustentaciones
+
+
+
+
+
+
+
                         
 
-    Feb07 -        -> Registro primera calificación
-    Feb09 -        -> Último día cancelación materias
-    Mar27 -        -> Finalización clase
-    Mar30-Abr07    -> Evaluaciones finales
-    Abr08 -        -> Registro calificaciones finales
+    Jul05 -        -> Retroalimentación estudiantes
+    Jul17 -        -> Último día cancelación materias
+    Sep 11         -> Finalización clase
+    Sep12-Sep18    -> Evaluaciones finales
+    Sep19 -        -> Registro calificaciones finales
     
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)-->
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad001_2020.pdf)-->
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad104_2020.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS**
