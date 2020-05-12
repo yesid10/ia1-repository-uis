@@ -71,7 +71,7 @@ del proyecto y también la solución a problemas reales.
 
 1. La motivación para el desarrollo del proyecto
 2. El tema principal de inteligencia artificial abordado
-3. funcionamiento y simulación del proyecto
+3. Funcionamiento y simulación del proyecto
 
 
 - **Preguntas**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
