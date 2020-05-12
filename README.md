@@ -104,56 +104,26 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
 ## Calendario y plazos
 
-                        SESSION 1            SESSION 2      SESSION SATURDAY            STUDENT DEADLINES
+                        SESSION 1            SESSION 2              SESSION SATURDAY
 
-     W01 Sep16-Sep20    0.Intro            1.PYTHON         --- 
-     W02 Sep23-Sep27    ---                ---              --- 
-     W03 Sep30-Oct04    2.PANDAS           3.STATS          --- 
-     W04 Oct07-Oct11    3.STATS-PSETS      4.BAYES          --- 
-     W05 Ene13-Ene17    ---                QUIZPREP         --- 
-     W06 Ene20-Ene24    4.BAYES-PSETS      QUIZPREP         ---
-     ---                ---                ---              ---
-     little break       ---                ----             ---
-     ---                ---                ---              ---  
-     W07 Jan14-Jan15    ---                REVIEW           ---
-     W08 Jan21-Jan22    CACEROLAZO         QUIZPREP         ---   
-     
-     W09 Jan28-Jan29    5.MLCLASS          6.MLCLASS          ---           
-     W10 Feb04-Feb05    7.MLREG            8.MLMETH          QUIZ (8 Feb) 
-     W11 Feb25-Feb26    8.MLMETH           9.IMGCLASS          ---
-     W12 Mar03-Mar04    9.DeepL            10.DeepL-PSETS   QUIZ (7 Marzo)       
-     W14 Mar10-Mar11    13.KMEANS          13.PRE-SUS PROJ
-     W15 Mar17-Mar18    14.KMEANS          0.PLAN            VIRTUAL
-     W16 Mar24-Mar25    15.GA              15.SA             VIRTUAL                       Festivo 23 
-     W17 Mar31-Apr01    15.GA-SA-PSETS     PROJECT         QUIZ  (04 de Abril) 
-     w18 Apr04-Apr07    PROJECT            ---               OPTIONAL MOOC
+     W01 May19-May20    Intro                Python (a)            
+     W02 May26-May27    Python (b)           Pandas (a)
+     W03 Jun02-Jun03    Pandas (b)           Estadística
+     W04 Jun09-Jun10    Estadística          Talleres
+     W05 Jun16-Jun17    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W06 Jun23-Jun24    Intro A.M.S.         Clasificación A.M.S.
+     W07 Jun30-Jul01    Regresión A.M.S.     Métodos A.M.S. (a)
+     W08 Jul07-Jul08    Métodos A.M.S. (b)   Aplicación A.M.S.
+     W09 Jul14-Jul15    Deep Learning (a)    Deep Learning (b)
+     W10 Jul21-Jul22    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W11 Jul28-Jul29    Intro A.M.N.S.       K-means A.M.N.S.
+     W12 Ago04-Ago05    DBScan A.M.N.S.      PRE-SUS PROJ
+     W13 Ago11-Ago12    Planning and S.      Genetic Alg.
+     W14 Ago18-Ago19    Simulated anne.      Aclaraciones
+     W15 Sep01-Sep02    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W16 Sep08-Sep09    Prep. proyectos      Disc. proyectos
+     W17 Sep15-Sep16    Sustentaciones       Sustentaciones
 
-
-     W01 May19-May20    Intro            Python (a)            
-     W02 May26-May27    Python (b)       Pandas (a)
-     W03 Jun02-Jun03    Pandas (b)       Estadística
-     W04 Jun09-Jun10    Estadística      Talleres
-     W05 Jun16-Jun17    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
-     W06 Jun23-Jun24    Intro A.M.S.     Clasificación A.M.S.
-     W07 Jun30-Jul01    Regresión A.M.S. Métodos A.M.S. (a)
-     W08 Jul07-Jul08    Métodos A.M.S. (b) Aplicación A.M.S.
-     W09 Jul14-Jul15    Deep Learning (a) Deep Learning (b)
-     W10 Jul21-Jul22    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
-     W11 Jul28-Jul29    Intro A.M.N.S.   K-means A.M.N.S.
-     W12 Ago04-Ago05    DBScan A.M.N.S.  PRE-SUS PROJ
-     W13 Ago11-Ago12    Planning and S.  Genetic Alg.
-     W14 Ago18-Ago19    Simulated anne.  Aclaraciones
-     W15 Sep01-Sep02    Aclaraciones     Aclaraciones       Valoración cualitativa (V.C.)
-     W16 Sep08-Sep09    Prep. proyectos  Disc. proyectos
-     W17 Sep15-Sep16    Sustentaciones   Sustentaciones
-
-
-
-
-
-
-
-                        
 
     Jul05 -        -> Retroalimentación estudiantes
     Jul17 -        -> Último día cancelación materias
@@ -167,6 +137,8 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad104_2020.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
+
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS**
+
 **DEADLINE DE LOS PROBLEMSETS SERÁ EL DIA DE CADA QUIZ**
 
