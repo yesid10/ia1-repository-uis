@@ -22,7 +22,7 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 ## Máquina Virtual
 
-Alternativamente, usaremos esta máquina virtual que tiene instalado un entorno Python (2) Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
+Alternativamente, usaremos una máquina virtual que tiene instalado un entorno Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
 - Esta opción es util para contestar talleres y para trabajar desde casa. 
 - También para contestar parciales desde la U.
