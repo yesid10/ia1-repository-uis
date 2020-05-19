@@ -43,13 +43,6 @@ Alternativamente, usaremos una máquina virtual que tiene instalado un entorno A
 - 30% Parciales (Quizes) 
 - 30% Proyecto funcional IA 
 
-<!-- - 10% -> Hasta + una unidad en una nota de un 10% (los parciales por ejemplo) o su equivalente en otros porcentajes. 
-    - Las notas o porcentajes adicionales se obtienen si fueron puntuales en todas las entregas. -->
-
-<!-- +10% Online courses (MOOC).
-- Esta vez, unicamente se aceptan cursos relacionados con I.A., machine learning, análisis de datos, o tecnologías relacionadas.
-- Solo se evalua el curso, si ha sido previamente aprobado antes del primer corte. -->
-
 ## Talleres (Problemsets)
 
 Los talleres pretenden ser una herramienta practica para afianzar los conocimientos desarrollados durante las clases. En general se presentan como un conjunto de ejercicios que serán desarrollados **individualmente** por los estudiantes. Cada taller esta escrito como un notebook para la validación automática. Se pueden hacer tantos intentos como se quieran y unicamente la última respuesta será tomada en cuenta. Cada uno de los talleres ser desarrollará en casa, dentro de las fechas establecidas en el cronograma. 
