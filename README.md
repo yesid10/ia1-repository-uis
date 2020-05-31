@@ -103,17 +103,17 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W02 May26-May27    Python (b)           Pandas (a)
      W03 Jun02-Jun03    Pandas (b)           Estadística
      W04 Jun09-Jun10    Estadística          Talleres
-     W05 Jun16-Jun17    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W05 Jun16-Jun17    Aclaraciones         Aclaraciones           Parcial 1
      W06 Jun23-Jun24    Intro A.M.S.         Clasificación A.M.S.
      W07 Jun30-Jul01    Regresión A.M.S.     Métodos A.M.S. (a)
      W08 Jul07-Jul08    Métodos A.M.S. (b)   Aplicación A.M.S.
      W09 Jul14-Jul15    Deep Learning (a)    Deep Learning (b)
-     W10 Jul21-Jul22    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W10 Jul21-Jul22    Aclaraciones         Aclaraciones           parcial 2
      W11 Jul28-Jul29    Intro A.M.N.S.       K-means A.M.N.S.
      W12 Ago04-Ago05    DBScan A.M.N.S.      PRE-SUS PROJ
      W13 Ago11-Ago12    Planning and S.      Genetic Alg.
      W14 Ago18-Ago19    Simulated anne.      Aclaraciones
-     W15 Sep01-Sep02    Aclaraciones         Aclaraciones           Valoración cualitativa (V.C.)
+     W15 Sep01-Sep02    Aclaraciones         Aclaraciones           Parcial 3
      W16 Sep08-Sep09    Prep. proyectos      Disc. proyectos
      W17 Sep15-Sep16    Sustentaciones       Sustentaciones
 
