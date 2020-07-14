@@ -1,11 +1,11 @@
 import os
 def visualize_tree(tree, feature_names):
     from sklearn.tree import export_graphviz
-    with open("/tmp/dt.dot", 'w') as f:
+    with open("dt.dot", 'w') as f:
         export_graphviz(tree, out_file=f, impurity=False, class_names=["blue", "red"],
                         feature_names=feature_names, label="none")
 
-    os.system("dot -Tpng /tmp/dt.dot -o /tmp/dt.png")
+    os.system("dot -Tpng dt.dot -o dt.png")
 
 
 
@@ -27,7 +27,7 @@ def plot_2Ddata_with_boundary(predict,X,y, alpha=.5):
     
 hasdot = os.system("dot")
 if hasdot!=0:
-    print ("Installing Graphviz for tree visualization"
+    print ("Installing Graphviz for tree visualization")
     os.system("sudo apt-get update")
     os.system("sudo apt-get install -y graphviz")
 else:
