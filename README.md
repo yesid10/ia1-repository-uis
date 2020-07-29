@@ -55,9 +55,9 @@ Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados 
 
 ## Proyecto funcional IA
 
-- **Funcionamiento del proyecto**. El proyecto se debe realizar como un notebook.  
+- **Funcionamiento del proyecto**: El proyecto se debe realizar como un notebook y debe ser 100% funcional.
 
-- **Prototipo**:  En este item se considera como esta estructurado el proyecto. Los porcentajes extras tienen en cuenta importancia o relevancia del proyecto y también la solución a problemas reales.
+- **Prototipo (PRE-SUS PROJ)**: En este item se considera como esta estructurado el proyecto y se espera una nivel razonable de funcionalidad.
 
 - **Presentación**:
 Imagen relacionada con la siguiente información: título del proyecto e información de los estudiantes<br>
