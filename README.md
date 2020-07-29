@@ -57,17 +57,20 @@ Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados 
 
 - **Funcionamiento del proyecto**. El proyecto se debe realizar como un notebook.  
 
-- **Prototipo**:  En este item se considera como esta estructurado el proyecto. Los porcentajes extras tienen en cuenta importancia o relevancia de 
-del proyecto y también la solución a problemas reales.
+- **Prototipo**:  En este item se considera como esta estructurado el proyecto. Los porcentajes extras tienen en cuenta importancia o relevancia del proyecto y también la solución a problemas reales.
 
-- **Presentación (banner, video y diapositivas)**:  Se debe enviar un video corto (max 5 minutos) y un documento de máximo 5 páginas en donde se exponga: 
+- **Presentación**:
+Imagen relacionada con la siguiente información: título del proyecto e información de los estudiantes<br>
+Video corto (alojado en youtube)<br>
 
+- **Poster**: 
+en donde se muestra: título del proyecto, abstract (resumen), introducción, y:<br>
 1. La motivación para el desarrollo del proyecto
 2. El tema principal de inteligencia artificial abordado
-3. Funcionamiento y simulación del proyecto
+3. Funcionamiento y simulación del proyecto<br>
+Se entrega en formato PDF.
 
-
-- **Preguntas**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
+- **Sustentación**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
  
 Todos los items tienen el mismo porcentaje de evaluación. 
 
