@@ -121,11 +121,12 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W17 Sep15-Sep16    Sustentaciones       Sustentaciones
 
 
-    Jul05 -        -> Retroalimentación estudiantes
-    Jul17 -        -> Último día cancelación materias
-    Sep 11         -> Finalización clase
-    Sep12-Sep18    -> Evaluaciones finales
-    Sep19 -        -> Registro calificaciones finales
+    Jul 05 -           -> Retroalimentación estudiantes
+    Jul 17 -           -> Último día cancelación materias
+    Sep 9 - Sep 11     -> Systems Fest (proyectos finales)
+    Sep 11             -> Finalización clase
+    Sep 12 - Sep 18    -> Evaluaciones finales
+    Sep 19 -           -> Registro calificaciones finales
     
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
 <!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)-->
