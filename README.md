@@ -68,7 +68,7 @@ en donde se muestra: título del proyecto, abstract (resumen), introducción, y:
 1. La motivación para el desarrollo del proyecto
 2. El tema principal de inteligencia artificial abordado
 3. Funcionamiento y simulación del proyecto<br>
-El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/TemplateSystemsFest_IA2020-1.pptx)
+El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/TemplateSystemsFest_IA2020-1.pptx)<br>
 Se entrega en formato PPTX (PowerPoint) y en formato PDF.
 
 - **Sustentación**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
