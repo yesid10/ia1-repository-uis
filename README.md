@@ -69,7 +69,7 @@ en donde se muestra: título del proyecto, abstract (resumen), introducción, y:
 2. El tema principal de inteligencia artificial abordado
 3. Funcionamiento y simulación del proyecto<br>
 
-El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad104_2020.pdf)
+El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/TemplateSystemsFest_IA2020-1.pptx)
 
 Se entrega en formato PDF.
 
