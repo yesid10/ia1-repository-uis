@@ -68,6 +68,9 @@ en donde se muestra: título del proyecto, abstract (resumen), introducción, y:
 1. La motivación para el desarrollo del proyecto
 2. El tema principal de inteligencia artificial abordado
 3. Funcionamiento y simulación del proyecto<br>
+
+El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad104_2020.pdf)
+
 Se entrega en formato PDF.
 
 - **Sustentación**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
@@ -117,8 +120,8 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W13 Ago11-Ago12    Planning and S.      Genetic Alg.
      W14 Ago18-Ago19    Simulated anne.      Aclaraciones
      W15 Sep01-Sep02    Aclaraciones         Aclaraciones           Parcial 3
-     W16 Sep08-Sep09    Prep. proyectos      Disc. proyectos
-     W17 Sep15-Sep16    Sustentaciones       Sustentaciones
+     W16 Sep08-Sep09    Systems Fest         Systems Fest
+     W17 Sep15-Sep16    TBA                  TBA
 
 
     Jul 05 -           -> Retroalimentación estudiantes
