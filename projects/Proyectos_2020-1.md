@@ -1,5 +1,5 @@
 ---
-# Proyectos 2019-1. Inteligencia Artificial. 
+# Proyectos 2020-1. Inteligencia Artificial. 
 
 ## Prof: Fabio Martínez, Ph.D
 ## Prof: Gustavo Garzón
