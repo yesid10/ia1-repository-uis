@@ -8,6 +8,7 @@
 # Lista de Proyectos
 1. [Detección de cáncer de colon en imágenes histopatológicas](#proy1)
 2. [Detection of Geometric Figures](#proy2)
+3. [Transferencia de Aprendizaje y Ajuste Fino para la Clasificación de Lesiones de Piel con el Conjunto de Datos HAM10000 mediante Redes Neuronales Convolucionales](#proy3)
 
 ---
 
@@ -38,5 +39,20 @@
 - Modelo: Red neuronal convolucional, LeNet
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170112-2162130-2170135/2170112-2162130-2170135.ipynb) [(video)](https://www.youtube.com/watch?v=DCKursZu-kM) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170112-2162130-2170135/2170112-2162130-2170135.pdf)
+
+---
+
+## Transferencia de Aprendizaje y Ajuste Fino para la Clasificación de Lesiones de Piel con el Conjunto de Datos HAM10000 mediante Redes Neuronales Convolucionales <a name="proy3"></a>
+
+**Autores: Camilo Andrés Calderón Carrillo, Jessica Paola Escobar Pérez**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170090-2171713/2170090-2171713.jpg" style="width:700px;">
+
+**Objetivo: Este trabajo propone una tarea de clasificación de siete clases de lesiones cutáneas del conjunto de datos HAM10000 utilizando aprendizaje profundo sobre la red neuronal convolucional ResNet50 usando las técnicas de aumento de datos, transferencia de aprendizaje y ajuste fino.**
+
+- Dataset: HAM10000
+- Modelo: Red neuronal convolucional, ResNet50
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170090-2171713/ResNet50.ipynb) [(video)](https://www.youtube.com/watch?v=17zbxotoFeM) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170090-2171713/2170090-2171713.pdf)
 
 ---

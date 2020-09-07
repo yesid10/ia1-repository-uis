@@ -1,0 +1,13 @@
+1) El notebook llamado ResNet50.ipynb es donde se encuentra la programación del método propuesto, es decir, la red neuronal convolucional profunda.
+
+2) El notebook llamado HAM10000.ipynb es donde se hace la división de los datos en entrenamiento, validación y prueba, y en donde se encuentra el aumento de los datos del dataset original.
+
+3) INFORMACIÓN DEL DATASET HAM10000
+
+   3.1) El dataset original de HAM10000 se puede descargar mediante el enlace: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 y el artículo que lo sustenta se puede encontrar en: https://www.nature.com/articles/sdata2018161
+
+   3.2) El dataset con los datos divididos en entrenamiento, validación y prueba se puede descargar del siguiente enlace, proporcionado por los autores de este proyecto: https://drive.google.com/file/d/134k-Pb0hq_V8eYmVegvO6EA6fMATYOai/view
+
+   3.3) El dataset con los datos dividos y aumentados se encuentra en el siguiente enlace, proporcionado por los autores de este proyecto: https://drive.google.com/file/d/1PZvfvolBpYTcS1leBEdIRnq3LOEsqRe_/view
+
+   Para este proyecto utilizamos el dataset expuesto en el ítem (3.3).
