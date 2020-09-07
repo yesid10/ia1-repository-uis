@@ -7,6 +7,7 @@
 
 # Lista de Proyectos
 1. [Detección de cáncer de colon en imágenes histopatológicas](#proy1)
+2. [Detection of Geometric Figures](#proy2)
 
 ---
 
@@ -25,3 +26,17 @@
 
 ---
 
+## Detection of Geometric Figures <a name="proy2"></a>
+
+**Autores: Iván Daniel Maestre Muza, Laura Marcela Mantilla Romero, Daniel Felipe Rueda Mariño**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170112-2162130-2170135/2170112-2162130-2170135.jpg" style="width:700px;">
+
+**Objetivo: En este proyecto se trató la clasificación de figuras geométricas, como lo son círculos, cuadrados, triángulos y estrellas, haciendo uso de una estructura de red neuronal convolucional para la clasificación de estas figuras.**
+
+- Dataset: Four Shapes
+- Modelo: Red neuronal convolucional, LeNet
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170112-2162130-2170135/2170112-2162130-2170135.ipynb) [(video)](https://www.youtube.com/watch?v=DCKursZu-kM) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170112-2162130-2170135/2170112-2162130-2170135.pdf)
+
+---
