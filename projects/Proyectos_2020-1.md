@@ -10,6 +10,7 @@
 2. [Detection of Geometric Figures](#proy2)
 3. [Transferencia de Aprendizaje y Ajuste Fino para la Clasificación de Lesiones de Piel con el Conjunto de Datos HAM10000 mediante Redes Neuronales Convolucionales](#proy3)
 4. [Reconocimiento De Genero Por Medio De Grabaciones De Voz](#proy4)
+5. [Clasificador de Mensajes Spam](#proy5)
 
 ---
 
@@ -66,9 +67,24 @@
 
 **Objetivo: El proyecto tiene como propósito la predicción del genero de una persona mediante una grabación de voz.**
 
-- Dataset: (dataset)
+- Dataset: Voice Gender
 - Modelo: SVM, Decision Tree, Random Forest, Naive Bayes, NN
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2163022-2170111-2170104/Prototipo.ipynb) [(video)](https://www.youtube.com/watch?v=V5KvEI_B-Xc) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163022-2170111-2170104/2163022-2170111-2170104.pdf)
+
+---
+
+## Clasificador de Mensajes Spam <a name="proy5"></a>
+
+**Autores: Christian Alejandro Rengifo Mejia, Diego Fernando Gonzales Ortiz**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162133-2151852/2162133-2151852.jpg" style="width:700px;">
+
+**Objetivo: Evitar la recepción de mensajes SPAM de forma automática por medio de una herramienta que reconoce y oculta dichos mensajes sin la necesidad de un esfuerzo manual.**
+
+- Dataset: SMS Spam Collection Dataset
+- Modelo: Bag of words, TF-IDF, Multinomial, Naive Bayes, Gaussian Naive Bayes, Support Vector Classifier, Stochastic Gradient Descent
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2162133-2151852/2162133-2151852.ipynb) [(video)](https://www.youtube.com/watch?v=clEpU7_UMVs) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162133-2151852/2162133-2151852.pdf)
 
 ---
