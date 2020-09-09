@@ -12,6 +12,7 @@
 4. [Reconocimiento De Genero Por Medio De Grabaciones De Voz](#proy4)
 5. [Clasificador de Mensajes Spam](#proy5)
 6. [Predicción de equipo ganador por medio de IA](#proy6)
+7. [Sonido Respiratorio: Uso de grabaciones para detectar enfermedades respiratorias](#proy7)
 
 ---
 
@@ -102,5 +103,20 @@
 - Modelo: Decision Tree Classifier, Support Vector Classifier, Multinomial Naive-Bayes
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170127-2170081-2170095/2170127-2170081-2170095.ipynb) [(video)](https://www.youtube.com/watch?v=pjrGjyZV0IY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170127-2170081-2170095/2170127-2170081-2170095.pdf)
+
+---
+
+## Sonido Respiratorio: Uso de grabaciones para detectar enfermedades respiratorias <a name="proy7"></a>
+
+**Autores: Javier Andres Adarme Davila, Edison Camilo Porras Melgarejo**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.jpg" style="width:700px;">
+
+**Objetivo: Este proyecto se basa en la clasificación de los audios para detectar si la persona posee una de las siguientes enfermedades; el asma, urticaria, COPD, LRTI, Bronchiectasis, neumonía y bronquiolitis.**
+
+- Dataset: ICBHI Scientiﬁc Challenge database
+- Modelo: Random Forest, Naive Gaussian, Decision Tree Classifier, SVC, Redes
+
+[(code)](code) [(video)](https://www.youtube.com/watch?v=jZfZ3OE7E9g) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.pdf)
 
 ---
