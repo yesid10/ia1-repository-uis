@@ -69,6 +69,6 @@
 - Dataset: (dataset)
 - Modelo: SVM, Decision Tree, Random Forest, Naive Bayes, NN
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2163022-2170111-2170104/Prototipo.ipynb) [(video)](videourl) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163022-2170111-2170104/2163022-2170111-2170104.pdf)
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2163022-2170111-2170104/Prototipo.ipynb) [(video)](https://www.youtube.com/watch?v=V5KvEI_B-Xc) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163022-2170111-2170104/2163022-2170111-2170104.pdf)
 
 ---
