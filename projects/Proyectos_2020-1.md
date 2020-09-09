@@ -13,6 +13,7 @@
 5. [Clasificador de Mensajes Spam](#proy5)
 6. [Predicción de equipo ganador por medio de IA](#proy6)
 7. [Sonido Respiratorio: Uso de grabaciones para detectar enfermedades respiratorias](#proy7)
+8. [Sentiment analysis of a review by NLP (Natural Language Processing) and Neural Networks](#proy8)
 
 ---
 
@@ -118,5 +119,20 @@
 - Modelo: Random Forest, Naive Gaussian, Decision Tree Classifier, SVC, Redes
 
 [(code)](code) [(video)](https://www.youtube.com/watch?v=jZfZ3OE7E9g) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.pdf)
+
+---
+
+## Sentiment analysis of a review by NLP (Natural Language Processing) and Neural Networks <a name="proy8"></a>
+
+**Autores: Santiago Andrés Castro Duitama, Christian Ruiz Lagos, Kevin Joel Dlaikan Castillo**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170134-2152204-2160090/2170134-2152204-2160090.jpg" style="width:700px;">
+
+**Objetivo: El proyecto consistió en predecir la opinión basada en una review de una película.**
+
+- Dataset: IMDB Dataset of 50K Movie Reviews
+- Modelo: Natural Language Processing (NLP), Red neuronal recurrente
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170134-2152204-2160090/2170134-2152204-2160090.ipynb) [(video)](https://www.youtube.com/watch?v=1r4MwqbBRxY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170134-2152204-2160090/2170134-2152204-2160090.pdf)
 
 ---
