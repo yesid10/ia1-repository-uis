@@ -118,7 +118,7 @@
 - Dataset: ICBHI Scientiﬁc Challenge database
 - Modelo: Random Forest, Naive Gaussian, Decision Tree Classifier, SVC, Redes
 
-[(code)](code) [(video)](https://www.youtube.com/watch?v=jZfZ3OE7E9g) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.pdf)
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.ipynb) [(video)](https://www.youtube.com/watch?v=jZfZ3OE7E9g) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163021-2162923/2163021-2162923.pdf)
 
 ---
 
