@@ -9,6 +9,7 @@
 1. [Detección de cáncer de colon en imágenes histopatológicas](#proy1)
 2. [Detection of Geometric Figures](#proy2)
 3. [Transferencia de Aprendizaje y Ajuste Fino para la Clasificación de Lesiones de Piel con el Conjunto de Datos HAM10000 mediante Redes Neuronales Convolucionales](#proy3)
+4. [Reconocimiento De Genero Por Medio De Grabaciones De Voz](#proy4)
 
 ---
 
@@ -54,5 +55,20 @@
 - Modelo: Red neuronal convolucional, ResNet50
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170090-2171713/ResNet50.ipynb) [(video)](https://www.youtube.com/watch?v=17zbxotoFeM) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170090-2171713/2170090-2171713.pdf)
+
+---
+
+## Reconocimiento De Genero Por Medio De Grabaciones De Voz <a name="proy4"></a>
+
+**Autores: Hazel David Pinzón Uribe, Mateo Orozco Ardila, Nicolas Galvan Alvarez**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163022-2170111-2170104/2163022-2170111-2170104.jpeg" style="width:700px;">
+
+**Objetivo: El proyecto tiene como propósito la predicción del genero de una persona mediante una grabación de voz.**
+
+- Dataset: (dataset)
+- Modelo: SVM, Decision Tree, Random Forest, Naive Bayes, NN
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2163022-2170111-2170104/Prototipo.ipynb) [(video)](videourl) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2163022-2170111-2170104/2163022-2170111-2170104.pdf)
 
 ---
