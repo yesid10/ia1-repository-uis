@@ -11,6 +11,7 @@
 3. [Transferencia de Aprendizaje y Ajuste Fino para la Clasificación de Lesiones de Piel con el Conjunto de Datos HAM10000 mediante Redes Neuronales Convolucionales](#proy3)
 4. [Reconocimiento De Genero Por Medio De Grabaciones De Voz](#proy4)
 5. [Clasificador de Mensajes Spam](#proy5)
+6. [Predicción de equipo ganador por medio de IA](#proy6)
 
 ---
 
@@ -86,5 +87,20 @@
 - Modelo: Bag of words, TF-IDF, Multinomial, Naive Bayes, Gaussian Naive Bayes, Support Vector Classifier, Stochastic Gradient Descent
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2162133-2151852/2162133-2151852.ipynb) [(video)](https://www.youtube.com/watch?v=clEpU7_UMVs) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162133-2151852/2162133-2151852.pdf)
+
+---
+
+## Predicción de equipo ganador por medio de IA <a name="proy6"></a>
+
+**Autores: Cristian Guillermo Serrano Acevedo, Joseph Fabian Basto Cuadros, Liliana Paola Castellanos Pinzón**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170127-2170081-2170095/2170127-2170081-2170095.jpg" style="width:700px;">
+
+**Objetivo: En este proyecto se trabaja un problema de predicción del equipo ganador dentro de una partida de League of Legends por medio de IA. Para ello, se usan métodos, estimadores, y parámetros que predicen el ganador de dichas partidas.**
+
+- Dataset: League of Legends Diamond Ranked Games (10 min)
+- Modelo: Decision Tree Classifier, Support Vector Classifier, Multinomial Naive-Bayes
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170127-2170081-2170095/2170127-2170081-2170095.ipynb) [(video)](https://www.youtube.com/watch?v=pjrGjyZV0IY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170127-2170081-2170095/2170127-2170081-2170095.pdf)
 
 ---
