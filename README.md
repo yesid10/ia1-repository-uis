@@ -1,14 +1,10 @@
-<!-- # Inteligencia Artificial I 2019-2 -->
-
-# Inteligencia Artificial I 2020-1
+# Inteligencia Artificial I 2020-2
 
 ## Bienvenidos!
 
 <img src="/imgs/img_IA.jpg" style="width:400px;">
 
-<!-- _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8) -->
-                                            
-La máquina virtual puede descargarse [aquí](https://drive.google.com/open?id=1lymG9E3m6tjblZinOQGDemxc_ZtFFCOW)
+
 
 ## Colaboratory (Google)
 
@@ -24,8 +20,9 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 Alternativamente, usaremos una máquina virtual que tiene instalado un entorno Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
+La máquina virtual puede descargarse [aquí](https://drive.google.com/open?id=1lymG9E3m6tjblZinOQGDemxc_ZtFFCOW)
 - Esta opción es util para contestar talleres y para trabajar desde casa. 
-- También para contestar parciales desde la U.
+
 
 **Observa la configuración de la máquina**
 
@@ -75,68 +72,48 @@ Se entrega en formato PPTX (PowerPoint) y en formato PDF.
  
 Todos los items tienen el mismo porcentaje de evaluación. 
 
-<!-- - **PRE-SUS PROJ**: En la presustentación del proyecto se deben presentar avances y se dará un estimado de la nota definitiva. En las siguientes semanas se tendrá chance de mejorar la nota según previas observaciones. -->
-
-
-<!--## Online Courses (MOOC) [Extra]
-
-El avance vertiginoso de la tecnología nos obliga a adquirir destrezas en el aprendizaje autónomo. Sobre todo en lo relacionado con tecnologias de la información, existen numerosos recursos virtuales que nos permiten estar actualizados con nuevos temas, estrategias y desarrollos. Teniendo en cuenta esta motivación, como parte complementaria del curso se tendrá en cuenta un porcentaje extra para los estudiantes que deseen realizar un MOOC online. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
-
-Tendras que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
-
-- Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
-- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realización del MOOC
-- Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
-
-**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
-
-La calificación del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
-
-- COMPLEJIDAD DEL MOOC
-- CALIDAD DEL REPORTE 
-- CLARIDAD DEL REPORTE
-
-**UNICAMENTE SE TENDRAN EN CUENTA LOS MOOC QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**-->
+**UNICAMENTE SE TENDRAN EN CUENTA LOS PROYECTOS QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**-->
 
 
 ## Calendario y plazos
 
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
-     W01 May19-May20    Intro                Python (a)            
-     W02 May26-May27    Python (b)           Pandas (a)
-     W03 Jun02-Jun03    Pandas (b)           Estadística
-     W04 Jun09-Jun10    Estadística          Talleres
-     W05 Jun16-Jun17    Aclaraciones         Aclaraciones           Parcial 1
-     W06 Jun23-Jun24    Intro A.M.S.         Clasificación A.M.S.
-     W07 Jun30-Jul01    Regresión A.M.S.     Métodos A.M.S. (a)
-     W08 Jul07-Jul08    Métodos A.M.S. (b)   Aplicación A.M.S.
-     W09 Jul14-Jul15    Deep Learning (a)    Deep Learning (b)
-     W10 Jul21-Jul22    Aclaraciones         Aclaraciones           parcial 2
-     W11 Jul28-Jul29    Intro A.M.N.S.       K-means A.M.N.S.
-     W12 Ago04-Ago05    DBScan A.M.N.S.      PRE-SUS PROJ
-     W13 Ago11-Ago12    Planning and S.      Genetic Alg.
-     W14 Ago18-Ago19    Simulated anne.      Aclaraciones
-     W15 Sep01-Sep02    Aclaraciones         Aclaraciones           Parcial 3
-     W16 Sep08-Sep09    Systems Fest         Systems Fest
-     W17 Sep15-Sep16    TBA                  TBA
+     W01 Oct20-Oct21    Intro                Python (a)            
+     W02 Oct27-Oct28    Python-Vis (b)       Pandas (a)
+     W03 Nov03-Nov04    Pandas (b)           Estadística
+     W04 Nov10-Nov11    Estadística          Talleres
+     W05 Nov17-Nov18    Aclaraciones         Aclaraciones           Parcial 1
+     W06 Nov24-Nov25    Intro A.M.S.         Clasificación A.M.S.
+     W07 Dic01-Dic02    Regresión A.M.S.     Métodos A.M.S. (a)
+     W08 Dic08-Dic09    -----                Métodos A.M.S. (b)   
+     W09 Dic15-Dic16    Aplicación A.M.S.    Deep Learning (A)
+     
+     -----------------  VACACIONES -----------------
+     
+     W10 Ene19-Ene20    Welcome Back         Deep Learning (a)      
+     W11 Ene26-Ene27    Intro A.M.N.S.       K-means A.M.N.S.       parcial 2
+     W12 Feb02-Feb03    DBScan A.M.N.S.      PRE-SUS PROJ
+     W13 Feb09-Feb10    Planning and S.      Genetic Alg.
+     W14 Feb16-Feb17    Simulated anne.      Aclaraciones
+     W15 Feb23-Feb24    Aclaraciones         Aclaraciones           Parcial 3
+     W16 Mar02-Mar03    SUS PROJ             SUS PROJ
+     W17 Mar09-Mar10    SUS PROJ             SUS PROJ
 
 
-    Jul 05 -           -> Retroalimentación estudiantes
-    Jul 17 -           -> Último día cancelación materias
-    Sep 9 - Sep 11     -> Systems Fest (proyectos finales)
-    Sep 11             -> Finalización clase
-    Sep 12 - Sep 18    -> Evaluaciones finales
-    Sep 19 -           -> Registro calificaciones finales
+    Dic 11 -           -> Registro primera nota
+    Dic 13 -           -> Último día cancelación materias
+    Mar 03             -> Finalización clase
+    Dic 21 - Ene 13    -> Vacaciones
+    Mar 04 - Mar 11    -> Evaluaciones finales
+    Mar 17 -           -> Registro calificaciones finales
     
-<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad064_2019.pdf)-->
-<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2019/acuerdoAcad314-2019.pdf)-->
-<!--[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad001_2020.pdf)-->
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad104_2020.pdf)
+
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad294_2020.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS**
 
-**DEADLINE DE LOS PROBLEMSETS SERÁ EL DIA DE CADA QUIZ**
+**DEADLINE DE LOS PROBLEMSETS SERÁ EL DIA DE CADA PARCIAL**
 
