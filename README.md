@@ -60,19 +60,11 @@ Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados 
 Imagen relacionada con la siguiente información: título del proyecto e información de los estudiantes<br>
 Video corto (ENTREGAR EL ARCHIVO DE VIDEO y también alojarlo en youtube)<br>
 
-- **Poster**: 
-en donde se muestra: título del proyecto, abstract (resumen), introducción, y:<br>
-1. La motivación para el desarrollo del proyecto
-2. El tema principal de inteligencia artificial abordado
-3. Funcionamiento y simulación del proyecto<br>
-El poster debe elaborarse utilizando la siguiente plantilla: [Descargar plantilla](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/TemplateSystemsFest_IA2020-1.pptx)<br>
-Se entrega en formato PPTX (PowerPoint) y en formato PDF.
-
 - **Sustentación**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
  
 Todos los items tienen el mismo porcentaje de evaluación. 
 
-**UNICAMENTE SE TENDRAN EN CUENTA LOS PROYECTOS QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**-->
+**UNICAMENTE SE TENDRAN EN CUENTA LOS PROYECTOS QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**
 
 
 ## Calendario y plazos
