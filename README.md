@@ -72,7 +72,7 @@ Se entrega en formato PPTX (PowerPoint) y en formato PDF.
  
 Todos los items tienen el mismo porcentaje de evaluación. 
 
-**UNICAMENTE SE TENDRAN EN CUENTA LOS PROYECTOS QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**-->
+**UNICAMENTE SE TENDRAN EN CUENTA LOS PROYECTOS QUE SE HAYAN POSTULADO AL FINALIZAR EL PRIMER CORTE**
 
 
 ## Calendario y plazos
