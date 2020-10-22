@@ -15,6 +15,8 @@
 7. [Sonido Respiratorio: Uso de grabaciones para detectar enfermedades respiratorias](#proy7)
 8. [Sentiment analysis of a review by NLP (Natural Language Processing) and Neural Networks](#proy8)
 9. [Chattervis](#proy9)
+10. [Clasificación del estado de salud del feto mediante cardiotocografía](#proy10)
+11. [BIRD CLASSIFIER](#proy11)
 
 ---
 
@@ -165,5 +167,20 @@
 - Modelo: Decision Tree, SVM, Random Forest y Neural Network
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170133-2170116/2170133-2170116.ipynb) [(video)](https://www.youtube.com/watch?v=PlOaR2eNnt4) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170133-2170116/2170133-2170116.pdf)
+
+---
+
+## BIRD CLASSIFIER <a name="proy11"></a>
+
+**Autores: Carlos Alfonso Estevez Carvajal, Andres camilo Hernandez Arias, Duvan Fernando Pinto Diaz**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2160042-2130284-2161889/2160042-2130284-2161889.jpg" style="width:700px;">
+
+**Objetivo: es un clasificador de imágenes de aves, su principal objetivo es el de identificar, el tipo y la especie a la cual pertenece el ave mostrada en la imagen que le pasemos, y para esto se uso y se adapto un Dataset con una variedad muy grande de imágenes de diferentes especies y fue desarrollando usando una red convolucional y otros tipos de clasificadores.**
+
+- Dataset: Bird Species
+- Modelo: Convolutional neural networks
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2160042-2130284-2161889/2160042-2130284-2161889.ipynb) [(video)](https://www.youtube.com/watch?v=5MiQ--pMa90) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2160042-2130284-2161889/2160042-2130284-2161889.pdf)
 
 ---
