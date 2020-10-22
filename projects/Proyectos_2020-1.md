@@ -14,6 +14,7 @@
 6. [Predicción de equipo ganador por medio de IA](#proy6)
 7. [Sonido Respiratorio: Uso de grabaciones para detectar enfermedades respiratorias](#proy7)
 8. [Sentiment analysis of a review by NLP (Natural Language Processing) and Neural Networks](#proy8)
+9. [Chattervis](#proy9)
 
 ---
 
@@ -134,5 +135,20 @@
 - Modelo: Natural Language Processing (NLP), Red neuronal recurrente
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170134-2152204-2160090/2170134-2152204-2160090.ipynb) [(video)](https://www.youtube.com/watch?v=1r4MwqbBRxY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170134-2152204-2160090/2170134-2152204-2160090.pdf)
+
+---
+
+## Chattervis <a name="proy9"></a>
+
+**Autores: Jhon Stewar nuñez Castellanos, Samuel Yesid Cadena Pinilla**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.jpg" style="width:700px;">
+
+**Objetivo: se creó un ChatBot adaptado para funcionar en Discord, con el fin de recrear conversaciones cortas con un usuario, donde dicha conversaciones están parametrizadas en un dataset por medio del cual se hace una regresión de lo que el usuario diga para devolver la respuesta más acertada.**
+
+- Dataset: chat dataset
+- Modelo: Regression
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.zip) [(video)](https://www.youtube.com/watch?v=1r4MwqbBRxY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.pdf)
 
 ---
