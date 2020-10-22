@@ -149,6 +149,21 @@
 - Dataset: chat dataset
 - Modelo: Regression
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.zip) [(video)](https://www.youtube.com/watch?v=1r4MwqbBRxY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.pdf)
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.zip) [(video)](https://www.youtube.com/watch?v=j2qBOhjqUic) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2171066-2171399/2171066-2171399.pdf)
+
+---
+
+## Clasificación del estado de salud del feto mediante cardiotocografía <a name="proy10"></a>
+
+**Autores: Fredy Alejandro Mendoza Lopez, Orlando Alberto Moncada Rodríguez**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170133-2170116/2170133-2170116.jpg" style="width:700px;">
+
+**Objetivo: se determinó un modelo que sirve como apoyo al personal de esta área. El modelo se escogió a partir de un grupo de estimadores entrenados con un dataset que cuenta con más de 2000 cardiotocografías. Este, cuenta con un 94% de precisión y se ajusta a las métricas de evaluación relevantes en medicina.**
+
+- Dataset: UCI Cardiotocography
+- Modelo: Decision Tree, SVM, Random Forest y Neural Network
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170133-2170116/2170133-2170116.ipynb) [(video)](https://www.youtube.com/watch?v=PlOaR2eNnt4) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170133-2170116/2170133-2170116.pdf)
 
 ---
