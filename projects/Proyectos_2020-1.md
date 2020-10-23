@@ -23,6 +23,7 @@
 15. [Identificación de Asteroides Potencialmente Peligrosos](#proy15)
 16. [Machine Learning con estadísticas e imágenes de Pokémon](#proy16)
 17. [Procesamiento de imágenes de blanco y negro a color, usando un dataset de gatitos](#proy17)
+18. [Clasificador de noticias falsas mediante NLP y análisis de texto](#proy18)
 
 ---
 
@@ -279,5 +280,20 @@
 - Modelo: Tensorflow, Numpy, imageio
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170137-2160793/2170137-2160793.ipynb) [(video)](https://www.youtube.com/watch?v=OUmDDnnl3_E) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170137-2160793/2170137-2160793.pdf)
+
+---
+
+## Clasificador de noticias falsas mediante NLP y análisis de texto <a name="proy18"></a>
+
+**Autores: Miguel Angel Oquendo Rincon, Carlos Alberto Palencia Pombo**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2161341-2161342/2161341-2161342.jpg" style="width:700px;">
+
+**Objetivo: se desarrolló un algoritmo capaz de analizar y determinar las probabilidades que tiene una noticia de ser falsa o verdadera. La metodología consistió en el análisis de las palabras que se usan en los títulos y texto mediante clasificación binaria apoyado por una red neuronal, mostrando mayor efectividad al analizar la primer opción.**
+
+- Dataset: Fake and real news dataset
+- Modelo: NLP, embedding, redes neuronales
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2161341-2161342/2161341-2161342.ipynb) [(video)](https://www.youtube.com/watch?v=BzsBxAeldEA) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2161341-2161342/2161341-2161342.pdf)
 
 ---
