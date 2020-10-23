@@ -20,6 +20,7 @@
 12. [Clasificación de la fortaleza de una contraseña](#proy12)
 13. [Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X](#proy13)
 14. [Análisis y clasificación sobre el covid-19 en Colombia](#proy14)
+15. [Identificación de Asteroides Potencialmente Peligrosos](#proy15)
 
 ---
 
@@ -231,5 +232,20 @@
 - Modelo: GaussianNB, Decision Tree, Random Forest
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2162887-2162126-2162112/2162887-2162126-2162112.ipynb) [(video)](https://www.youtube.com/watch?v=jD2VZQ0iOrg) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162887-2162126-2162112/2162887-2162126-2162112.pdf)
+
+---
+
+## Identificación de Asteroides Potencialmente Peligrosos <a name="proy15"></a>
+
+**Autores: Kevin Javier Lozano Galvis, Brayan Rofoldo Barajas Ochoa**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172016-2170688/2172016-2170688.jpg" style="width:700px;">
+
+**Objetivo: Identificar asteroides potencialmente peligrosos usando un enfoque de inteligencia artificial.**
+
+- Dataset: NASA JPL Asteroid Dataset
+- Modelo: Linear SVM, Decision Tree Classifier, AdaBoost, KMeans
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2172016-2170688/2172016-2170688.ipynb) [(video)](https://www.youtube.com/watch?v=zV8TeB01wJc) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172016-2170688/2172016-2170688.pdf)
 
 ---
