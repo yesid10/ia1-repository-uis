@@ -19,6 +19,7 @@
 11. [BIRD CLASSIFIER](#proy11)
 12. [Clasificación de la fortaleza de una contraseña](#proy12)
 13. [Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X](#proy13)
+14. [Análisis y clasificación sobre el covid-19 en Colombia](#proy14)
 
 ---
 
@@ -202,7 +203,6 @@
 [(video)](https://www.youtube.com/watch?v=AfWdOUuFGP8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172027/2172027.pdf)
 
 ---
----
 
 ## Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X <a name="proy13"></a>
 
@@ -216,3 +216,20 @@
 - Modelo: GaussianNB, DecisionTree, SVC
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2132173-2151484-2162144/2132173-2151484-2162144.ipynb) [(video)](https://www.youtube.com/watch?v=mddoF55sGo8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2132173-2151484-2162144/2132173-2151484-2162144.pdf)
+
+---
+
+## Análisis y clasificación sobre el covid-19 en Colombia <a name="proy14"></a>
+
+**Autores: Sergio Raúl Roa Ortiz, Edinson Jahir Rodriguez Garces, Mauren Lorena Cobos Becerra**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162887-2162126-2162112/2162887-2162126-2162112.jpg" style="width:700px;">
+
+**Objetivo: se consideraron datos estadísticos del virus llamado Covid-19 para aplicarle los temas de regresión y clasificación adoptados dentro de la inteligencia artificial. Se decidió analizar la manera en que este virus afectó a Colombia y encontrar cuales fueron las poblaciones más afectadas. Se tomó un día específico del mes de julio de 2020 como tope para analizar los datos y realizar la respectiva clasificación y regresión de cada una de las columnas utilizadas, tales como: edad, estado, sexo, entre otros.**
+
+- Dataset: Estado de casos de Coronavirus COVID-19 en Colombia (datos abiertos)
+- Modelo: GaussianNB, Decision Tree, Random Forest
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2162887-2162126-2162112/2162887-2162126-2162112.ipynb) [(video)](https://www.youtube.com/watch?v=jD2VZQ0iOrg) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2162887-2162126-2162112/2162887-2162126-2162112.pdf)
+
+---
