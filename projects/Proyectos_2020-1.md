@@ -21,6 +21,7 @@
 13. [Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X](#proy13)
 14. [Análisis y clasificación sobre el covid-19 en Colombia](#proy14)
 15. [Identificación de Asteroides Potencialmente Peligrosos](#proy15)
+16. [Machine Learning con estadísticas e imágenes de Pokémon](#proy16)
 
 ---
 
@@ -247,5 +248,20 @@
 - Modelo: Linear SVM, Decision Tree Classifier, AdaBoost, KMeans
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2172016-2170688/2172016-2170688.ipynb) [(video)](https://www.youtube.com/watch?v=zV8TeB01wJc) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172016-2170688/2172016-2170688.pdf)
+
+---
+
+## Machine Learning con estadísticas e imágenes de Pokémon <a name="proy16"></a>
+
+**Autores: David Felipe Rojas, Julián Felipe Tolosa**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170136-2170107/2170136-2170107.jpg" style="width:700px;">
+
+**Objetivo: se analizaron diversos datos e imágenes de la famosa franquicia "Pokémon" mediante el uso de distintos modelos de regresión y reconocimiento de imágenes respectivamente. En primer lugar, se emplearon los modelos de regresión para predecir el porcentaje de partidas ganadas por cierto Pokémon dependiendo de sus estadísticas. Por otro lado, se creó un modelo de red neuronal convolucional entrenado y testeado con imágenes de diversos Pokémon, el cual fue posteriormente combinado con el modelo de red neuronal MobileNetV2.**
+
+- Dataset: Pokemon Weedle's Cave, pokemon-image-dataset
+- Modelo: SVM, Decision Tree, Random Forest, MobileNetV2
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170136-2170107/2170136-2170107.ipynb) [(video)](https://www.youtube.com/watch?v=uSAz0vaS2QI) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170136-2170107/2170136-2170107.pdf)
 
 ---
