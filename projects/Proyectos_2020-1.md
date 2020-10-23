@@ -17,6 +17,7 @@
 9. [Chattervis](#proy9)
 10. [Clasificación del estado de salud del feto mediante cardiotocografía](#proy10)
 11. [BIRD CLASSIFIER](#proy11)
+12. [Clasificación de la fortaleza de una contraseña](#proy12)
 
 ---
 
@@ -182,5 +183,20 @@
 - Modelo: Convolutional neural networks
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2160042-2130284-2161889/2160042-2130284-2161889.ipynb) [(video)](https://www.youtube.com/watch?v=5MiQ--pMa90) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2160042-2130284-2161889/2160042-2130284-2161889.pdf)
+
+---
+
+## Clasificación de la fortaleza de una contraseña <a name="proy12"></a>
+
+**Autores: Jonathan Tovar Diaz**
+
+<!--<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172027/2172027.jpg" style="width:700px;">-->
+
+**Objetivo: se ha elaborado un clasificador de contraseñas en donde según un banco de datos de +600.000 contraseñas previamente catalogadas se puede determinar que tan segura es una contraseña en escala de 0 a 2 en donde 0 es débil y 2 es fuerte.**
+
+- Dataset: password dataset
+- Modelo: XGBClassifier, RandomForestClassifer
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2172027/2172027.ipynb) [(video)](https://www.youtube.com/watch?v=AfWdOUuFGP8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172027/2172027.pdf)
 
 ---
