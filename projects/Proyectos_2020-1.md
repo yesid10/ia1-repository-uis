@@ -18,6 +18,7 @@
 10. [Clasificación del estado de salud del feto mediante cardiotocografía](#proy10)
 11. [BIRD CLASSIFIER](#proy11)
 12. [Clasificación de la fortaleza de una contraseña](#proy12)
+13. [Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X](#proy13)
 
 ---
 
@@ -197,6 +198,21 @@
 - Dataset: password dataset
 - Modelo: XGBClassifier, RandomForestClassifer
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2172027/2172027.ipynb) [(video)](https://www.youtube.com/watch?v=AfWdOUuFGP8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172027/2172027.pdf)
+<!--[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2172027/2172027.ipynb) -->
+[(video)](https://www.youtube.com/watch?v=AfWdOUuFGP8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2172027/2172027.pdf)
 
 ---
+---
+
+## Clasificación de anomalías de la columna vertebral Por medio de datos obtenidos de exámenes de Rayos X <a name="proy13"></a>
+
+**Autores: Julian Colmenares, Laura Vargas, Juan Leon**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2132173-2151484-2162144/2132173-2151484-2162144.jpg" style="width:700px;">
+
+**Objetivo: se procedió en la búsqueda del dataset que permitiera construir el clasificador de anomalías de columna vertebral, una vez encontrado se procedió a hacer el tratamiento de los datos que este contenía, se dividió de la mejor manera posible para tener un número equilibrado de elementos de cada clase, es decir, diagnósticos de personas con condiciones normales y anormales, para que así el clasificador pudiese trabajar óptimamente. Para un mejor resultado se realizaron pruebas con los mismos datos en los diferentes tipos de clasificadores disponibles en la librería sklearn de python, además se hizo uso de la técnica de cross validation para posteriormente compararlas. una vez obtenidos los resultados se escogieron los clasificadores más confiables para facilitar el diagnóstico de anomalías vertebrales.**
+
+- Dataset: VertebralColumnDataSet
+- Modelo: GaussianNB, DecisionTree, SVC
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2132173-2151484-2162144/2132173-2151484-2162144.ipynb) [(video)](https://www.youtube.com/watch?v=mddoF55sGo8) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2132173-2151484-2162144/2132173-2151484-2162144.pdf)
