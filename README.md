@@ -5,7 +5,6 @@
 <img src="/imgs/img_IA.jpg" style="width:400px;">
 
 
-
 ## Colaboratory (Google)
 
 Vamos a utilizar la plataforma de google para editar, compartir y correr notebooks: [**Colaboratory**](https://colab.research.google.com/notebooks/welcome.ipynb) 
