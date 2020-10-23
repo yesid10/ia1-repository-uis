@@ -24,6 +24,7 @@
 16. [Machine Learning con estadísticas e imágenes de Pokémon](#proy16)
 17. [Procesamiento de imágenes de blanco y negro a color, usando un dataset de gatitos](#proy17)
 18. [Clasificador de noticias falsas mediante NLP y análisis de texto](#proy18)
+19. [Sistema de Recomendación Musical](#proy19)
 
 ---
 
@@ -295,5 +296,21 @@
 - Modelo: NLP, embedding, redes neuronales
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2161341-2161342/2161341-2161342.ipynb) [(video)](https://www.youtube.com/watch?v=BzsBxAeldEA) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2161341-2161342/2161341-2161342.pdf)
+
+---
+
+## Sistema de Recomendación Musical <a name="proy19"></a>
+
+**Autores: Camilo Andres Moreno Pinto**
+
+<!--<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2180049/2180049.jpg" style="width:700px;">-->
+
+**Objetivo: se desarrolló un sistema que permite la recomendación de dos canciones similares a la canción que el usuario le ingrese, esto permite conocer más canciones sobre un genero musical u otro. Por el momento las canciones que se usan para la recomendación son canciones preexistentes en el disco duro del usuario.**
+
+- Dataset: N/A
+- Modelo: espectrogramas de mel, redes convolucionales
+
+<!--[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2180049/2180049.ipynb)-->
+[(video)](https://www.youtube.com/watch?v=-CAEEndB-SE) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2180049/2180049.pdf)
 
 ---
