@@ -22,6 +22,7 @@
 14. [Análisis y clasificación sobre el covid-19 en Colombia](#proy14)
 15. [Identificación de Asteroides Potencialmente Peligrosos](#proy15)
 16. [Machine Learning con estadísticas e imágenes de Pokémon](#proy16)
+17. [Procesamiento de imágenes de blanco y negro a color, usando un dataset de gatitos](#proy17)
 
 ---
 
@@ -263,5 +264,20 @@
 - Modelo: SVM, Decision Tree, Random Forest, MobileNetV2
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170136-2170107/2170136-2170107.ipynb) [(video)](https://www.youtube.com/watch?v=uSAz0vaS2QI) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170136-2170107/2170136-2170107.pdf)
+
+---
+
+## Procesamiento de imágenes de blanco y negro a color, usando un dataset de gatitos <a name="proy17"></a>
+
+**Autores: Andrés Felipe Uribe García, Julián Orlando Rodríguez Villamizar**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170137-2160793/2170137-2160793.jpg" style="width:700px;">
+
+**Objetivo: Este proyecto tiene como objeto el análisis de imágenes. Para esto en un principio nos basaremos en imágenes de gatos, entrarán imágenes en blanco y negro que pasarán por el modelo, después nos devolverá la imagen a color como ella lo predijo. En otra carpeta tenemos la "Ground Truth" que vendría siendo la imagen a color original.**
+
+- Dataset: Dogs & Cats Images
+- Modelo: Tensorflow, Numpy, imageio
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2170137-2160793/2170137-2160793.ipynb) [(video)](https://www.youtube.com/watch?v=OUmDDnnl3_E) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2170137-2160793/2170137-2160793.pdf)
 
 ---
