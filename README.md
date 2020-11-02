@@ -70,10 +70,10 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
-     W01 Oct20-Oct21    Intro                Python (a)            
-     W02 Oct27-Oct28    Python-Vis (b)       Pandas (a)
-     W03 Nov03-Nov04    Pandas (b)           Estadística
-     W04 Nov10-Nov11    Estadística          Talleres
+     W01 Oct20-Oct21    Intro                Python-overall            
+     W02 Oct27-Oct28    Python-Numpy         Python-Vis   
+     W03 Nov03-Nov04    Pandas               Pandas 
+     W04 Nov10-Nov11    Estadística          Estadística
      W05 Nov17-Nov18    Aclaraciones         Aclaraciones           Parcial 1
      W06 Nov24-Nov25    Intro A.M.S.         Clasificación A.M.S.
      W07 Dic01-Dic02    Regresión A.M.S.     Métodos A.M.S. (a)
