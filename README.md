@@ -74,8 +74,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W02 Oct27-Oct28    Python-Numpy         Python-Vis   
      W03 Nov03-Nov04    Pandas               Pandas 
      W04 Nov10-Nov11    Estadística          Estadística
-     W05 Nov17-Nov18    Aclaraciones         Aclaraciones           Parcial 1
-     W06 Nov24-Nov25    Intro A.M.S.         Clasificación A.M.S.
+     W05 Nov17-Nov18    Aclaraciones         Aclaraciones           
+     W06 Nov24-Nov25    Intro A.M.S.         Clasificación A.M.S.   Parcial 1 (Nov28)
      W07 Dic01-Dic02    Regresión A.M.S.     Métodos A.M.S. (a)
      W08 Dic08-Dic09    -----                Métodos A.M.S. (b)   
      W09 Dic15-Dic16    Aplicación A.M.S.    Deep Learning (A)
