@@ -82,13 +82,13 @@ Todos los items tienen el mismo porcentaje de evaluación.
      
      -----------------  VACACIONES -----------------
      
-     W10 Ene19-Ene20    Welcome Back         Deep Learning (a)      
-     W11 Ene26-Ene27    Intro A.M.N.S.       K-means A.M.N.S.       parcial 2
-     W12 Feb02-Feb03    DBScan A.M.N.S.      PRE-SUS PROJ
-     W13 Feb09-Feb10    Planning and S.      Genetic Alg.
-     W14 Feb16-Feb17    Simulated anne.      Aclaraciones
-     W15 Feb23-Feb24    Aclaraciones         Aclaraciones           Parcial 3
-     W16 Mar02-Mar03    SUS PROJ             SUS PROJ
+     W10 Ene19-Ene20    N8.Retaken ML        N9. Aplicación A.M.S.           
+     W11 Ene26-Ene27    N10. Deep Learning   N11. Deep Learning (a)
+     W12 Feb02-Feb03    Intro A.M.N.S.       K-means A.M.N.S.       parcial 2
+     W13 Feb09-Feb10    DBScan A.M.N.S.      PRE-SUS PROJ
+     W14 Feb16-Feb17    Planning and S.      Genetic Alg.
+     W15 Feb23-Feb24    Simulated anne.      Aclaraciones
+     W16 Mar02-Mar03    Aclaraciones         Aclaraciones           Parcial 3
      W17 Mar09-Mar10    SUS PROJ             SUS PROJ
 
 
