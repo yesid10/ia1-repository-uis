@@ -6,24 +6,24 @@
 ---
 
 # Lista de Proyectos
-1. [xxx](#proy1)
+1. [Clasificación de cuásares, galaxias y estrellas (DR14)](#proy1)
 2. [aaa](#proy2)
 
 
 ---
 
-## xxx <a name="proy1"></a>
+## Clasificación de cuásares, galaxias y estrellas (DR14) <a name="proy1"></a>
 
-**Autores: x,y,z**
+**Autores: Andrés Felipe Cabeza, Pablo Eduardo Serrano, Gabriel Felipe Vega**
 
-<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2142665/2142665.jpg" style="width:700px;">
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162106-2172720-2170122/2162106-2172720-2170122.jpg" style="width:700px;">
 
-**Objetivo: xxx.**
+**Objetivo: Clasificar entre galaxias, cuásares y estrellas, por medio de los métodos de clasificación tratados en el curso.**
 
-- Dataset: Lung and Colon Cancer Histopathological Image Dataset (LC25000)
-- Modelo: Convolutional Neural Network, SVC, Random Forest Classifier, Gaussian Naive Bayes, Decision Tree Classifier
+- Dataset: Sloan Digital Sky Survey DR14 (Kaggle)
+- Modelo: DNN para clasificación, ML para clasificación (SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB, StandardScaler, LabelEncoder).
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-1/2142665/Project.ipynb) [(video)](https://www.youtube.com/watch?v=-HKQd_fuSzI) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-1/2142665/2142665.pdf)
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2162106-2172720-2170122/2162106-2172720-2170122.ipynb) [(video)](https://www.youtube.com/watch?v=AYKvbrpy5J0) [(+info)]()
 
 ---
 
