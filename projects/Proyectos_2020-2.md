@@ -180,7 +180,7 @@
 **Objetivo: Generador FEN de ajedrez.**
 
 - Dataset: [(Chess Positions)](https://www.kaggle.com/koryakinp/chess-positions)
-- Modelo: (...)
+- Modelo: DecisionTreeClassifier, SVC, RandomForestClassifier, Convolutional neural network.
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2155505/2155505.ipynb) [(video)](https://www.youtube.com/watch?v=eYV33pP85fs) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2155505/2155505.pdf)-->
 
