@@ -16,6 +16,7 @@
 8. [Deep Weather Forecaster](#proy8)
 9. [Identificación de vías óptimas para la construcción de ciclorutas](#proy9)
 10. [Identificación de enfermedades cardiovasculares riesgosas](#proy10)
+11. [Generador FEN de ajedrez](#proy11)
 
 
 ---
@@ -164,8 +165,23 @@
 **Objetivo: Este proyecto tiene como propósito identificar enfermedades cardiovasculares riesgosas.**
 
 - Dataset: [(Cardiovascular Disease dataset)](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+- Modelo: SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB, Dense Neural Network.
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.ipynb) [(video)](https://www.youtube.com/watch?v=x5tqI0VTIfY) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.pdf)-->
+
+---
+
+## Generador FEN de ajedrez <a name="proy11"></a>
+
+**Autores: Cristian Eduardo Rojas Pedraza**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2155505/2155505.jpg" style="width:700px;">
+
+**Objetivo: Generador FEN de ajedrez.**
+
+- Dataset: [(Chess Positions)](https://www.kaggle.com/koryakinp/chess-positions)
 - Modelo: (...)
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.ipynb) [(video)](https://www.youtube.com/watch?v=x5tqI0VTIfY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.pdf)
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2155505/2155505.ipynb) [(video)](https://www.youtube.com/watch?v=eYV33pP85fs) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2155505/2155505.pdf)-->
 
 ---
