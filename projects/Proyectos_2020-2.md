@@ -13,6 +13,7 @@
 5. [Clasificación de frutas según sus características físicas](#proy5)
 6. [Clasificador de insectos: abejas vs avispas](#proy6)
 7. [Aplicaciones de la IA en el sector médico](#proy7)
+8. [Deep Weather Forecaster](#proy8)
 
 
 ---
@@ -115,9 +116,24 @@
 
 **Objetivo: Aplicaciones de la IA en el sector médico.**
 
-- Dataset:  (...)
-- Modelo: (...)
+- Dataset:  [(Nacidos vivos Bucaramanga)](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Nacidos-Vivos-en-Municipio-de-Bucaramanga-enero-20/x5xp-9w4b)
+- Modelo: DecisionTreeRegressor, SVR, neural networks.
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2152015/2152015.ipynb) [(video)](https://www.youtube.com/watch?v=JVZLAteVqD8) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2152015/2152015.pdf)-->
+
+---
+
+## Deep Weather Forecaster <a name="proy8"></a>
+
+**Autores: Brayan Esneider Monroy Chaparro, Geison Alfredo Blanco Rodriguez, Ivan David Ortiz Pineda**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2180034-2180045-2180018/2180034-2180045-2180018.jpg" style="width:700px;">
+
+**Objetivo: Aplicaciones de la IA en el sector médico.**
+
+- Dataset:  [(Jena climate)](https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip)
+- Modelo: LSTM, Dense neural network, Convolutional neural network.
+
+[(code)](https://colab.research.google.com/gist/bemc22/fa8bf7cdc634dff78b9a0f90dffeb6a3/deep_weather_forecaster.ipynb) [(video)](https://www.youtube.com/watch?v=mA6vfxTUKo0) [(repo)](https://gitlab.com/proyectoIA/deep-weather-forecaster)
 
 ---
