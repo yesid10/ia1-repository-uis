@@ -15,6 +15,7 @@
 7. [Aplicaciones de la IA en el sector médico](#proy7)
 8. [Deep Weather Forecaster](#proy8)
 9. [Identificación de vías óptimas para la construcción de ciclorutas](#proy9)
+10. [Identificación de enfermedades cardiovasculares riesgosas](#proy10)
 
 
 ---
@@ -151,5 +152,20 @@
 - Modelo: Gaussian Naive Bayes, Random Forest Classifier, Decision Tree Classifier, SVC
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2173039-2171844-2171767/2173039-2171844-2171767.ipynb) [(video)](https://www.youtube.com/watch?v=TRRNgzREtX4) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2173039-2171844-2171767/2173039-2171844-2171767.pdf)
+
+---
+
+## Identificación de enfermedades cardiovasculares riesgosas <a name="proy10"></a>
+
+**Autores: Juan Camilo Londoño Jaimes, Hernando José Rojas Castro, María Angélica Serrano Mora**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.jpg" style="width:700px;">
+
+**Objetivo: Este proyecto tiene como propósito identificar enfermedades cardiovasculares riesgosas.**
+
+- Dataset: [(Cardiovascular Disease dataset)](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.ipynb) [(video)](https://www.youtube.com/watch?v=x5tqI0VTIfY) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172006-2171988-2171988/2172006-2171988-2171988.pdf)
 
 ---
