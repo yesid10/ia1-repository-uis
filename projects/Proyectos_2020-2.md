@@ -37,7 +37,7 @@
 
 **Objetivo: Sistema para la toma de asistencia en la modalidad de presencialidad remota usando reconocimiento facial.**
 
-- Dataset: (...)
+- Dataset: [(FEI Face Database)](https://fei.edu.br/~cet/facedatabase.html) - Con modificaciones realizadas por los estudiantes.
 <!--- Modelo: Red neuronal convolucional, LeNet-->
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2111127-2172970-2181705/2111127-2172970-2181705.ipynb) [(video)](https://www.youtube.com/watch?v=FeDGNOtbUZM) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2111127-2172970-2181705/2111127-2172970-2181705.pdf)--> [(repo)](https://github.com/hopkeinst/AI1-20202/tree/main/Proyecto)
