@@ -11,6 +11,7 @@
 3. [Detector de Monedas Inteligente](#proy3)
 4. [Aumento de la resolución de imágenes usando redes generativas adversarias](#proy4)
 5. [Clasificación de frutas según sus características físicas](#proy5)
+6. [Clasificador de insectos: abejas vs avispas](#proy6)
 
 
 ---
@@ -86,6 +87,21 @@
 - Dataset: (...)
 - Modelo: LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, LinearDiscriminantAnalysis, GaussianNB y SVC.
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2170082/2170082.ipynb) [(video)](https://www.youtube.com/watch?v=29COn6QlOas) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170082/2170082.pdf)-->
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2170082/2170082.ipynb) [(video)](https://www.youtube.com/watch?v=29COn6QlOas) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170082/2170082.pdf)
+
+---
+
+## Clasificador de insectos: abejas vs avispas <a name="proy6"></a>
+
+**Autores: Jeisson Alejandro Cárdenas Reyes, Geyner Felipe Rojas Torres, Marlon Maurice Mora Carvajal**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.jpg" style="width:700px;">
+
+**Objetivo: Clasificar imágenes de abejas y avispas haciendo uso de modelos de machine learning.**
+
+- Dataset:  [(kaggle_bee_vs_wasp)](https://www.kaggle.com/jerzydziewierz/bee-vs-wasp)
+- Modelo: Gaussian Naive Bayes, Decision Tree Classifier,  Random Forest Classifier, Support Vector Classifier, Convolutional Neural Network.
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.ipynb) [(video)](https://www.youtube.com/watch?v=Dbw4aMoxlRQ) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.pdf)-->
 
 ---
