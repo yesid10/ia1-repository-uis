@@ -10,6 +10,7 @@
 2. [Sistema para la toma de asistencia en la modalidad de presencialidad remota usando reconocimiento facial](#proy2)
 3. [Detector de Monedas Inteligente](#proy3)
 4. [Aumento de la resolución de imágenes usando redes generativas adversarias](#proy4)
+5. [Clasificación de frutas según sus características físicas](#proy5)
 
 
 ---
@@ -71,5 +72,20 @@
 <!--- Modelo: DNN para clasificación, ML para clasificación (SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB, StandardScaler, LabelEncoder).-->
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2171910-2170093-2171458/2171910-2170093-2171458.ipynb) [(video)](https://www.youtube.com/watch?v=WVYa2YV7ZwI) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2171910-2170093-2171458/2171910-2170093-2171458.pdf)-->
+
+---
+
+## Clasificación de frutas según sus características físicas <a name="proy5"></a>
+
+**Autores: Pedro Alfonso Jimenez B.**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170082/2170082.jpg" style="width:700px;">
+
+**Objetivo: Clasificación de frutas según sus características físicas.**
+
+- Dataset: (...)
+- Modelo: LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, LinearDiscriminantAnalysis, GaussianNB y SVC.
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2170082/2170082.ipynb) [(video)](https://www.youtube.com/watch?v=29COn6QlOas) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170082/2170082.pdf)-->
 
 ---
