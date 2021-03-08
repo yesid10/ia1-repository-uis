@@ -14,6 +14,7 @@
 6. [Clasificador de insectos: abejas vs avispas](#proy6)
 7. [Aplicaciones de la IA en el sector médico](#proy7)
 8. [Deep Weather Forecaster](#proy8)
+9. [Identificación de vías óptimas para la construcción de ciclorutas](#proy9)
 
 
 ---
@@ -86,7 +87,7 @@
 
 **Objetivo: Clasificación de frutas según sus características físicas.**
 
-- Dataset: (...)
+- Dataset: [(fruit data with colors)](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/fruit_data_with_colors.txt)
 - Modelo: LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, LinearDiscriminantAnalysis, GaussianNB y SVC.
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2170082/2170082.ipynb) [(video)](https://www.youtube.com/watch?v=29COn6QlOas) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170082/2170082.pdf)
@@ -135,5 +136,20 @@
 - Modelo: LSTM, Dense neural network, Convolutional neural network.
 
 [(code)](https://colab.research.google.com/gist/bemc22/fa8bf7cdc634dff78b9a0f90dffeb6a3/deep_weather_forecaster.ipynb) [(video)](https://www.youtube.com/watch?v=mA6vfxTUKo0) [(repo)](https://gitlab.com/proyectoIA/deep-weather-forecaster)
+
+---
+
+## Identificación de vías óptimas para la construcción de ciclorutas <a name="proy9"></a>
+
+**Autores: Andrés Felipe Barajas Welman, Carlos Eduardo Becerra Lizarazo, Oscar Mauricio Campos Sepulveda**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2173039-2171844-2171767/2173039-2171844-2171767.jpg" style="width:700px;">
+
+**Objetivo: Este proyecto tiene como propósito facilitar la identificación de vías óptimas para la construcción de ciclorutas basado en la intensidad vehicular, dada una imagen.**
+
+- Dataset: [(Vehicle Image Database (Universidad politécnica de madrid))](https://www.gti.ssr.upm.es/data/Vehicle_database.html)
+- Modelo: Gaussian Naive Bayes, Random Forest Classifier, Decision Tree Classifier, SVC
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2173039-2171844-2171767/2173039-2171844-2171767.ipynb) [(video)](https://www.youtube.com/watch?v=TRRNgzREtX4) [(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2173039-2171844-2171767/2173039-2171844-2171767.pdf)
 
 ---
