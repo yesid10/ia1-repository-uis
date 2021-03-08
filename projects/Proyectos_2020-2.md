@@ -43,3 +43,17 @@
 
 ---
 
+## Detector de Monedas Inteligente <a name="proy3"></a>
+
+**Autores: Jose Pumarejo, Neider Smith Narvaez, Luz Mireya Angarita**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162093-2170128-2162139/2162093-2170128-2162139.jpg" style="width:700px;">
+
+**Objetivo: Clasificar el valor de las monedas por el sonido que hagan al caer sobre una superficie a una distancia x.**
+
+- Dataset: [(coin-dataset)](https://github.com/NeiderSmith/coin-dataset) desarrollado por los estudiantes.
+- Modelo: Redes Neuronales, Random Forest, Support Vector Machine, Desicion Tree Clasifier, Naive Bayes.
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2162093-2170128-2162139/2162093-2170128-2162139.ipynb) [(video)](https://www.youtube.com/watch?v=ilsSOJw2V5A) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162093-2170128-2162139/2162093-2170128-2162139.pdf)-->
+
+---
