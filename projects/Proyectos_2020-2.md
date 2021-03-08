@@ -12,6 +12,7 @@
 4. [Aumento de la resolución de imágenes usando redes generativas adversarias](#proy4)
 5. [Clasificación de frutas según sus características físicas](#proy5)
 6. [Clasificador de insectos: abejas vs avispas](#proy6)
+7. [Aplicaciones de la IA en el sector médico](#proy7)
 
 
 ---
@@ -102,6 +103,21 @@
 - Dataset:  [(kaggle_bee_vs_wasp)](https://www.kaggle.com/jerzydziewierz/bee-vs-wasp)
 - Modelo: Gaussian Naive Bayes, Decision Tree Classifier,  Random Forest Classifier, Support Vector Classifier, Convolutional Neural Network.
 
-[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.ipynb) [(video)](https://www.youtube.com/watch?v=Dbw4aMoxlRQ) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.pdf)-->
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2162118-21621087-2171071/2162118-21621087-2171071.ipynb) [(video)](https://www.youtube.com/watch?v=Dbw4aMoxlRQ) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2152015/2152015.pdf)-->
+
+---
+
+## Aplicaciones de la IA en el sector médico <a name="proy7"></a>
+
+**Autores: Carlos Andres Ochoa Camacho**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2152015/2152015.jpg" style="width:700px;">
+
+**Objetivo: Aplicaciones de la IA en el sector médico.**
+
+- Dataset:  (...)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2152015/2152015.ipynb) [(video)](https://www.youtube.com/watch?v=JVZLAteVqD8) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2152015/2152015.pdf)-->
 
 ---
