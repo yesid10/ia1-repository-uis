@@ -20,6 +20,7 @@
 12. [Estudio del Covid19 en Colombia](#proy12)
 13. [Dog Breed Classifier](#proy13)
 14. [Detección de emociones](#proy14)
+15. [Clasificación del grado de Alzheimer mediante imágenes](#proy15)
 
 
 ---
@@ -225,11 +226,26 @@
 
 <img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.jpg" style="width:700px;">
 
-**Objetivo: Clasificar la raza de un perro a partir de una imagen.**
+**Objetivo: Detección de emociones.**
 
 - Dataset: [(Datos)](https://github.com/DerekMazino/Inteligencia-Artificial/raw/main/Proyecto-Final-IA-Detector-de-Emociones/dataset.zip)
 - Modelo: (...)
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.ipynb) [(video)](https://www.youtube.com/watch?v=pwY7xr7dEno) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.pdf)--> [(repo)](https://github.com/DerekMazino/Inteligencia-Artificial/tree/main/Proyecto-Final-IA-Detector-de-Emociones)
+
+---
+
+## Clasificación del grado de Alzheimer mediante imágenes <a name="proy15"></a>
+
+**Autores: Juan Felipe Ortiz Trillos, Sergio Andrés Carrilo Muñoz, Diego Andrés Ortega Gelvez**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170105-2171714-2170079/2170105-2171714-2170079.jpg" style="width:700px;">
+
+**Objetivo: Clasificación del grado de Alzheimer mediante imágenes.**
+
+- Dataset: [(Alzheimer's Dataset)](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2170105-2171714-2170079/2170105-2171714-2170079.ipynb) [(video)](https://www.youtube.com/watch?v=90BaEXvkbRg) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2170105-2171714-2170079/2170105-2171714-2170079.pdf)--> [(repo)](https://github.com/feltri08/Clasificacion-imagenes-de-alzheimer)
 
 ---
