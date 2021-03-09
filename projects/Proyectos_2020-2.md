@@ -17,6 +17,8 @@
 9. [Identificación de vías óptimas para la construcción de ciclorutas](#proy9)
 10. [Identificación de enfermedades cardiovasculares riesgosas](#proy10)
 11. [Generador FEN de ajedrez](#proy11)
+12. [Estudio del Covid19 en Colombia](#proy12)
+13. [Dog Breed Classifier](#proy13)
 
 
 ---
@@ -183,5 +185,35 @@
 - Modelo: DecisionTreeClassifier, SVC, RandomForestClassifier, Convolutional neural network.
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2155505/2155505.ipynb) [(video)](https://www.youtube.com/watch?v=eYV33pP85fs) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2155505/2155505.pdf)-->
+
+---
+
+## Estudio del Covid19 en Colombia <a name="proy12"></a>
+
+**Autores: Sebastian Florez Rojas**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2180050/2180050.jpg" style="width:700px;">
+
+**Objetivo: Estudio del Covid19 en Colombia.**
+
+- Dataset: [(Casos positivos de COVID-19 en Colombia)](https://www.datos.gov.co/en/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2180050/2180050.ipynb) [(video)](https://www.youtube.com/watch?v=GQe9utzbNYA) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2180050/2180050.pdf)-->
+
+---
+
+## Dog Breed Classifier <a name="proy13"></a>
+
+**Autores: Hollman Esteban González Suárez, Kevin Alonso Luna Bustos, Jhoann Sebastián Martínez Oviedo**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172002-2172022-2171995/2172002-2172022-2171995.jpg" style="width:700px;">
+
+**Objetivo: Clasificar la raza de un perro a partir de una imagen.**
+
+- Dataset: [(Standford Dogs Dataset)](https://www.kaggle.com/c/dog-breed-identification/data)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172002-2172022-2171995/2172002-2172022-2171995.ipynb) [(video)](https://www.youtube.com/watch?v=4A6iO41pjIQ) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172002-2172022-2171995/2172002-2172022-2171995.pdf)-->
 
 ---
