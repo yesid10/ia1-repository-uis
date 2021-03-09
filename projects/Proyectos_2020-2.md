@@ -19,6 +19,7 @@
 11. [Generador FEN de ajedrez](#proy11)
 12. [Estudio del Covid19 en Colombia](#proy12)
 13. [Dog Breed Classifier](#proy13)
+14. [Detección de emociones](#proy14)
 
 
 ---
@@ -215,5 +216,20 @@
 - Modelo: (...)
 
 [(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172002-2172022-2171995/2172002-2172022-2171995.ipynb) [(video)](https://www.youtube.com/watch?v=4A6iO41pjIQ) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172002-2172022-2171995/2172002-2172022-2171995.pdf)-->
+
+---
+
+## Detección de emociones <a name="proy14"></a>
+
+**Autores: Angie Natalia Arías Gómez, Andrea Sofia Jaimes Alquichire, Juan Camilo Marín García**
+
+<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.jpg" style="width:700px;">
+
+**Objetivo: Clasificar la raza de un perro a partir de una imagen.**
+
+- Dataset: [(Datos)](https://github.com/DerekMazino/Inteligencia-Artificial/raw/main/Proyecto-Final-IA-Detector-de-Emociones/dataset.zip)
+- Modelo: (...)
+
+[(code)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/blob/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.ipynb) [(video)](https://www.youtube.com/watch?v=pwY7xr7dEno) <!--[(+info)](https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/-/raw/master/projects/sources/2020-2/2172017-2172716-2172969/2172017-2172716-2172969.pdf)--> [(repo)](https://github.com/DerekMazino/Inteligencia-Artificial/tree/main/Proyecto-Final-IA-Detector-de-Emociones)
 
 ---
