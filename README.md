@@ -96,6 +96,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      Ago 19 -           -> Registro calificaciones finales
     
 
+
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad434_2020.pdf)
 
 
