@@ -66,6 +66,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
+
      W01 Abr06-Abr07    Intro                Python-overall            
      W02 Abr13-Abr14    Python-Numpy         Python-Vis   
      W03 Abr20-Abr21    Pandas               Pandas 
@@ -87,16 +88,16 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W16 Ago04-Ago05    SUS PROJ             SUS PROJ               Parcial 3
    
 
-
-    May 28 -           -> Registro primera nota
-    May 30 -           -> Último día cancelación materias
-    Ago 06             -> Finalización clase
-    Jun 28 - Jul 12    -> Vacaciones
-    Ago 09 - Ago 13    -> Evaluaciones finales
-    Ago 19 -           -> Registro calificaciones finales
+     May 28 -           -> Registro primera nota
+     May 30 -           -> Último día cancelación materias
+     Ago 06             -> Finalización clase
+     Jun 28 - Jul 12    -> Vacaciones
+     Ago 09 - Ago 13    -> Evaluaciones finales
+     Ago 19 -           -> Registro calificaciones finales
     
 
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad434_2020.pdf)
+
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
