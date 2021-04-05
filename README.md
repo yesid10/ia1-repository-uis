@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2020-2
+# Inteligencia Artificial I 2021-1
 
 ## Bienvenidos!
 
@@ -70,37 +70,37 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
-     W01 Oct20-Oct21    Intro                Python-overall            
-     W02 Oct27-Oct28    Python-Numpy         Python-Vis   
-     W03 Nov03-Nov04    Pandas               Pandas 
-     W04 Nov10-Nov11    Estadística          Estadística
-     W05 Nov17-Nov18    Aclaraciones         Aclaraciones           
-     W06 Nov24-Nov25    Intro A.M.S.         Clasificación A.M.S.   Parcial 1 (Nov28)
-     W07 Dic01-Dic02    Regresión A.M.S.     Métodos A.M.S. (a)
-     W08 Dic08-Dic09    -----                Métodos A.M.S. (b)   
-     W09 Dic15-Dic16    Aplicación A.M.S.    Deep Learning (A)
-     
-     -----------------  VACACIONES -----------------
-     
-     W10 Ene19-Ene20    N8.Retaken ML        N9. Aplicación A.M.S.           
-     W11 Ene26-Ene27    N10. Deep Learning   N11. Deep Learning (a)
-     W12 Feb02-Feb03    Intro A.M.N.S.       K-means A.M.N.S.       parcial 2
-     W13 Feb09-Feb10    DBScan A.M.N.S.      PRE-SUS PROJ
-     W14 Feb16-Feb17    Planning and S.      Genetic Alg.
-     W15 Feb23-Feb24    Simulated anne.      Aclaraciones
-     W16 Mar02-Mar03    Aclaraciones         Aclaraciones           Parcial 3
-     W17 Mar09-Mar10    SUS PROJ             SUS PROJ
+     W01 Abr05-Abr09    Intro                Python-overall            
+     W02 Abr12-Abr16    Python-Numpy         Python-Vis   
+     W03 Abr19-Abr23    Pandas               Pandas 
+     W04 Abr26-Abr30    Estadística          Estadística
+     W05 May03-May07    Aclaraciones         Aclaraciones           
+     W06 May10-May14    Intro A.M.S.         Clasificación A.M.S.   Parcial 1 (Nov28)
+     W07 May17-May21    Regresión A.M.S.     Métodos A.M.S. (a)
+     W08 May24-May28    -----                Métodos A.M.S. (b)   
+     W09 Jun01-Jun04    Aplicación A.M.S.    Deep Learning (A)     
+     W10 Jun07-Jun11    N8.Retaken ML        N9. Aplicación A.M.S.           
+     W11 Jun14-Jun18    N10. Deep Learning   N11. Deep Learning (a)
+     W12 Jun21-Jun25    Intro A.M.N.S.       K-means A.M.N.S.       parcial 2
+
+    -----------------  VACACIONES -----------------
+
+     W13 Jul12-Jul16    DBScan A.M.N.S.      PRE-SUS PROJ
+     W14 Jul19-Jul23    Planning and S.      Genetic Alg.
+     W15 Jul26-Jul30    Simulated anne.      Aclaraciones
+     W16 Aug02-Aug06    Aclaraciones         Aclaraciones           Parcial 3
+     W17 Aug09-Aug13    SUS PROJ             SUS PROJ
 
 
-    Dic 11 -           -> Registro primera nota
-    Dic 13 -           -> Último día cancelación materias
-    Mar 03             -> Finalización clase
-    Dic 21 - Ene 13    -> Vacaciones
-    Mar 04 - Mar 11    -> Evaluaciones finales
-    Mar 17 -           -> Registro calificaciones finales
+    May 28 -           -> Registro primera nota
+    May 30 -           -> Último día cancelación materias
+    Jun 28 - Jul 12    -> Vacaciones
+    Ago 06             -> Finalización clase
+    Ago 09 - Ago 13    -> Evaluaciones finales
+    Ago 17 -           -> Registro calificaciones finales
     
 
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad294_2020.pdf)
+[Calendario academico 2021-1](http://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad434_2020.pdf)
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
