@@ -75,7 +75,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W03 Abr19-Abr23    Pandas               Pandas 
      W04 Abr26-Abr30    Estadística          Estadística
      W05 May03-May07    Aclaraciones         Aclaraciones           
-     W06 May10-May14    Intro A.M.S.         Clasificación A.M.S.   Parcial 1 (Nov28)
+     W06 May10-May14    Intro A.M.S.         Clasificación A.M.S.   Parcial 1
      W07 May17-May21    Regresión A.M.S.     Métodos A.M.S. (a)
      W08 May24-May28    -----                Métodos A.M.S. (b)   
      W09 Jun01-Jun04    Aplicación A.M.S.    Deep Learning (A)     
