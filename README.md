@@ -80,10 +80,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W09 Sep07-Sep08    Deep Learning        N10. Deep Learning
      W10 Sep14-Sep15    N11. Deep Learning   Aclaraciones               
      W11 Sep21-Sep22    Aclaraciones         Intro A.M.N.S.         parcial 2
-     W12 Sep28-Sep29    PRE-SUS PROJ         PRE-SUS PROJ  
-
-     -----------------  VACACIONES -----------------
-          
+     W12 Sep28-Sep29    PRE-SUS PROJ         PRE-SUS PROJ
      W13 Oct05-Oct06    K-means A.M.N.S.     DBScan A.M.N.S 
      W14 Oct12-Oct13    Planning and S.      Genetic Alg.
      W15 Oct19-Oct20    Simulated anne.      Aclaraciones           Parcial 3
