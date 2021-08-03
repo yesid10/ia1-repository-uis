@@ -70,33 +70,35 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W01 Abr06-Abr07    Intro                Python-overall            
      W02 Abr13-Abr14    Python-Numpy         Python-Vis   
      W03 Abr20-Abr21    Pandas               Pandas 
-     W04 Abr27-Abr28    Estadística          Estadística
-     W05 May04-May05    Aclaraciones         Aclaraciones           Parcial 1
-     W06 May11-May12    Intro A.M.S.         Clasificación A.M.S.    
-     W07 May18-May19    Regresión A.M.S.     Métodos A.M.S. 
-     W08 May25-May26    Métodos A.M.S.       Aplicación A.M.S.                 
-     W09 Jun01-Jun02    Deep Learning        N10. Deep Learning
-     W10 Jun08-Jun09    N11. Deep Learning   Aclaraciones               
-     W11 Jun15-Jun16    Aclaraciones         Intro A.M.N.S.         parcial 2
-     W12 Jun22-Jun23    PRE-SUS PROJ         PRE-SUS PROJ  
+     W03 Abr27-Abr28    Estadística          --- 
+     ...................    PERIODO SIN CLASES      ..................... 
+     W04 Ago03-Ago04    REPASO               REPASO    
+     W05 Ago10-Ago11    Estadística          Estadística           
+     W06 Ago17-Ago18    Intro A.M.S.         Clasificación A.M.S.    
+     W07 Ago24-Ago25    Regresión A.M.S.     Métodos A.M.S.         Parcial 1
+     W08 Ago31-Sep01    Métodos A.M.S.       Aplicación A.M.S.                 
+     W09 Sep07-Sep08    Deep Learning        N10. Deep Learning
+     W10 Sep14-Sep15    N11. Deep Learning   Aclaraciones               
+     W11 Sep21-Sep22    Aclaraciones         Intro A.M.N.S.         parcial 2
+     W12 Sep28-Sep29    PRE-SUS PROJ         PRE-SUS PROJ  
 
      -----------------  VACACIONES -----------------
           
-     W13 Jul13-Jul14    K-means A.M.N.S.     DBScan A.M.N.S 
-     W14 Jul20-Jul21    Planning and S.      Genetic Alg.
-     W15 Jul27-Jul28    Simulated anne.      Aclaraciones
-     W16 Ago04-Ago05    SUS PROJ             SUS PROJ               Parcial 3
+     W13 Oct05-Oct06    K-means A.M.N.S.     DBScan A.M.N.S 
+     W14 Oct12-Oct13    Planning and S.      Genetic Alg.
+     W15 Oct19-Oct20    Simulated anne.      Aclaraciones           Parcial 3
+     W16 Oct26-Oct27    SUS PROJ             SUS PROJ               
    
 
-     May 28 -           -> Registro primera nota
-     May 30 -           -> Último día cancelación materias
-     Ago 06             -> Finalización clase
-     Jun 28 - Jul 12    -> Vacaciones
-     Ago 09 - Ago 13    -> Evaluaciones finales
-     Ago 19 -           -> Registro calificaciones finales
+     Ago 27 -           -> Registro primera nota
+     Ago 29 -           -> Último día cancelación materias
+     Oct 22             -> Finalización clase
+     Oct 25 - Oct 29    -> Evaluaciones finales
+     Nov 03 -           -> Registro calificaciones finales
     
 
 
+**ACUERDO n.° 211 DE 2021 - 23 de Julio**
 [Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad434_2020.pdf)
 
 
