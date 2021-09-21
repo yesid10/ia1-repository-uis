@@ -78,20 +78,21 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W07 Ago24-Ago25    Regresión A.M.S.     Métodos A.M.S.         Parcial 1
      W08 Ago31-Sep01    Métodos A.M.S.       Aplicación A.M.S.                 
      W09 Sep07-Sep08    Deep Learning        N10. Deep Learning
-     W10 Sep14-Sep15    N11. Deep Learning   Aclaraciones               
-     W11 Sep21-Sep22    Aclaraciones         Intro A.M.N.S.         parcial 2
-     W12 Sep28-Sep29    PRE-SUS PROJ         PRE-SUS PROJ
-     W13 Oct05-Oct06    K-means A.M.N.S.     DBScan A.M.N.S 
-     W14 Oct12-Oct13    Planning and S.      Genetic Alg.
-     W15 Oct19-Oct20    Simulated anne.      Aclaraciones           Parcial 3
-     W16 Oct26-Oct27    SUS PROJ             SUS PROJ               
+     W10 Sep14-Sep15    N11. Deep Learning   N11. Deep Learning               
+     W11 Sep21-Sep22    Aclaraciones         Aclaraciones          parcial 2
+     W12 Sep28-Sep29    PRE-SUS PROJ         Intro A.M.N.S.
+     W13 Oct05-Oct06    Planning and S.      Genetic Alg.
+     W14 Oct12-Oct13    Simulated anne.      Aclaraciones           Parcial 3
+     W15 Oct19-Oct20    SUS PROJ             SUS PROJ           
+                  
    
 
      Ago 27 -           -> Registro primera nota
      Ago 29 -           -> Último día cancelación materias
-     Oct 22             -> Finalización clase
-     Oct 25 - Oct 29    -> Evaluaciones finales
-     Nov 03 -           -> Registro calificaciones finales
+     Oct 22             -> Finalización clase y evaluaciones finales
+     Oct 22 -           -> Registro calificaciones finales
+     Oct 25 - Oct 26    -> habilitaciones
+
     
 
 
