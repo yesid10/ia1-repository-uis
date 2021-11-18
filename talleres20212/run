@@ -1,2 +1,0 @@
-#!/bin/sh
-./utils/runepy utils/mc.epy $*
