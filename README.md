@@ -83,9 +83,9 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W10 Ene25-Ene26    DNN-imgs-estruc      DNN-audio
      W11 Feb01-Feb02    CNN                  Aclaraciones              parcial 2
      W12 Feb08-Feb09    PRE-SUS PROJ         PRE-SUS PROJ
-     W13 Feb15-Feb16    No supervisado       No supervisado
-     W14 Feb22-Feb23    Genetic Alg.         intro to  RF.           [TRAVEL EEUU]
-     W15 Mar01-Mar02    intro to  RF         Aclaraciones              Parcial 3
+     W13 Feb15-Feb16    No supervisado       Planning and search
+     W14 Feb22-Feb23    Genetic Alg.         Genetic Alg           [TRAVEL EEUU]
+     W15 Mar01-Mar02    Aclaraciones         Aclaraciones              Parcial 3 (5 marzo)
      W16 Mar08-Mar09    SUS PROJ             SUS PROJ
                   
    
