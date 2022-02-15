@@ -84,7 +84,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W11 Feb01-Feb02    CNN                  Aclaraciones              parcial 2
      W12 Feb08-Feb09    PRE-SUS PROJ         PRE-SUS PROJ
      W13 Feb15-Feb16    No supervisado       No supervisado
-     W14 Feb22-Feb23    Genetic Alg.         intro to  RF.
+     W14 Feb22-Feb23    Genetic Alg.         intro to  RF.           [TRAVEL EEUU]
      W15 Mar01-Mar02    intro to  RF         Aclaraciones              Parcial 3
      W16 Mar08-Mar09    SUS PROJ             SUS PROJ
                   
