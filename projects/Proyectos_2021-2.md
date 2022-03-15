@@ -24,6 +24,10 @@
 16. [Water Quality](#proy16)
 17. [Detección de posibles casos de COVID-19 a base del sonido de la tos](#proy17)
 18. [Soccer-Predictor](#proy18)
+19. [Detección de enfermedades pulmonares por medio de radiografias de tórax](#proy19)
+20. [TweCla](#proy20)
+21. [Detección de Uso de Tapabocas](#proy21)
+22. [Potabilidad Del Agua](#proy22)
 
 ---
 
@@ -294,5 +298,65 @@
 - Modelo: DecisionTreeRegressor, SVR, Random Forest Regressor, DNN
 
 [(code)](https://github.com/georsan/Soccer-Predictor/blob/main/Proyecto.ipynb) [(video)](https://www.youtube.com/watch?v=yKT4MKwaUEE) [(+info)](https://github.com/georsan/Soccer-Predictor)
+
+---
+
+## Detección de enfermedades pulmonares por medio de radiografias de tórax <a name="proy19"></a>
+
+**Autores: Jose Fabian Jimenez Ovalle, Javier Fernando Carvajal Sanabria, Juan Sebastian Mora Rueda**
+
+<img src="https://raw.githubusercontent.com/fabian017/INTELIGENCIA-ARTIFICIAL/main/img/Banner.png" style="width:700px;">
+
+**Objetivo: Con el desarrollo de este proyecto se busca crear una ayuda para los profesionales de la salud en la deteccion de enfermedades pulmonares en sus pacientes.**
+
+- Dataset: COVID-19 Radiography Dataset [(link)](https://www.kaggle.com/preetviradiya/covid19-radiography-dataset)
+- Modelo: Gaussian Naive Bayes, Decission Tree Classifier, Random Forest Classifier, Support Vector Machine, Redes Neuronales, Redes Convolucionales
+
+[(code)](https://colab.research.google.com/drive/1fh_KvQSPLX92jmoCz-4ZqvpGdqhlnN1J?usp=sharing) [(video)](https://www.youtube.com/watch?v=UXmtEJ3NN4U) [(+info)](https://github.com/fabian017/Inteligencia_Artificial-1)
+
+---
+
+## TweCla <a name="proy20"></a>
+
+**Autores: José Silva, Yuri Melissa, Jhan Rojas**
+
+<img src="https://github.com/VashLT/TweCla/raw/master/banner.png" style="width:700px;">
+
+**Objetivo: Classify tweets by basic emotions.**
+
+- Dataset: Emotion Dataset for Emotion Recognition Tasks [(link)](https://www.kaggle.com/parulpandey/emotion-dataset?select=training.csv)
+- Modelo: Deep Neural Network, Support Vector Machine, Random Forest, Logistic Regression (multibinomial for multiclasses)
+
+[(code)](https://github.com/VashLT/TweCla/blob/master/TweCla.ipynb) [(video)](https://www.youtube.com/watch?v=1TsA4zPwmjg) [(+info)](https://github.com/VashLT/TweCla)
+
+---
+
+## Detección de Uso de Tapabocas <a name="proy21"></a>
+
+**Autores: Anderson Andres Gonzalez Cortes, Elsyn Andrea Vargas Ramirez**
+
+<img src="https://user-images.githubusercontent.com/89708735/157370406-1fef37c3-840d-48d5-a85d-b02be0d20487.jpg" style="width:700px;">
+
+**Objetivo: Reconocimiento del uso del tapabocas gracias al entrenamiento de inteligencia artificial.**
+
+- Dataset: Face Mask Detection [(link)](https://www.kaggle.com/vijaykumar1799/face-mask-detection)
+- Modelo: DNN, DecisionTree, RandomForest, CNN
+
+[(code)](https://github.com/ElsynV/Deteccion-mascarillas/blob/main/PROYECTO.ipynb) [(video)]() [(+info)](https://github.com/ElsynV/Deteccion-mascarillas)
+
+---
+
+## Potabilidad Del Agua <a name="proy22"></a>
+
+**Autores: Yesid Romario Gualdrón Hurtado, Amin Esteban Barbosa Vargas, Ruben Dario Rodríguez Moreno**
+
+<img src="https://raw.githubusercontent.com/RubenR-M/PotabilidadDelAgua/main/banner.png" style="width:700px;">
+
+**Objetivo: Identificar la calidad del agua de los departamentos y municipios en Colombia.**
+
+- Dataset: Indice de Riesgo por Calidad del Agua para Consumo Humano (IRCA) Municipal 2010-2019 en Colombia [(link)](https://data.humdata.org/dataset/indice-de-riesgo-por-calidad-del-agua-para-consumo-humano-irca-municipal-2010-2019-en-colombia)
+- Modelo: RandomForestRegressor
+
+[(code)](https://github.com/RubenR-M/PotabilidadDelAgua/blob/main/CalidadAgua.ipynb) [(video)](https://www.youtube.com/watch?v=uBh9U5CAZFg) [(+info)](https://github.com/RubenR-M/PotabilidadDelAgua)
 
 ---
