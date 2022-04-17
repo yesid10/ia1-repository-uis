@@ -17,7 +17,8 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 
 ## Calificación
-- 40% Talleres
+- 30% Talleres
+- 10% Talleres en clase. (>5 participaciones)
 - 30% Parciales
 - 30% Proyecto funcional IA 
 
@@ -67,41 +68,40 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 Nov02-Nov03    Intro                Python-general
-     W02 Nov09-Nov10    Python-Numpy         Pandas
-     W03 Nov16-Nov17    Pandas               Visualización
-     W04 Nov23-Nov24    análisis datos       análisis de datos
-     W05 Nov30-Dic01    análisis datos       Aclaraciones	          Parcial 1
-     W06 Dic07-Dic08    Intro ML-Gauss       FESTIVO
-     W07 Dic14-Dic15    Clasificación A.M.S. Regresión A.M.S.
+     W01 abr19-abr20    Intro                Python-general
+     W02 abr26-abr27    Python-Numpy         Pandas
+     W03 may03-may04    Pandas               Visualización
+     W04 may10-may11    análisis datos       análisis de datos
+     W05 may17-may18    análisis datos       Aclaraciones	          Parcial 1
+     W06 may24-may25    Intro ML-Gauss       FESTIVO
+     W07 may31-jun01    Clasificación A.M.S. Regresión A.M.S.
+     W08 jun07-jun08    Metricas y valid     Métodos SVM.
+     W08 jun14-jun15    Métodos Trees.       Deep Learning
+     W10 jun21-jun22    DNN-imgs-estruc      DNN-audio                parcial 2
 
-     ----------------   VACACIONES  DIC 17 - ENE 7 --------------
+         jun28-jul12    ------ VACACIONES --------------------
 
-
-     W08 Ene11-Ene12    Metricas y valid     Métodos SVM.
-     W08 Ene18-Ene19    Métodos Trees.       Deep Learning
-     W10 Ene25-Ene26    DNN-imgs-estruc      DNN-audio
-     W11 Feb01-Feb02    CNN                  Aclaraciones              parcial 2
-     W12 Feb08-Feb09    PRE-SUS PROJ         PRE-SUS PROJ
-     W13 Feb15-Feb16    No supervisado       Planning and search
-     W14 Feb22-Feb23    Genetic Alg.         Genetic Alg           [TRAVEL EEUU]
-     W15 Mar01-Mar02    Aclaraciones         Aclaraciones              Parcial 3 (5 marzo)
-     W16 Mar08-Mar09    SUS PROJ             SUS PROJ
+     W11      -jul13    CNN                  Aclaraciones
+     W12 jul19-jul20    PRE-SUS PROJ         PRE-SUS PROJ
+     W13 jul26-jul27    No supervisado       Planning and search
+     W14 ago02-ago03    Genetic Alg.         Genetic Alg
+     W15 ago09-ago10    Aclaraciones         Aclaraciones              Parcial 3
+     W16 ago16-ago17    SUS PROJ             SUS PROJ
                   
    
 
-     Ene 14             -> Registro primera nota
-     Ene 16             -> Último día cancelación materias
-     Mar 11             -> Finalización clase y
-     Mar 14 - Mar 18    ->  evaluaciones finales
-     Mar 19             -> Registro calificaciones finales
-     Mar 22 - Mar 23    -> habilitaciones
+     May 27             -> Registro primera nota
+     May 29             -> Último día cancelación materias
+     Ago 23             -> Finalización clase y
+     ago 13 - ago 26    ->  evaluaciones finales
+     ago 26             -> Registro calificaciones finales
+     ago 29 - ago 30    -> habilitaciones
 
     
 
 
-**ACUERDO n.° 211 DE 2021 - 23 de Julio**
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2020/acuerdoAcad434_2020.pdf)
+**ACUERDO n.° 390 DE 2021 - 07 de Diciembre**
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2021/acuerdoAcad390_2021.pdf)
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
