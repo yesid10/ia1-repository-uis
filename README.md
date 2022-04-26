@@ -73,11 +73,11 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W03 may03-may04    Pandas               Visualización
      W04 may10-may11    análisis datos       análisis de datos
      W05 may17-may18    análisis datos       Aclaraciones	          Parcial 1
-     W06 may24-may25    Intro ML-Gauss       FESTIVO
-     W07 may31-jun01    Clasificación A.M.S. Regresión A.M.S.
-     W08 jun07-jun08    Metricas y valid     Métodos SVM.
-     W08 jun14-jun15    Métodos Trees.       Deep Learning
-     W10 jun21-jun22    DNN-imgs-estruc      DNN-audio                parcial 2
+     W06 may24-may25    Intro ML-Gauss       Clasificación A.M.S.
+     W07 may31-jun01    Regresión A.M.S.     Metricas y valid
+     W08 jun07-jun08    Métodos SVM.         Métodos Trees.
+     W08 jun14-jun15    Deep Learning        DNN-imgs-estruc
+     W10 jun21-jun22    DNN-audio            CNN                     parcial 2
 
          jun28-jul12    ------ VACACIONES --------------------
 
