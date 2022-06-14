@@ -71,31 +71,36 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W01 abr19-abr20    Intro                Python-general
      W02 abr26-abr27    Python-Numpy         Pandas
      W03 may03-may04    Pandas               Visualización
-     W04 may10-may11    análisis datos       análisis de datos
-     W05 may17-may18    análisis datos       Aclaraciones	          Parcial 1
-     W06 may24-may25    Intro ML-Gauss       Clasificación A.M.S.
-     W07 may31-jun01    Regresión A.M.S.     Metricas y valid
-     W08 jun07-jun08    Métodos SVM.         Métodos Trees.
-     W08 jun14-jun15    Deep Learning        DNN-imgs-estruc
-     W10 jun21-jun22    DNN-audio            CNN                     parcial 2
+     W00 may10-may11    ----                 ----
+     W00 may17-may18    ----                 ----
+     W00 may24-may25    ----                 ----
+     W00 may31-jun01    ----                 ----
+     W00 jun07-jun08    ----                 ----
+
+     W05 jun14-jun15    análisis datos       análisis de datos
+     W06 jun21-jun22    análisis datos       Aclaraciones	          Parcial 1 (2 a 4 pm)
 
          jun28-jul12    ------ VACACIONES --------------------
 
-     W11      -jul13    CNN                  Aclaraciones
-     W12 jul19-jul20    PRE-SUS PROJ         PRE-SUS PROJ
-     W13 jul26-jul27    No supervisado       Planning and search
-     W14 ago02-ago03    Genetic Alg.         Genetic Alg
-     W15 ago09-ago10    Aclaraciones         Aclaraciones              Parcial 3
-     W16 ago16-ago17    SUS PROJ             SUS PROJ
-                  
-   
+     W07      -jul13    Intro ML-Gauss       Clasificación A.M.S.
+     W08 jul19-jul20    Regresión A.M.S.     Metricas y valid
+     W09 jul26-jul27    Métodos SVM.         Métodos Trees
+     W10 ago02-ago03    Deep Learning        DNN-imgs-estruc
+     W11 ago09-ago10    DNN-audio            CNN                       parcial 2 (2 a 4 pm)
+     W12 ago16-ago17    PRE-SUS PROJ         PRE-SUS PROJ
+     W13 ago23-ago24    No supervisado       Planning and search
+     W14 ago30-ago31    Genetic Alg.         Genetic Alg
+     W15 sep06-sep07    Aclaraciones         Aclaraciones              Parcial 3  (2 a 4 pm)
+     W16 sep13-sep14    SUS PROJ             SUS PROJ
 
-     May 27             -> Registro primera nota
-     May 29             -> Último día cancelación materias
-     Ago 23             -> Finalización clase y
-     ago 13 - ago 26    ->  evaluaciones finales
-     ago 26             -> Registro calificaciones finales
-     ago 29 - ago 30    -> habilitaciones
+
+
+     Jun 24             -> Registro primera nota
+     jul 25             -> Último día cancelación materias
+     Sep 20             -> Finalización clase y
+     sep 20 - sep 23    ->  evaluaciones finales
+     sep 23             -> Registro calificaciones finales
+     Sep 26 - Sep 27    -> habilitaciones
 
     
 
