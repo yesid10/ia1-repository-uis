@@ -105,8 +105,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
     
 
 
-**ACUERDO n.° 390 DE 2021 - 07 de Diciembre**
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2021/acuerdoAcad390_2021.pdf)
+**ACUERDO n.° acuerdo 162, del 7 de junio de 2022**
+[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2022/acuerdoAcad162_2022.pdf)
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
