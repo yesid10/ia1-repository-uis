@@ -21,4 +21,4 @@ _Para ello, utilice el archivo depurado [“filterICFES.csv”](https://drive.go
     - Fabio Martínez. famarcar@saber.uis.edu.co
     - Gustavo Garzon.  gustavo.garzon@saber.uis.edu.co
 
-- **FECHA LIMITE: SÁBADO 11 DE DICIEMBRE, 11 PM**
+- **FECHA LIMITE: VIERNES 24 DE  JUNIO, 6 PM**
