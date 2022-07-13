@@ -82,16 +82,17 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
          jun28-jul12    ------ VACACIONES --------------------
 
-     W07      -jul13    Intro ML-Gauss       Clasificación A.M.S.
-     W08 jul19-jul20    Regresión A.M.S.     Metricas y valid
-     W09 jul26-jul27    Métodos SVM.         Métodos Trees
-     W10 ago02-ago03    Deep Learning        DNN-imgs-estruc
-     W11 ago09-ago10    DNN-audio            CNN                       parcial 2 (2 a 4 pm)
-     W12 ago16-ago17    PRE-SUS PROJ         PRE-SUS PROJ
-     W13 ago23-ago24    No supervisado       Planning and search
-     W14 ago30-ago31    Genetic Alg.         Genetic Alg
-     W15 sep06-sep07    Aclaraciones         Aclaraciones              Parcial 3  (2 a 4 pm)
-     W16 sep13-sep14    SUS PROJ             SUS PROJ
+
+     W07      -jul13
+     W08 jul19-jul20  Intro & ML-Gauss        ...... FESTIVO ...
+     W09 jul26-jul27  Clasificación A.M.S.    Clasificación A.M.S
+     W10 ago02-ago03  Metodos A.M.S           Regresión A.M.S
+     W11 ago09-ago10  Deep Learning           DNN-imgs-estruc
+     W12 ago16-ago17  DNN-audio               CNN                    parcial 2 (2 a 4 pm)
+     W13 ago23-ago24  PRE-SUS PROJ            No supervisado
+     W14 ago30-ago31  Planning and search     Genetic Alg.
+     W15 sep06-sep07  Aclaraciones         Aclaraciones             Parcial 3  (2 a 4 pm)
+     W16 sep13-sep14  SUS PROJ             SUS PROJ
 
 
 
