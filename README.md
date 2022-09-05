@@ -89,10 +89,10 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W10 ago02-ago03  Metodos A.M.S           Regresión A.M.S
      W11 ago09-ago10  Deep Learning           DNN-imgs-estruc
      W12 ago16-ago17  DNN-audio               CNN                    parcial 2 (2 a 4 pm)
-     W13 ago23-ago24  PRE-SUS PROJ            No supervisado
-     W14 ago30-ago31  Planning and search     Genetic Alg.
-     W15 sep06-sep07  Aclaraciones         Aclaraciones             Parcial 3  (2 a 4 pm)
-     W16 sep13-sep14  SUS PROJ             SUS PROJ
+     W13 ago23-ago24  PRE-SUS PROJ            PRE-SUS PROJ
+     W14 ago30-ago31  No supervisado          No supervisado
+     W15 sep06-sep07  Planning and search     Genetic Alg
+     W16 sep13-sep14  SUS PROJ                SUS PROJ                   Parcial 3  (2 a 4 pm)
 
 
 
