@@ -48,7 +48,7 @@
 
 **Autores:José Fredy Navarro,Juan Andrés Guarín Rojas, Brayan Sneider Daza Suárez**
 
-<img src="https://raw.githubusercontent.com/JSteven20/ProyectoIA/main/FakeNewsBanner.jpg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/AndresGuarin/Images/main/IA-1/IronProtonXmaxDetectionBanner.png" style="width:700px;">
 
 **Objetivo:Aplicar un modelo de regresión para estimar el número máximo de partículas (MC Xmax).**
 
