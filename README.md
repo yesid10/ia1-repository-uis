@@ -77,19 +77,21 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W07 nov22-nov23    Clasificación A.M.S. Metodos A.M.S
      W08 nov29-nov30    Regresión A.M.S      Deep Learning
      W09 dic06-dic07    DNN-imgs-estruc      DNN-audio
-     W10 dic13-dic14    DNN-audio            PROYECTO-AVANCE 2        parcial 2 (2 a 4 pm)
+     W10 dic13-dic14    DNN-audio            PROYECTO-AVANCE 2
 
          Dic 19-Ene 06  ------ VACACIONES --------------------
 
 
 
 
-     W11 ene10-ene11  No supervisado          No supervisado
-     W12 ene17-ene18  PRE-SUS PROJ            PRE-SUS PROJ
-     W13 ene24-ene25  Planning and search     learning planning
-     W14 ene31-feb01  Genetic Alg             Genetic Alg
-     W15 feb07-feb08  aclaraciones            aclaraciones      Parcial 3  (2 a 4 pm)
+     W11 ene10-ene11  DNN-imgs-estruc         DNN-imgs-estruc
+     W12 ene17-ene18  DNN-imgs-estruc         DNN-audio
+     W13 ene24-ene25  No supervisado          No supervisado            parcial 2 (2 a 4 pm) - 28 de Enero
+     W14 ene31-feb01  Planning and search     Genetic Alg
+     W15 feb07-feb08  Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
      W16 feb14-feb15  SUS PROJ                SUS PROJ
+
+
 
 
      Nov 18             -> Registro primera nota
