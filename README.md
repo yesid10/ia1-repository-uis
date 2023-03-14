@@ -72,9 +72,9 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W02 mar21-mar22    Python-Numpy         Pandas
      W03 mar28-mar29    Pandas               Visualización
          abr04-abr05               ------ SEMANA SANTA --------------------
-     W04 abr11-abr12    análisis datos       análisis de datos
-     W05 abr18-abr19    análisis datos       PROYECTO-AVANCE 1	          Parcial 1 (2 a 4 pm)
-     W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.
+     W04 abr11-abr12    análisis datos       análisis de datos            Chile
+     W05 abr18-abr19    análisis datos       PROYECTO-AVANCE 1	          ISBI
+     W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.         Parcial 1 (2 a 4 pm)
      W07 may02-may03    Clasificación A.M.S. Metodos A.M.S
      W08 may09-may10    Regresión A.M.S      Deep Learning
      W09 may16-may17    DNN-imgs-estruc      DNN-audio
