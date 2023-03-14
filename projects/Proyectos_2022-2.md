@@ -122,7 +122,7 @@
 
 **Autores: Valentina Galeano Castro**
 
-<img src="https://user-images.githubusercontent.com/99009069/219459472-beab7a0d-8c02-4c11-bd70-ab51c5ef70b2.png" style="width:700px;">
+<img src="https://user-images.githubusercontent.com/99009069/219459472-beab7a0d-8c02-4c11-bd70-ab51c5ef70b2.png" width="700">
 
 **Objetivo:Analizar el sentimiento en textos obtenidos de una serie de tweets en un parametro de tiempo con la caracteristica de que se puede establecer cualquier tipo de consulta en la red social.**
 
