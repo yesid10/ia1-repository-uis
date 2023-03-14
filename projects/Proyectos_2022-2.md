@@ -14,6 +14,9 @@
 6. [Flight Probability](#proy6)
 
 7. [Análisis de sentimiento en Twitter](#proy7)
+8. [ZOODEC (Deteccion de objetos, clasificacion de animales)](#proy8)
+9. [Captcha Image Solver](#proy9)
+10. [Prediccion de Anemia](#proy10)
 
 ---
 
@@ -127,7 +130,58 @@
 **Objetivo:Analizar el sentimiento en textos obtenidos de una serie de tweets en un parametro de tiempo con la caracteristica de que se puede establecer cualquier tipo de consulta en la red social.**
 
 - Dataset: Para recopliar los datos se utilizó la técnica de web scraping y se tomaron 500 tweets en la consulta avanzada establecida.
-- Modelo: GaussiaNB, SVC y Redes Neuronales
+- Modelo: GaussianNB, SVC y Redes Neuronales
 
 [(code)](https://github.com/Vale-gale/TweetsAnalysis/blob/main/cygnusIA.ipynb) [(video)](https://youtu.be/9tp7gooYEls) [(+info)](https://github.com/Vale-gale/TweetsAnalysis)
 ---
+
+
+
+##  ZOODEC (Deteccion de objetos, clasificacion de animales <a name="proy8"></a>
+
+**Autores: Jesus Fernando Ramirez Ardila, Jefersson Alejandro Galeano Hernandez, Juan David Medina Hernández**
+
+<img src="https://raw.githubusercontent.com/jmedinah05/IA/main/Banner.jpeg" width="700">
+
+**Objetivo:Inteligencia artificial la cual es capaz de reconocer distintos tipos de animales a partir de una imagen.**
+
+- Dataset: ?.
+- Modelo: GaussianNB, DT, RF y Redes Neuronales
+
+[(code)](https://github.com/jmedinah05/IA/blob/main/Project.ipynb) [(video)](https://www.youtube.com/watch?v=IKhjWf3psH0) [(+info)](https://github.com/jmedinah05/IA)
+---
+
+
+
+##  Captcha Image Solver <a name="proy9"></a>
+
+**Autores: Javier Andrés Sarmiento Salazar, Felipe Andrés Cepeda Ortiz, Nicolas Velandia Lopez**
+
+<img src="https://raw.githubusercontent.com/Sarmient02/CaptchaImageSolver/main/BannerCaptchaImageSolver.png" width="700">
+
+**Objetivo:Crear una red neuronal capaz de resolver una imagen de tipo Captcha, logrando superar de forma automática estas barreras usadas en muchos sitios web.**
+
+- Dataset: En este repositorio [(Captcha Images - Kaggle)](https://www.kaggle.com/datasets/fanbyprinciple/captcha-images)
+- Modelo: Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier, Support Vector Machine y Red Neuronal Convolucional Sequential.
+
+[(code)](https://github.com/Sarmient02/CaptchaImageSolver/blob/main/Captcha_Proyecto_Inteligencia_Artificial.ipynb) [(video)](https://youtu.be/UZdcHM9GJns) [(+info)](https://github.com/Sarmient02/CaptchaImageSolver)
+---
+
+
+
+##  Prediccion de Anemia <a name="proy10"></a>
+
+**Autores: Dilan Corredor, Sebastian Mendoza, Juan Claro**
+
+<img src="https://camo.githubusercontent.com/92522ff9bca1ecfbc482123dadfdf9ce96fa73c89f7efc5530471b79ea6e87fb/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833343138303330313339353036363932392f313037353534383830313331353634333433332f42616e6e65725f416e656d69612e6a706567" width="700">
+
+**Objetivo:El objetivo de nuestro proyecto es predecir la anemia en base a los atributos genero, hemoglobina, MCHC, MCUV, MCH, resultados.**
+
+- Dataset: En este repositorio [(Anemia Dataset)](https://www.kaggle.com/datasets/biswaranjanrao/anemia-dataset)
+- Modelo: DecisionTreeClassifier, RandomForest, GaussianNB, Support Vector Machine.
+
+[(code)](https://github.com/sebanma/Predicci-n-de-Anemia/blob/main/ProyectoInteligenciaArtificial.ipynb) [(video)](https://www.youtube.com/watch?v=PscUQtIYlfI) [(+info)](https://github.com/sebanma/Predicci-n-de-Anemia.git)
+---
+
+
+
