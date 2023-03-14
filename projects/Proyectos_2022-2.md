@@ -13,6 +13,8 @@
 5. [Clasificación de neumonía en pacientes de pedriatria](#proy5)
 6. [Flight Probability](#proy6)
 
+7. [Análisis de sentimiento en Twitter](#proy7)
+
 ---
 
 ## Deteccion de Suicidios <a name="proy1"></a>
@@ -114,3 +116,18 @@
 [(code)](https://colab.research.google.com/drive/1qONmCiwXopx_zgAPCUjSRzS5zsiQFhCf) [(video)](https://github.com/DiegoEsteban07/Proyecto_Inteligencia_Artificial/blob/main/video%20Protecto%20IA.mp4) [(+info)](https://github.com/DiegoEsteban07/Proyecto_Inteligencia_Artificial)
 ---
 
+
+
+##  Análisis de sentimiento en Twitter <a name="proy7"></a>
+
+**Autores: Valentina Galeano Castro**
+
+<img src="https://user-images.githubusercontent.com/99009069/219459472-beab7a0d-8c02-4c11-bd70-ab51c5ef70b2.png" style="width:700px;">
+
+**Objetivo:Analizar el sentimiento en textos obtenidos de una serie de tweets en un parametro de tiempo con la caracteristica de que se puede establecer cualquier tipo de consulta en la red social.**
+
+- Dataset: Para recopliar los datos se utilizó la técnica de web scraping y se tomaron 500 tweets en la consulta avanzada establecida.
+- Modelo: GaussiaNB, SVC y Redes Neuronales
+
+[(code)](https://github.com/Vale-gale/TweetsAnalysis/blob/main/cygnusIA.ipynb) [(video)](https://youtu.be/9tp7gooYEls) [(+info)](https://github.com/Vale-gale/TweetsAnalysis)
+---
