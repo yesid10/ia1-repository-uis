@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2022-2
+# Inteligencia Artificial I 2023-1
 
 ## Bienvenidos!
 
@@ -68,46 +68,43 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 oct11-oct12    Intro                Python-general
-     W02 oct18-oct19    Python-Numpy         Pandas
-     W03 oct25-oct26    Pandas               Visualización
-     W04 nov01-nov02    análisis datos       análisis de datos
-     W05 nov08-nov09    análisis datos       PROYECTO-AVANCE 1	          Parcial 1 (2 a 4 pm)
-     W06 nov15-nov16    Intro & ML-Gauss     Clasificación A.M.S.
-     W07 nov22-nov23    Clasificación A.M.S. Metodos A.M.S
-     W08 nov29-nov30    Regresión A.M.S      Deep Learning
-     W09 dic06-dic07    DNN-imgs-estruc      DNN-audio
-     W10 dic13-dic14    DNN-audio            PROYECTO-AVANCE 2
-
-         Dic 19-Ene 06  ------ VACACIONES --------------------
-
-
-
-
-     W11 ene10-ene11  DNN-imgs-estruc         DNN-imgs-estruc
-     W12 ene17-ene18  DNN-imgs-estruc         DNN-audio
-     W13 ene24-ene25  No supervisado          No supervisado            parcial 2 (2 a 4 pm) - 28 de Enero
-     W14 ene31-feb01  Planning and search     Genetic Alg
-     W15 feb07-feb08  Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
-     W16 feb14-feb15  SUS PROJ                SUS PROJ
+     W01 mar14-mar15    Intro                Python-general
+     W02 mar21-mar22    Python-Numpy         Pandas
+     W03 mar28-mar29    Pandas               Visualización
+         abr04-abr05               ------ SEMANA SANTA --------------------
+     W04 abr11-abr12    análisis datos       análisis de datos            Chile
+     W05 abr18-abr19    análisis datos       PROYECTO-AVANCE 1	          ISBI
+     W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.         Parcial 1 (2 a 4 pm)
+     W07 may02-may03    Clasificación A.M.S. Metodos A.M.S
+     W08 may09-may10    Regresión A.M.S      Deep Learning
+     W09 may16-may17    DNN-imgs-estruc      DNN-audio
+     W10 may23-may24    DNN-audio            PROYECTO-AVANCE 2
+     W11 may30-may31  DNN-imgs-estruc         DNN-imgs-estruc
+     W12 jun06-jun07  DNN-imgs-estruc         DNN-audio
+     W13 jun13-jun14  No supervisado          No supervisado            parcial 2 (2 a 4 pm) - 28 de Enero
+     W14 jun20-jun21  Planning and search     Genetic Alg
+         jun26-jul10             --------  VACACIONES DOCENTES ---------------
+     W15 jul11-jul12  Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
+     W16 jul18-jul19  SUS PROJ                SUS PROJ
 
 
 
 
-     Nov 18             -> Registro primera nota
-     Dic 02             -> Último día cancelación materias
-     Dic 19 - Ene 06    -> VACACIONES
-     Feb 17             -> Finalización clase
-     Feb 17 - Feb 21    ->  evaluaciones finales
-     Feb 21             -> Registro calificaciones finales
-     Feb 24             -> habilitaciones
-     Feb 25             -> Registro de calificaciones definitivas
+     abr04-abr05         -> Semana santa
+     abril 28            -> Registro primera nota
+     mayo 12             -> Último día cancelación materias
+     jun26-jul10         -> Vacaciones docentes
+     jul 21              -> Finalización clase
+     jul 24 - jul 26     ->  evaluaciones finales
+     jul 26              -> Registro calificaciones finales
+     jul 27              -> habilitaciones
+     jul 28              -> Registro de calificaciones definitivas
 
     
 
 
-**ACUERDO n.° acuerdo 162, del 7 de junio de 2022**
-[Calendario academico](https://uis.edu.co/wp-content/uploads/2022/06/Acuacadem-162-22.pdf)
+**ACUERDO n.° acuerdo 377, del 15 de noviembre de 2022**
+[Calendario academico](https://uis.edu.co/wp-content/uploads/2022/12/Calendario-Academico-2023.pdf)
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
