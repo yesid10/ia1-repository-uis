@@ -235,7 +235,7 @@
 
 **Autores: Miguel Ángel Plata Rodríguez, Adriana Marcela Cujia Reyes, Sebastían Suarez**
 
-<img src="" width="700">
+<!--<img src="" width="700">-->
 
 **Objetivo: (no enviaron).**
 
