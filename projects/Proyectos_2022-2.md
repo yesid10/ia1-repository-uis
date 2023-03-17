@@ -235,14 +235,14 @@
 
 **Autores: Miguel Ángel Plata Rodríguez, Adriana Marcela Cujia Reyes, Sebastían Suarez**
 
-<!--<img src="" width="700">-->
+<img src="https://raw.githubusercontent.com/Minerisho/Proyecto-AI1-2022-2/main/Banner.jpg" width="700">
 
-**Objetivo: (no enviaron).**
+**Objetivo: Predecir el valor de la compra de un cliente, a partir de los datos extraídos de múltiples cotizaciones pasadas.**
 
 - Dataset: (propio)
-- Modelo: DTR, RFR y SVR
+- Modelo: Regression, Random Tree Regressor, Cross Validation, Random Forest Regressor, Support Vector Regressor.
 
-<!--[(code)](NoEnviaron) [(video)](NoEnviaron) [(+info)](NoEnviaron)-->
+[(code)](https://github.com/Minerisho/Proyecto-AI1-2022-2/blob/main/Proyecto_Final.ipynb) [(video)](https://www.youtube.com/watch?v=Nz2-mNNV38w) [(+info)](https://github.com/Minerisho/Proyecto-AI1-2022-2)
 ---
 
 
