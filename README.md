@@ -73,7 +73,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W03 mar28-mar29    Pandas               Visualización
          abr04-abr05               ------ SEMANA SANTA --------------------
      W04 abr11-abr12    análisis datos       análisis de datos            Chile
-     W05 abr18-abr19    análisis datos       PROYECTO-AVANCE 1	          ISBI
+     W05 abr18-abr19    --                   PROYECTO-AVANCE 1	          ISBI
      W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.         Parcial 1 (2 a 4 pm)
      W07 may02-may03    Clasificación A.M.S. Metodos A.M.S
      W08 may09-may10    Regresión A.M.S      Deep Learning
