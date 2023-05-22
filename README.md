@@ -76,15 +76,15 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W05 abr18-abr19    --                  PROYECTO-AVANCE 1	          ISBI
      W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.         Parcial 1 - 26 abril -29  abril(2 a 4 pm)
      W07 may02-may03    Clasificación A.M.S. Metodos A.M.S
-     W08 may09-may10    Regresión A.M.S      Deep Learning
-     W09 may16-may17    DNN-imgs-estruc      DNN-audio
-     W10 may23-may24    DNN-audio            PROYECTO-AVANCE 2
-     W11 may30-may31  DNN-imgs-estruc         DNN-imgs-estruc
-     W12 jun06-jun07  DNN-imgs-estruc         DNN-audio
-     W13 jun13-jun14  No supervisado          No supervisado            parcial 2 (2 a 4 pm) - 28 de Enero
-     W14 jun20-jun21  Planning and search     Genetic Alg
+     W08 may09-may10    Regresión A.M.S
+     W09 may16-may17
+     W10 may23-may24    DNN-imgs-estruc      Deep Learning
+     W11 may30-may31    DNN-audio            PROYECTO-AVANCE 2
+     W12 jun06-jun07    No supervisado          No supervisado                parcial 2 (2 a 4 pm) - 28 de Enero
+     W13 jun13-jun14    Planning and search     Genetic Alg
+     W14 jun20-jun21   Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
          jun26-jul10             --------  VACACIONES DOCENTES ---------------
-     W15 jul11-jul12  Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
+     W15 jul11-jul12  Genetic Applications    Aplications
      W16 jul18-jul19  SUS PROJ                SUS PROJ
 
 
