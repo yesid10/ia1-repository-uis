@@ -18,7 +18,7 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 ## Calificación
 - 30% Talleres
-- 10% Talleres en clase. (>5 participaciones)
+- 10% Talleres en clase. (participaciones por cuartiles)
 - 30% Parciales
 - 30% Proyecto funcional IA 
 
@@ -68,37 +68,35 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 mar14-mar15    Intro                Python-general
-     W02 mar21-mar22    Python-Numpy         Python-Numpy
-     W03 mar28-mar29    Pandas               Pandas
-         abr04-abr05               ------ SEMANA SANTA --------------------
-     W04 abr11-abr12    Visualización       análisis de datos            Chile
-     W05 abr18-abr19    --                  PROYECTO-AVANCE 1	          ISBI
-     W06 abr25-abr26    Intro & ML-Gauss     Clasificación A.M.S.         Parcial 1 - 26 abril -29  abril(2 a 4 pm)
-     W07 may02-may03    Clasificación A.M.S. Metodos A.M.S
-     W08 may09-may10    Regresión A.M.S
-     W09 may16-may17
-     W10 may23-may24    DNN-imgs-estruc      Deep Learning
-     W11 may30-may31    DNN-audio            PROYECTO-AVANCE 2
-     W12 jun06-jun07    No supervisado          No supervisado                parcial 2 (2 a 4 pm) - 28 de Enero
-     W13 jun13-jun14    Planning and search     Genetic Alg
-     W14 jun20-jun21   Genetic Alg             aclaraciones              Parcial 3  (2 a 4 pm)
-         jun26-jul10             --------  VACACIONES DOCENTES ---------------
-     W15 jul11-jul12  Genetic Applications    Aplications
-     W16 jul18-jul19  SUS PROJ                SUS PROJ
+     W01 aug22-aug23    Intro                Python-general
+     W02 aug29-aug30    Python-Numpy         Python-Numpy
+     W03 sep05-sep06    Pandas               Pandas
+     W04 sep12-sep13    Visualización        análisis de datos
+     W05 sep19-sep20    PROYECTO-AVANCE 1    PROYECTO-AVANCE 1       Parcial 1
+     W06 sep26-sep27    Intro & ML-Gauss     Clasificación A.M.S.
+     W07 oct03-oct04    Clasificación A.M.S. Metodos A.M.S
+     W08 oct10-oct11    Regresión A.M.S       Deep Learning
+     W09 oct17-oct18    DNN-imgs-estruc      Deep Learning
+     W10 oct24-oct25    DNN-audio            DNN-audio
+     W11 oct31-nov01    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2       parcial 2
+     W12 nov07-nov08    No supervisado       No supervisado
+     W13 nov14-nov15    Dim red: PCA         Dim red: tsn-e
+     W14 nov21-nov22    Genetic Alg          Genetic Alg             Parcial 3  (2 a 4 pm)
+     W15 nov28-nov29    PROYECTO-AVANCE 3    PROYECTO-AVANCE 3
+     W16 dic05-dic06    SUS PROJ                SUS PROJ
 
 
 
 
-     abr04-abr05         -> Semana santa
-     abril 28            -> Registro primera nota
-     mayo 12             -> Último día cancelación materias
-     jun26-jul10         -> Vacaciones docentes
-     jul 21              -> Finalización clase
-     jul 24 - jul 26     ->  evaluaciones finales
-     jul 26              -> Registro calificaciones finales
-     jul 27              -> habilitaciones
-     jul 28              -> Registro de calificaciones definitivas
+     sept 29             -> Registro primera nota
+     oct 13              -> Último día cancelación materias
+     oct 13              -> Último dia cancelación de matricula académica
+     dic 07              -> Finalización clase
+     dic 11 - dic 13     ->  evaluaciones finales
+     dic 13              -> Registro calificaciones finales
+     dic 14              -> habilitaciones
+     dic 15              -> Registro de calificaciones definitivas
+     dic 18              -> Vacaciones de personal docente y administrativo
 
     
 
