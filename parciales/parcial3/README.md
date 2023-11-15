@@ -1,4 +1,4 @@
-## **Busqeda por contenido: Análisis no supervisado** (30% del primer parcial)
+## **Busqeda por contenido: Análisis no supervisado** (30% del tercer parcial)
 
 Para realizar este ejercicio vamos a usar los datos del proyecto del curso.
     - En consecuencia, el ejercicio se podrá trabajar en grupo.
