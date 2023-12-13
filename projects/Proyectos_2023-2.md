@@ -11,6 +11,9 @@
 3. [DETECCION DE LETRAS DEL ABECEDARIO DEL LENGUAJE DE SEÑAS COLOMBIANO (LSC)](#proy3)
 4. [Deteccion mortalidad de enfermedades cardiacas](#proy4)
 5. [Handwritten Alphabet Letter Recognition System](#proy5)
+6. [DEC: Diagnóstico de Enmerfedad Cardiovascular](#proy6)
+7. [Dataset precio BITCOIN](#proy7)
+8. [Red de calidad de aire- datos metereológicos](#proy8)
 
 
 
@@ -88,3 +91,54 @@
 
 [(project sources)](https://github.com/Pholluxion/potential-system/tree/main)
 ---
+## P <DEC: Diagnóstico de Enmerfedad Cardiovascular name="proy6"></a>
+
+**Autores: Johan Sebastián León Peñaloza - 2202037, Marcos Duván Nítola Rodríguez - 2200146, Santiago González Flores - 2200165**
+
+<img src="https://private-user-images.githubusercontent.com/99308344/289706129-5e7eb1d3-77cd-4bd0-a1b7-c1abee9d414a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1MDcxMjMsIm5iZiI6MTcwMjUwNjgyMywicGF0aCI6Ii85OTMwODM0NC8yODk3MDYxMjktNWU3ZWIxZDMtNzdjZC00YmQwLWExYjctYzFhYmVlOWQ0MTRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDIyMzM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2ZWIwOGQyYTMzMjk5NjEwYTlhNGNkNjU1ZmZjMWM4MzQ0MzRkZWU2Y2E3YzQ2ZDFmMDlkOWJiODBjODEzNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.p90Mx5tMlgHWKtxhNa9P-l8epNLDNgb34nVGduAGujw" style="width:700px;">
+
+****
+
+- Modelo:Predecir si una persona posee un mayor riesgo de desarrollar una enfermedad cardiovascular en función de sus características y hábitos de vida.
+
+
+
+- video https://www.youtube.com/watch?v=mM-RTdBzRM0
+
+[(project sources)](https://github.com/Jslp18/IA1-Project/blob/main/README.md)
+---
+
+## P <Dataset precio BITCOIN name="proy6"></a>
+
+**Autores: Jhon Danilo Rincón Maldonado Miguel Fernando Pardo Maldonado Andres Joan Pardo Alquichire**
+
+<img src="https://private-user-images.githubusercontent.com/77182773/290285015-7442756b-7758-495b-ac2a-449df88a3eea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1MDcyNzksIm5iZiI6MTcwMjUwNjk3OSwicGF0aCI6Ii83NzE4Mjc3My8yOTAyODUwMTUtNzQ0Mjc1NmItNzc1OC00OTViLWFjMmEtNDQ5ZGY4OGEzZWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDIyMzYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4ZTdlNGZlYjFlZTY4ZjRkNzkzYWMyODNjMWJiODBjOWEyNjhmZTAzMjVhNDA5NTg0YmRhZDRmN2JhODBjNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qn66qitj4eb7E4eBexvZSHqdpAcZYXtbXe_GMTgoz_c" style="width:700px;">
+
+****
+
+- Modelo:Predecir el ciclo de BITCOIN en una secuencia de datos.
+
+
+
+- video https://www.youtube.com/watch?v=TCrbkVABmSU
+
+[(project sources)](https://github.com/miguel0277/ProyectoIA)
+---
+
+## P <Red de calidad de aire- datos metereológicos name="proy6"></a>
+
+**Autores: Alvaro Stiven Mejia**
+
+<img src="https://github.com/Stevenmjo7/Proyecto-IA/blob/main/2204006.jpg" style="width:700px;">
+
+****
+
+- Modelo:Predecir datos metereológicos
+
+
+
+- video https://www.youtube.com/watch?v=KEiQdYGGlmc&feature=youtu.be
+
+[(project sources)](https://github.com/Stevenmjo7/Proyecto-IA)
+---
+
