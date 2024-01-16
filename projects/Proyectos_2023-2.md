@@ -110,19 +110,16 @@
 [(project sources)](https://github.com/Jslp18/IA1-Project/blob/main/README.md)
 ---
 
-## P <Dataset precio BITCOIN name="proy6"></a>
+## Dataset precio BITCOIN <a name="proy7"></a>
 
 **Autores: Jhon Danilo Rincón Maldonado Miguel Fernando Pardo Maldonado Andres Joan Pardo Alquichire**
 
-<img src="https://private-user-images.githubusercontent.com/77182773/290285015-7442756b-7758-495b-ac2a-449df88a3eea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1MDcyNzksIm5iZiI6MTcwMjUwNjk3OSwicGF0aCI6Ii83NzE4Mjc3My8yOTAyODUwMTUtNzQ0Mjc1NmItNzc1OC00OTViLWFjMmEtNDQ5ZGY4OGEzZWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDIyMzYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4ZTdlNGZlYjFlZTY4ZjRkNzkzYWMyODNjMWJiODBjOWEyNjhmZTAzMjVhNDA5NTg0YmRhZDRmN2JhODBjNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qn66qitj4eb7E4eBexvZSHqdpAcZYXtbXe_GMTgoz_c" style="width:700px;">
+<img src="https://private-user-images.githubusercontent.com/77182773/290285015-7442756b-7758-495b-ac2a-449df88a3eea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MzczNDYsIm5iZiI6MTcwNTQzNzA0NiwicGF0aCI6Ii83NzE4Mjc3My8yOTAyODUwMTUtNzQ0Mjc1NmItNzc1OC00OTViLWFjMmEtNDQ5ZGY4OGEzZWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDIwMzA0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZDhhZGY4ZmM4NjgyYTY1YWRiYTg3MzlmZTk3YjljZjNiOTk4MjE1YmQ5YmQyODE0YmNmNjgzYmUyMTE1N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pClhGdbsEppnpkkiCxOOS6kAkvPKgv64ugo95ktGxvk" style="width:700px;">
 
 ****
 
-- Modelo:Predecir el ciclo de BITCOIN en una secuencia de datos.
-
-
-
-- video https://www.youtube.com/watch?v=TCrbkVABmSU
+- Modelo: Predecir el ciclo de BITCOIN en una secuencia de datos.
+- Video: https://www.youtube.com/watch?v=TCrbkVABmSU
 
 [(project sources)](https://github.com/miguel0277/ProyectoIA)
 
