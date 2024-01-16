@@ -92,22 +92,21 @@
 - video https://github.com/Pholluxion/potential-system/blob/main/link
 
 [(project sources)](https://github.com/Pholluxion/potential-system/tree/main)
+
 ---
-## P <DEC: Diagnóstico de Enmerfedad Cardiovascular name="proy6"></a>
+## DEC: Diagnóstico de Enmerfedad Cardiovascular <a name="proy6"></a>
 
 **Autores: Johan Sebastián León Peñaloza - 2202037, Marcos Duván Nítola Rodríguez - 2200146, Santiago González Flores - 2200165**
 
-<img src="https://private-user-images.githubusercontent.com/99308344/289706129-5e7eb1d3-77cd-4bd0-a1b7-c1abee9d414a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1MDcxMjMsIm5iZiI6MTcwMjUwNjgyMywicGF0aCI6Ii85OTMwODM0NC8yODk3MDYxMjktNWU3ZWIxZDMtNzdjZC00YmQwLWExYjctYzFhYmVlOWQ0MTRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDIyMzM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2ZWIwOGQyYTMzMjk5NjEwYTlhNGNkNjU1ZmZjMWM4MzQ0MzRkZWU2Y2E3YzQ2ZDFmMDlkOWJiODBjODEzNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.p90Mx5tMlgHWKtxhNa9P-l8epNLDNgb34nVGduAGujw" style="width:700px;">
+<img src="https://private-user-images.githubusercontent.com/99308344/289706129-5e7eb1d3-77cd-4bd0-a1b7-c1abee9d414a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0Mzc1MDgsIm5iZiI6MTcwNTQzNzIwOCwicGF0aCI6Ii85OTMwODM0NC8yODk3MDYxMjktNWU3ZWIxZDMtNzdjZC00YmQwLWExYjctYzFhYmVlOWQ0MTRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDIwMzMyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmOGE4NmVjNGQ3NTk5YmQ4ODc4OGY0NjU4MzlkYzRiNWM1NTc0NTY3ZDk4YzQxMDg3YjJiZGQ2ZTA2M2I3OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wXCoLZw5vWz4KRFYTKHjHfxhPCyc2_eEGeBAUBFG3zM" style="width:700px;">
 
 ****
 
 - Modelo:Predecir si una persona posee un mayor riesgo de desarrollar una enfermedad cardiovascular en función de sus características y hábitos de vida.
-
-
-
-- video https://www.youtube.com/watch?v=mM-RTdBzRM0
+- Video: https://www.youtube.com/watch?v=mM-RTdBzRM0
 
 [(project sources)](https://github.com/Jslp18/IA1-Project/blob/main/README.md)
+
 ---
 
 ## Dataset precio BITCOIN <a name="proy7"></a>
