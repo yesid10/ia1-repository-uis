@@ -15,8 +15,22 @@
 7. [Dataset precio BITCOIN](#proy7)
 8. [Red de calidad de aire - datos metereológicos](#proy8)
 9. [Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente](#proy9)
-
 10. [Sistema de Predicción Temprana de Obesidad](#proy10)
+11. [Royal Flush: Classification models for a Poker Hands Dataset](#proy11)
+12. [PD AI](#proy12)
+13. [Clasificación de posiciones finales de pilotos en la Fórmula 1](#proy13)
+14. [El ojo de bucar](#proy14)
+15. [Predicción economía y precio de la BigMac](#proy15)
+16. [Estimación precios del Bitcoin](#proy16)
+17. [SP-MUSIC_AI](#proy17)
+18. [Diseño de lentes de contacto](#proy18)
+19. [Clasificador de aplicaciones Play Store](#proy19)
+20. [Olimpics Winner Predictor](#proy20)
+21. [Medicamentos Vigentes](#proy21)
+22. [Detección de anomalías en trenes](#proy22)
+23. [Clasificación de cuentas falsas de Instagram con IA](#proy23)
+24. [Pronóstico de aceptación de depósito a plazo](#proy24)
+25. [Análisis de Riesgo Crediticio](#proy25)
 
 
 ---
@@ -136,9 +150,6 @@
 [(project sources)](https://github.com/Stevenmjo7/Proyecto-IA)
 
 ---
-
-
-
 
 
 ## Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente <a name="proy9"></a>
@@ -280,7 +291,7 @@
 
 **Autores: Daniel Alejandro Sánchez Rodríguez - 2205620, Daniel Camilo Barrera Perez - 2205562**
 
-<img src="https://private-user-images.githubusercontent.com/131118045/288806000-8ec68b8d-2560-4896-b09c-69ef6462d3b6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NDA3NDgsIm5iZiI6MTcwNTQ0MDQ0OCwicGF0aCI6Ii8xMzExMTgwNDUvMjg4ODA2MDAwLThlYzY4YjhkLTI1NjAtNDg5Ni1iMDljLTY5ZWY2NDYyZDNiNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNlQyMTI3MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NThiZDcwMzhiMGQ5ZmI0YWMyMGI1YzYxNjc5ZTVjM2IyNWVhNTY3NzFmZTIxYTg2NjcyNTNlZWIwYWE5MjRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.PwyRm43rnb8SJXpD63Gc4-GYs0gPHVuhCRhdCu7-GFw" style="width:700px;">
+<img src="https://raw.githubusercontent.com/daroap19/IA_Proyecto/main/Banner_IA.jpg" style="width:700px;">
 
 **Objetivo: Observar que lente de contacto se adecua mejor según la enfermedad que tenga.**
 
@@ -291,11 +302,11 @@
 ---
 
 
-## Clasificador de aplicaciones play Store <a name="proy19"></a>
+## Clasificador de aplicaciones Play Store <a name="proy19"></a>
 
 **Autores: Cristian Stivens Villarreal Parra - 2204132, Joan Sebastian Patiño Jaimes - 2202052, Jorge Eduardo Suarez Cortes - 2205561**
 
-<img src="https://private-user-images.githubusercontent.com/131670275/288790419-222438eb-6a00-492e-bfb7-279ba3daa021.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NDA5NjYsIm5iZiI6MTcwNTQ0MDY2NiwicGF0aCI6Ii8xMzE2NzAyNzUvMjg4NzkwNDE5LTIyMjQzOGViLTZhMDAtNDkyZS1iZmI3LTI3OWJhM2RhYTAyMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNlQyMTMxMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZmNmMGZmNjMwMjgzOTNjOTFiM2EwNTM2ZjMxYjliZDI5ZTVhYTIwZjc1YjExMTMwNTc3NzIyMmIzZDkzNjRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mKD5LcWUWTXbmpYtgXK_Fjr_85-58-DsUDJ3vgN1bcA" style="width:700px;">
+<img src="https://raw.githubusercontent.com/Jspj1011/Play_Store_clasi/main/banner.jpg" style="width:700px;">
 
 **Objetivo: El objetivo del proyecto es diseñar un modelo de clasificación que nos permita hallar la aplicación más popular en el conjunto de datos según diferentes variables como, su categoría, género, tipo, instalaciones, etc. Una vez entrenado, el clasificador podrá identificar la mejor aplicación en función de los criterios seleccionados.**
 
