@@ -13,7 +13,7 @@
 5. [Handwritten Alphabet Letter Recognition System](#proy5)
 6. [DEC: Diagnóstico de Enmerfedad Cardiovascular](#proy6)
 7. [Dataset precio BITCOIN](#proy7)
-8. [Red de calidad de aire- datos metereológicos](#proy8)
+8. [Red de calidad de aire - datos metereológicos](#proy8)
 
 9. [Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente](#proy9)
 
@@ -125,23 +125,22 @@
 - video https://www.youtube.com/watch?v=TCrbkVABmSU
 
 [(project sources)](https://github.com/miguel0277/ProyectoIA)
+
 ---
 
-## P <Red de calidad de aire- datos metereológicos name="proy6"></a>
+## Red de calidad de aire - datos metereológicos <a name="proy8"></a>
 
 **Autores: Alvaro Stiven Mejia**
 
-<img src="https://github.com/Stevenmjo7/Proyecto-IA/blob/main/2204006.jpg" style="width:700px;">
+<img src="https://raw.githubusercontent.com/Stevenmjo7/Proyecto-IA/main/2204006.jpg" style="width:700px;">
 
 ****
 
-- Modelo:Predecir datos metereológicos
-
-
-
-- video https://www.youtube.com/watch?v=KEiQdYGGlmc&feature=youtu.be
+- Modelo: Predecir datos metereológicos
+- Video: https://www.youtube.com/watch?v=KEiQdYGGlmc
 
 [(project sources)](https://github.com/Stevenmjo7/Proyecto-IA)
+
 ---
 
 
@@ -157,7 +156,6 @@
 **Objetivo: Determinar el riesgo de un cáncer de pulmón basado en los síntomas que este presenta.**
 
 - Modelos: Support Vector Machine, Decision Tree Classifier, Random Forest Classifier.
-
 - Video: https://www.youtube.com/watch?v=_LWYnfy13Mo
 
 [(project sources)](https://github.com/miguel2190932/Predicci-n_c-ncer_de_pulm-n)
