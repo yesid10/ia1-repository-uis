@@ -1,5 +1,5 @@
 ---
-# Proyectos 2021-1. Inteligencia Artificial. 
+# Proyectos 2023-2. Inteligencia Artificial. 
 
 ## Prof: Fabio Martínez, Ph.D
 ## Prof: Gustavo Garzón
@@ -62,23 +62,23 @@
 - video https://www.youtube.com/watch?v=AX7lqDK1lRM
 
 [(project sources)](https://github.com/afxmejia02/DetectorLSC-ProyectoIA)
+
 ---
-## P <Deteccion mortalidad de enfermedades cardiacas name="proy4"></a>
+## Deteccion mortalidad de enfermedades cardiacas <a name="proy4"></a>
 
 **Autores: Javier Andrés Peña Vargas - 2204123 , Santiago Yarce Prince - 2204122.**
 
-<img src="https://private-user-images.githubusercontent.com/143100480/287475111-a0818a45-81dc-437f-954a-ab93c75235f6.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE4OTcwODUsIm5iZiI6MTcwMTg5Njc4NSwicGF0aCI6Ii8xNDMxMDA0ODAvMjg3NDc1MTExLWEwODE4YTQ1LTgxZGMtNDM3Zi05NTRhLWFiOTNjNzUyMzVmNi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMDZUMjEwNjI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTRjZWZmYmE5ZDhjYTM1ZDRiZGYzNjA0MDVjNTYyNzMxYjdmZmY2YjNiMzhmYzI2YTJlOTljYjc0YmFkYzQxOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.pDzczEovHexCcssGqG0NSP0zTUWafmp9C52NMc1OMog" style="width:700px;">
+<img src="https://private-user-images.githubusercontent.com/143100480/287475111-a0818a45-81dc-437f-954a-ab93c75235f6.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0Mzc5OTksIm5iZiI6MTcwNTQzNzY5OSwicGF0aCI6Ii8xNDMxMDA0ODAvMjg3NDc1MTExLWEwODE4YTQ1LTgxZGMtNDM3Zi05NTRhLWFiOTNjNzUyMzVmNi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDExNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMTZUMjA0MTM5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTYyZDk3YjdkMTAyOGU3ODA5YjBjOTU1M2QyNjgyMjgxMDgzMmJmZWFjZTNhMDIzOTk1YmQxMTZjMDNhOGUxZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.p3HiEbcO7TXFmcfTil2XOemZQSyV4KmPnh2ClgziGuk" style="width:700px;">
 
 ****
 
-- Modelo:Poder disminuir victimas de enfermedades cardiacas
-
-
-- video https://www.youtube.com/watch?v=4KmTj00PkQ0&ab_channel=SantiagoYarcePrince
+- Modelo: Poder disminuir victimas de enfermedades cardiacas
+- Video: https://www.youtube.com/watch?v=4KmTj00PkQ0
 
 [(project sources)](https://github.com/javierPena28/Proyecto-IA/blob/main/README.md)
+
 ---
-## P <Handwritten Alphabet Letter Recognition System name="proy5"></a>
+## Handwritten Alphabet Letter Recognition System <a name="proy5"></a>
 
 **Autores: Carlos Daniel Peñaloza Torres**
 
@@ -86,14 +86,13 @@
 
 ****
 
-- Modelo:Desarrollar e implementar un sistema de reconocimiento de escritura a mano empleando algoritmos de inteligencia artificial.
-
-
-- video https://github.com/Pholluxion/potential-system/blob/main/link
+- Modelo: Desarrollar e implementar un sistema de reconocimiento de escritura a mano empleando algoritmos de inteligencia artificial.
+- Video: https://github.com/Pholluxion/potential-system/blob/main/link
 
 [(project sources)](https://github.com/Pholluxion/potential-system/tree/main)
 
 ---
+
 ## DEC: Diagnóstico de Enmerfedad Cardiovascular <a name="proy6"></a>
 
 **Autores: Johan Sebastián León Peñaloza - 2202037, Marcos Duván Nítola Rodríguez - 2200146, Santiago González Flores - 2200165**
@@ -102,7 +101,7 @@
 
 ****
 
-- Modelo:Predecir si una persona posee un mayor riesgo de desarrollar una enfermedad cardiovascular en función de sus características y hábitos de vida.
+- Modelo: Predecir si una persona posee un mayor riesgo de desarrollar una enfermedad cardiovascular en función de sus características y hábitos de vida.
 - Video: https://www.youtube.com/watch?v=mM-RTdBzRM0
 
 [(project sources)](https://github.com/Jslp18/IA1-Project/blob/main/README.md)
