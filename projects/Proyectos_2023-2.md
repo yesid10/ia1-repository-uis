@@ -15,6 +15,8 @@
 7. [Dataset precio BITCOIN](#proy7)
 8. [Red de calidad de aire- datos metereológicos](#proy8)
 
+9. [Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente](#proy9)
+
 
 
 ---
@@ -142,3 +144,20 @@
 [(project sources)](https://github.com/Stevenmjo7/Proyecto-IA)
 ---
 
+
+
+
+
+## Clasificador de riesgo de cáncer de pulmón basado en los síntomas del paciente <a name="proy9"></a>
+
+**Autores: Jorge Andrey García Vanegas - 2180115, Daniel Felipe Calderón Calderón - 2210052, Miguel Enrique Quintero Suarez - 2190932**
+
+<img src="https://raw.githubusercontent.com/miguel2190932/Predicci-n_c-ncer_de_pulm-n/main/Banner.png" style="width:700px;">
+
+**Objetivo: Determinar el riesgo de un cáncer de pulmón basado en los síntomas que este presenta.**
+
+- Modelos: Support Vector Machine, Decision Tree Classifier, Random Forest Classifier.
+
+- Video: https://www.youtube.com/watch?v=_LWYnfy13Mo
+
+[(project sources)](https://github.com/miguel2190932/Predicci-n_c-ncer_de_pulm-n)
