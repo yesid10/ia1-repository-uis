@@ -68,41 +68,41 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 aug22-aug23    Intro                Python-general
-     W02 aug29-aug30    Python-Numpy         Python-Numpy
-     W03 sep05-sep06    Pandas               Pandas
-     W04 sep12-sep13    Visualización        análisis de datos
-     W05 sep19-sep20    PROYECTO-AVANCE 1    PROYECTO-AVANCE 1       Parcial 1
-     W06 sep26-sep27    Intro & ML-Gauss     Clasificación A.M.S.
-     W07 oct03-oct04    Clasificación A.M.S. Metodos A.M.S
-     W08 oct10-oct11    Regresión A.M.S       Deep Learning
-     W09 oct17-oct18    DNN-imgs-estruc      Deep Learning
-     W10 oct24-oct25    DNN-audio            DNN-audio
-     W11 oct31-nov01    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2       parcial 2
-     W12 nov07-nov08    No supervisado       No supervisado
-     W13 nov14-nov15    Dim red: PCA         Dim red: tsn-e
-     W14 nov21-nov22    Genetic Alg          Genetic Alg             Parcial 3  (2 a 4 pm)
-     W15 nov28-nov29    PROYECTO-AVANCE 3    PROYECTO-AVANCE 3
-     W16 dic05-dic06    SUS PROJ                SUS PROJ
+     W01 feb06-feb07    Intro                Python-general
+     W02 feb13-feb14    Python-Numpy         Python-Numpy
+     W03 feb20-feb21    Pandas               Pandas
+     W04 feb27-feb28    Visualización        análisis de datos
+     W05 mar05-mar06    PROYECTO-AVANCE 1    PROYECTO-AVANCE 1       Parcial 1
+     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.
+     W07 mar19-mar20    Clasificación A.M.S. Metodos A.M.S
+         mar26-mar27     -------SEMANA DE RECESO -----------------
+     W08 abr03-abr03               Regresión A.M.S       Deep Learning
+     W09 abr09-abr10    DNN-imgs-estruc      Deep Learning
+     W10 abr16-abr17    DNN-audio            DNN-audio
+     W11 abr23-abr24    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2       parcial 2
+     W12 abr30-may01    No supervisado       No supervisado
+     W13 may07-may08    Dim red: PCA         Dim red: tsn-e
+     W14 may14-may15    Genetic Alg          Genetic Alg             Parcial 3  (2 a 4 pm)
+     W15 may21-may22    PROYECTO-AVANCE 3    PROYECTO-AVANCE 3
+     W16 may28-may29    SUS PROJ                SUS PROJ
 
 
 
 
-     sept 29             -> Registro primera nota
-     oct 13              -> Último día cancelación materias
-     oct 13              -> Último dia cancelación de matricula académica
-     dic 07              -> Finalización clase
-     dic 11 - dic 13     ->  evaluaciones finales
-     dic 13              -> Registro calificaciones finales
-     dic 14              -> habilitaciones
-     dic 15              -> Registro de calificaciones definitivas
-     dic 18              -> Vacaciones de personal docente y administrativo
+     mar 24            -> Registro primera nota
+     abr 07            -> Último día cancelación materias
+     abr 07            -> Último dia cancelación de matricula académica
+     may 31            -> Finalización clase
+     jun 04 - jun 07   ->  evaluaciones finales
+     jun 11            -> Registro calificaciones finales
+     jun 13            -> habilitaciones
+     jun 14            -> Registro de calificaciones definitivas
 
     
 
 
-**ACUERDO n.° acuerdo 377, del 15 de noviembre de 2022**
-[Calendario academico](https://uis.edu.co/wp-content/uploads/2022/12/Calendario-Academico-2023.pdf)
+**ACUERDO n.° acuerdo 265, del 02 de agosto de 2023**
+[Calendario academico](https://uis.edu.co/wp-content/uploads/2023/08/Acuerdo-265.pdf)
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
