@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2023-1
+# Inteligencia Artificial I 2024-1
 
 ## Bienvenidos!
 
@@ -24,7 +24,7 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 ## Talleres (Problemsets)
 
-Los talleres pretenden ser una herramienta practica para afianzar los conocimientos desarrollados durante las clases. En general se presentan como un conjunto de ejercicios que serán desarrollados **individualmente** por los estudiantes. Cada taller esta escrito como un notebook para la validación automática. Se pueden hacer tantos intentos como se quieran y unicamente la última respuesta será tomada en cuenta. Cada uno de los talleres ser desarrollará en casa, dentro de las fechas establecidas en el cronograma. 
+Los talleres pretenden ser una herramienta practica para afianzar los conocimientos desarrollados durante las clases. En general se presentan como un conjunto de ejercicios que serán desarrollados **individualmente** por los estudiantes. Cada taller esta escrito como un notebook para la validación automática. Se pueden hacer tantos intentos como se quieran y unicamente la última respuesta será tomada en cuenta. Cada uno de los talleres puede ser desarrollado en casa, dentro de las fechas establecidas en el cronograma. 
 
 
 ## Parciales (Quizes)
@@ -76,7 +76,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.
      W07 mar19-mar20    Clasificación A.M.S. Metodos A.M.S
          mar26-mar27     -------SEMANA DE RECESO -----------------
-     W08 abr03-abr03               Regresión A.M.S       Deep Learning
+     W08 abr03-abr03    Regresión A.M.S      Deep Learning
      W09 abr09-abr10    DNN-imgs-estruc      Deep Learning
      W10 abr16-abr17    DNN-audio            DNN-audio
      W11 abr23-abr24    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2       parcial 2
@@ -93,7 +93,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      abr 07            -> Último día cancelación materias
      abr 07            -> Último dia cancelación de matricula académica
      may 31            -> Finalización clase
-     jun 04 - jun 07   ->  evaluaciones finales
+     jun 04 - jun 07   -> evaluaciones finales
      jun 11            -> Registro calificaciones finales
      jun 13            -> habilitaciones
      jun 14            -> Registro de calificaciones definitivas
