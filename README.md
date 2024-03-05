@@ -71,9 +71,9 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W01 feb06-feb07    Intro                Python-general
      W02 feb13-feb14    Python-Numpy         Python-Numpy
      W03 feb20-feb21    Pandas               Pandas
-     W04 feb27-feb28    Visualización        análisis de datos
-     W05 mar05-mar06    PROYECTO-AVANCE 1    PROYECTO-AVANCE 1       Parcial 1
-     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.
+     W04 feb27-feb28    Pandas               Visualización
+     W05 mar05-mar06    análisis de datos    PROYECTO-AVANCE 1
+     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.    Parcial 1
      W07 mar19-mar20    Clasificación A.M.S. Metodos A.M.S
          mar26-mar27     -------SEMANA DE RECESO -----------------
      W08 abr03-abr03    Regresión A.M.S      Deep Learning
