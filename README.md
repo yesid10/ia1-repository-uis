@@ -103,7 +103,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
      jul 16            -> Registro de calificaciones definitivas
 
     
-
+**ACUERDO n.° acuerdo 162, de 2024**
+[Calendario academico](https://comunicaciones.uis.edu.co/wp-content/uploads/2024/06/Acuerdo-162.pdf)
 
 **ACUERDO n.° acuerdo 265, del 02 de agosto de 2023**
 [Calendario academico](https://uis.edu.co/wp-content/uploads/2023/08/Acuerdo-265.pdf)
