@@ -73,30 +73,34 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W03 feb20-feb21    Pandas               Pandas
      W04 feb27-feb28    Pandas               Visualización
      W05 mar05-mar06    análisis de datos    PROYECTO-AVANCE 1
-     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.    Parcial 1
-     W07 mar19-mar20    Clasificación A.M.S. Metodos A.M.S
+     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.
+     W07 mar19-mar20                  Parcial 1
          mar26-mar27     -------SEMANA DE RECESO -----------------
-     W08 abr03-abr03    Regresión A.M.S      Deep Learning
-     W09 abr09-abr10    DNN-imgs-estruc      Deep Learning
-     W10 abr16-abr17    DNN-audio            DNN-audio
-     W11 abr23-abr24    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2       parcial 2
-     W12 abr30-may01    No supervisado       No supervisado
-     W13 may07-may08    Dim red: PCA         Dim red: tsn-e
-     W14 may14-may15    Genetic Alg          Genetic Alg             Parcial 3  (2 a 4 pm)
-     W15 may21-may22    PROYECTO-AVANCE 3    PROYECTO-AVANCE 3
-     W16 may28-may29    SUS PROJ                SUS PROJ
+
+     W08 abr03-abr03    DNN-imgs-estruc      Deep Learning
+     W09 abr09-abr10    Regresión A.M.S      Deep Learning
+     W10 abr16-abr17    DNN-imgs-estruc      Deep Learning
+     W11 abr23-abr24    DNN-imgs-estruc      Deep Learning
+     W12 abr30-may01    DNN-audio            DNN-audio
+     W13 may07-may08    DNN-audio            DNN-audio
+                         ------- RECESO -----------------
+
+     W14 jun11-jun12    No supervisado      Dim red: PCA      sabado 15: segundo parcial asincrono
+     W15 jun18-jun19    Dim red: tsn-e      Genetic Alg       sabado 22: tercer  parcial asincrono
+     W15 **             Sustentaciones finales                ** por definir por cada profesor.
+
+       jun24- jul08     -------   VACACIONES DOCENTES  -----------------
+
+     W16 jul09-jul10    Semana de evaluaciones
 
 
 
 
      mar 24            -> Registro primera nota
-     abr 07            -> Último día cancelación materias
-     abr 07            -> Último dia cancelación de matricula académica
-     may 31            -> Finalización clase
-     jun 04 - jun 07   -> evaluaciones finales
-     jun 11            -> Registro calificaciones finales
-     jun 13            -> habilitaciones
-     jun 14            -> Registro de calificaciones definitivas
+     jul 08 - jul 12   -> evaluaciones finales
+     jul 12            -> Registro calificaciones finales
+     jul 15            -> habilitaciones
+     jul 16            -> Registro de calificaciones definitivas
 
     
 
