@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2024-1
+# Inteligencia Artificial I 2024-2
 
 ## Bienvenidos!
 
@@ -68,46 +68,41 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 feb06-feb07    Intro                Python-general
-     W02 feb13-feb14    Python-Numpy         Python-Numpy
-     W03 feb20-feb21    Pandas               Pandas
-     W04 feb27-feb28    Pandas               Visualización
-     W05 mar05-mar06    análisis de datos    PROYECTO-AVANCE 1
-     W06 mar12-mar13    Intro & ML-Gauss     Clasificación A.M.S.
-     W07 mar19-mar20                  Parcial 1
-         mar26-mar27     -------SEMANA DE RECESO -----------------
-
-     W08 abr03-abr03    DNN-imgs-estruc      Deep Learning
-     W09 abr09-abr10    Regresión A.M.S      Deep Learning
-     W10 abr16-abr17    DNN-imgs-estruc      Deep Learning
-     W11 abr23-abr24    DNN-imgs-estruc      Deep Learning
-     W12 abr30-may01    DNN-audio            DNN-audio
-     W13 may07-may08    DNN-audio            DNN-audio
-                         ------- RECESO -----------------
-
-     W14 jun11-jun12    No supervisado      Dim red: PCA      sabado 15: segundo parcial asincrono
-     W15 jun18-jun19    Dim red: tsn-e      Genetic Alg       sabado 22: tercer  parcial asincrono
-     W15 **             Sustentaciones finales                ** por definir por cada profesor.
-
-       jun24- jul08     -------   VACACIONES DOCENTES  -----------------
-
-     W16 jul09-jul10    Semana de evaluaciones
+     W01 ago13-ago14    Intro                Python-general
+     W02 ago20-ago21    Python-Numpy         Python-Numpy
+     W03 ago27-ago28    F:segui-proyectos    Pandas                Ago 27 - Jornada reflexión de reforma de estatutos
+     W04 sep03-sep04    Pandas               Pandas
+     W05 sep10-sep11    Visualización        F:segui-proyectos     Sep 11 - Jornada reflexión de reforma de estatutos
+     W06 sep17-sep18    análisis de datos    PROYECTO-AVANCE 1     Sep  21 Parcial 1
+     W07 sep24-sep25    Intro & ML-Gauss     Clasificación A.M.S.
+     W08 oct01-0ct02    Clasificación A.M.S  Clasificación A.M.S   Oct 06 - fecha limite para reportar primera nota
+     W09 oct08-0ct09    DNN-imgs-estruc      Deep Learning
+     W10 oct15-0ct16    Regresión A.M.S      Deep Learning
+     W11 oct22-0ct23    F:segui-proyectos    DNN-imgs-estruc       Oct 22 - Jornada reflexión de reforma de estatutos.
+     W12 Nov05-Nov06    DNN-audio            F:segui-proyectos     Nov 06 - Jornada reflexión de reforma de estatutos
+     W13 Nov12-Nov13    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2     Nov16 - Parcial 2
+     W14 Nov19-Nov20    No supervisado       No supervisado
+     W15 Nov26-Nov27    Dim red: PCA         Dim red: tsn-e
+     W15 Dic03-Dic04    Genetic Alg          PROYECTO-AVANCE 3
+     W16 Dic10-Dic11    Parcial 3            Sustentaciones finales
 
 
 
 
-     mar 24            -> Registro primera nota
-     jul 08 - jul 12   -> evaluaciones finales
-     jul 12            -> Registro calificaciones finales
-     jul 15            -> habilitaciones
-     jul 16            -> Registro de calificaciones definitivas
+     Ago08             -> Inicio de clases
+     Oct 06            -> Fecha limite para reportar primera nota
+     Oct 13            -> Ultimo dia para cancelación asignaturas
+     Dic 06            -> Finalización de clases
+     Dic 09 - Dic 13   -> evaluaciones finales
+     Dic 13            -> Registro calificaciones finales
+     Dic 16            -> habilitaciones
+     Dic 18            -> Registro de calificaciones definitivas
 
     
-**ACUERDO n.° acuerdo 162, de 2024**
-[Calendario academico](https://comunicaciones.uis.edu.co/wp-content/uploads/2024/06/Acuerdo-162.pdf)
+**ACUERDO n.° acuerdo 181, de 2024**
+[Calendario academico](https://uis.edu.co/wp-content/uploads/2024/06/0001_20240624_Acuerdo_181.pdf)
 
-**ACUERDO n.° acuerdo 265, del 02 de agosto de 2023**
-[Calendario academico](https://uis.edu.co/wp-content/uploads/2023/08/Acuerdo-265.pdf)
+
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
