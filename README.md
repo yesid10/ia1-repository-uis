@@ -74,7 +74,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W04 sep03-sep04    Pandas               Pandas
      W05 sep10-sep11    Visualización        F:segui-proyectos     Sep 11 - Jornada reflexión de reforma de estatutos
      W06 sep17-sep18    análisis de datos    análisis de datos
-     W07 sep24-sep25    PROYECTO-AVANCE 1    Intro & ML-Gauss     .  Sep  28 Parcial 1
+     W07 sep24-sep25    PROYECTO-AVANCE 1    Intro & ML-Gauss      Sep  28 Parcial 1
      W08 oct01-0ct02    Clasificación A.M.S  Clasificación A.M.S   Oct 06 - fecha limite para reportar primera nota
      W09 oct08-0ct09    DNN-imgs-estruc      Deep Learning
      W10 oct15-0ct16    Regresión A.M.S      Deep Learning
