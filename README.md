@@ -76,15 +76,16 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W06 sep17-sep18    análisis de datos    análisis de datos
      W07 sep24-sep25    PROYECTO-AVANCE 1    Intro & ML-Gauss      Sep  28 Parcial 1
      W08 oct01-0ct02    Clasificación A.M.S  Clasificación A.M.S   Oct 06 - fecha limite para reportar primera nota
-     W09 oct08-0ct09    DNN-imgs-estruc      Deep Learning
-     W10 oct15-0ct16    Regresión A.M.S      Deep Learning
-     W11 oct22-0ct23    F:segui-proyectos    DNN-imgs-estruc       Oct 22 - Jornada reflexión de reforma de estatutos.
-     W12 Nov05-Nov06    DNN-audio            F:segui-proyectos     Nov 06 - Jornada reflexión de reforma de estatutos
-     W13 Nov12-Nov13    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2     Nov16 - Parcial 2
-     W14 Nov19-Nov20    No supervisado       No supervisado
-     W15 Nov26-Nov27    Dim red: PCA         Dim red: tsn-e
-     W15 Dic03-Dic04    Genetic Alg          PROYECTO-AVANCE 3
-     W16 Dic10-Dic11    Parcial 3            Sustentaciones finales
+     W09 oct08-0ct09    Clasificación A.M.S  Clasificación A.M.S
+     W10 oct15-0ct16    Regresión A.M.S      Regresión A.M.S
+     W11 oct22-0ct23    Regresión A.M.S      DNN-imgs-estruc       Oct 22 - Jornada reflexión de reforma de estatutos.
+     W12 oct29-0ct30    Deep Learning        DNN-imgs-estruc       Flexibilidad académica. U24
+     W13 Nov05-Nov06    DNN-audio            F:segui-proyectos     Nov 06 - Jornada reflexión de reforma de estatutos
+     W14 Nov12-Nov13    No supervisado       Dim red: PCA          Nov09 - Parcial 2 - Prof Gustavo. Viaje. Clase solo prof Fabio
+     W15 Nov19-Nov20    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2
+     W16 Nov26-Nov27    *No supervisado      *Dim red: PCA         Prof Fabio. Viaje. Clase solo prof Gustavo.
+     W17 Dic03-Dic04    Dim red: tsn-e       Genetic Alg           Dic 7. Parcial 3.
+     W18 Dic10-Dic11    PROYECTO-AVANCE 3    Sustentaciones finales
 
 
 
