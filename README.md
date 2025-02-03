@@ -68,40 +68,40 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 ago13-ago14    Intro                Python-general
-     W02 ago20-ago21    Python-Numpy         Python-Numpy
-     W03 ago27-ago28    F:segui-proyectos    Pandas                Ago 27 - Jornada reflexión de reforma de estatutos
-     W04 sep03-sep04    Pandas               Pandas
-     W05 sep10-sep11    Visualización        F:segui-proyectos     Sep 11 - Jornada reflexión de reforma de estatutos
-     W06 sep17-sep18    análisis de datos    análisis de datos
-     W07 sep24-sep25    PROYECTO-AVANCE 1    Intro & ML-Gauss      Sep  28 Parcial 1
-     W08 oct01-0ct02    Clasificación A.M.S  Clasificación A.M.S   Oct 06 - fecha limite para reportar primera nota
-     W09 oct08-0ct09    Clasificación A.M.S  Clasificación A.M.S
-     W10 oct15-0ct16    Regresión A.M.S      Regresión A.M.S
-     W11 oct22-0ct23    Regresión A.M.S      DNN-imgs-estruc       Oct 22 - Jornada reflexión de reforma de estatutos.
-     W12 oct29-0ct30    Deep Learning        DNN-imgs-estruc       Flexibilidad académica. U24
-     W13 Nov05-Nov06    DNN-audio            F:segui-proyectos     Nov 06 - Jornada reflexión de reforma de estatutos
-     W14 Nov12-Nov13    No supervisado       Dim red: PCA          Nov09 - Parcial 2 - Prof Gustavo. Viaje. Clase solo prof Fabio
-     W15 Nov19-Nov20    PROYECTO-AVANCE 2    PROYECTO-AVANCE 2
-     W16 Nov26-Nov27    *No supervisado      *Dim red: PCA         Prof Fabio. Viaje. Clase solo prof Gustavo.
-     W17 Dic03-Dic04    Dim red: tsn-e       Genetic Alg           Dic 7. Parcial 3.
-     W18 Dic10-Dic11    PROYECTO-AVANCE 3    Sustentaciones finales
+     W01 Feb04-Feb05    Intro                Python-general
+     W02 Feb11-Feb12    Python-Numpy         Python-Numpy
+     W03 Feb18-Feb19    Genetic Alg          Genetic Alg
+     W04 Feb25-Feb26    Pandas               Pandas
+     W05 Mar04-Mar05    Visualización        análisis de datos
+     W06 Mar11-Mar12    PROYECTO-AVANCE 1    Parcial 1
+     W07 Mar18-Mar19    Intro ML-Supervi     Clasificación de una neurona
+     W08 Mar25-Mar26    Deep Learning        Deep Learning
+     W09 Abr01-Abr02    Otros ML             Evaluación clasificadores
+     W10 Abr08-Abr09    ML-Regresion         Evaluación regresores
+     W11 Abr15-Abr16    Aplic-imgs           Aplic-audio
+     W12 Abr22-Abr23    PROYECTO-AVANCE 2    Parcial 2
+     W13 Abr29-Abr30    Intro ML-no sup      ML-no-supervisado
+     W14 May06-May07    Evalaución No-sup    Dim red: tsn-e
+     W15 May13-May14    Dim red: PCA         supervisado + No supervisado
+     W16 May20-May21    PROYECTO-AVANCE 3    Parcial 3
+     W17 May27-May28    Sustentaciones       Sustentaciones
 
 
 
 
-     Ago08             -> Inicio de clases
-     Oct 06            -> Fecha limite para reportar primera nota
-     Oct 13            -> Ultimo dia para cancelación asignaturas
-     Dic 06            -> Finalización de clases
-     Dic 09 - Dic 13   -> evaluaciones finales
-     Dic 13            -> Registro calificaciones finales
-     Dic 16            -> habilitaciones
-     Dic 18            -> Registro de calificaciones definitivas
+
+     Feb 03            -> Inicio de clases
+     Mar 23            -> Fecha limite para reportar primera nota
+     Mar 30            -> Ultimo dia para cancelación asignaturas
+     Mayo 30            -> Finalización de clases
+     jun 03 - jun 06   -> evaluaciones finales
+     jun 09            -> Registro calificaciones finales, con actas.
+     jun 11            -> habilitaciones
+     jun 13            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
 
     
-**ACUERDO n.° acuerdo 181, de 2024**
-[Calendario academico](https://uis.edu.co/wp-content/uploads/2024/06/0001_20240624_Acuerdo_181.pdf)
+**ACUERDO n.° acuerdo 278, de 2024**
+[Calendario academico](https://uis.edu.co/wp-content/uploads/2024/10/0001_20241008_Acuerdo_278.pdf)
 
 
 
