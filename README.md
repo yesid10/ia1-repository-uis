@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2024-2
+# Inteligencia Artificial I 2025-1
 
 ## Bienvenidos!
 
@@ -29,8 +29,7 @@ Los talleres pretenden ser una herramienta practica para afianzar los conocimien
 
 ## Parciales (Quizes)
 
-Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados en las clases. Los estudiantes deben solucionarlo en el salón de clase, en un tiempo determinado. Los apuntes y notebooks del curso se pueden utilizar (curso del repositorio). 
-
+Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados en las clases. También tendremos un componente teórico, desarrolado en moodle. Los estudiantes deben solucionarlo en el salón de clase, en un tiempo determinado. Los apuntes y notebooks del curso se pueden utilizar (curso del repositorio).
 
 ## Proyecto funcional IA
 
@@ -81,8 +80,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W11 Abr15-Abr16    Aplic-imgs           Aplic-audio
      W12 Abr22-Abr23    PROYECTO-AVANCE 2    Parcial 2
      W13 Abr29-Abr30    Intro ML-no sup      ML-no-supervisado
-     W14 May06-May07    Evalaución No-sup    Dim red: tsn-e
-     W15 May13-May14    Dim red: PCA         supervisado + No supervisado
+     W14 May06-May07    Evalaución No-sup    Dim red: PCA
+     W15 May13-May14    Dim red: tsn-e         supervisado + No supervisado
      W16 May20-May21    PROYECTO-AVANCE 3    Parcial 3
      W17 May27-May28    Sustentaciones       Sustentaciones
 
