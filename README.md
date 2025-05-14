@@ -77,13 +77,13 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W08 Mar25-Mar26    Deep Learning        Deep Learning
      W09 Abr01-Abr02    Otros ML             Evaluación clasificadores
      W10 Abr08-Abr09    ML-Regresion         Evaluación regresores
-     W11 Abr15-Abr16    Aplic-imgs           Aplic-audio
-     W12 Abr22-Abr23    PROYECTO-AVANCE 2    Parcial 2
-     W13 Abr29-Abr30    Intro ML-no sup      ML-no-supervisado
-     W14 May06-May07    Evalaución No-sup    Dim red: PCA
-     W15 May13-May14    Dim red: tsn-e         supervisado + No supervisado
-     W16 May20-May21    PROYECTO-AVANCE 3    Parcial 3
-     W17 May27-May28    Sustentaciones       Sustentaciones
+     W11 Abr15-Abr16    Evaluación regres    Evaluación regresores
+     W12 Abr22-Abr23    Aplic-imgs           Aplic-audio
+     W13 Abr29-Abr30    Aplic-audio          PROYECTO-AVANCE 2
+     W14 May06-May07    PROYECTO-AVANCE 2    Parcial 2
+     W15 May13-May14    No-sup: agrup       No-sup: dimension
+     W16 May20-May21    Evalaución No-sup   PROYECTO-AVANCE 3
+     W17 May27-May28    Sustentaciones      Parcial 3
 
 
 
