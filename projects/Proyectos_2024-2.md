@@ -15,6 +15,7 @@
 7. [Phishhing](#proy7)
 8. [Rostros](#proy8)
 
+9. [Diabetes](#proy9)
 
 ---
 
@@ -152,10 +153,23 @@
 
 -  Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnológicas.
 
-
-
-
 - Video:https://www.youtube.com/watch?v=4SxMffNWd0Y&feature=youtu.be
 
 [(project sources)](https://github.com/jerson1210/AI-proyecto?tab=readme-ov-file)
+
+---
+
+## Clasificacion de diabetes con modelos clasicos y Deep Learning <a name="proy9"></a>
+
+**Autores: Brayan Yesid Quintero Santander - 2221707, Juan David Paipa Jaimes - 2220062**
+
+<img src="https://raw.githubusercontent.com/BrayanQuintero123/Diabetes-Classification/refs/heads/main/Logo.jpeg" style="width:700px;">
+
+****
+
+- Clasificar la presencia de diabetes en mujeres de almenos 21 años, usando un enfoque de clasificación binaria (0: negativo, 1: positivo), basándose en un conjunto de características médicas.
+
+- Video: https://www.youtube.com/watch?v=JgPvCztKcXY
+
+[(project sources)](https://github.com/BrayanQuintero123/Diabetes-Classification)
 
