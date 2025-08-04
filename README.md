@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2025-1
+# Inteligencia Artificial I 2025-2
 
 ## Bienvenidos!
 
@@ -21,6 +21,8 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 - 10% Talleres en clase. (participaciones por cuartiles)
 - 30% Parciales
 - 30% Proyecto funcional IA 
+
+** **ATENCIÓN** El estudiante que deje de asistir al 20% de las clases, perderá la asignatura por fallas y se le reportará 0.0 (perdida por fallas)
 
 ## Talleres (Problemsets)
 
@@ -67,36 +69,36 @@ Todos los items tienen el mismo porcentaje de evaluación.
                         SESSION 1            SESSION 2              SESSION SATURDAY
 
 
-     W01 Feb04-Feb05    Intro                Python-general
-     W02 Feb11-Feb12    Python-Numpy         Python-Numpy
-     W03 Feb18-Feb19    Genetic Alg          Genetic Alg
-     W04 Feb25-Feb26    Pandas               Pandas
-     W05 Mar04-Mar05    Visualización        análisis de datos
-     W06 Mar11-Mar12    PROYECTO-AVANCE 1    Parcial 1
-     W07 Mar18-Mar19    Intro ML-Supervi     Clasificación de una neurona
-     W08 Mar25-Mar26    Deep Learning        Deep Learning
-     W09 Abr01-Abr02    Otros ML             Evaluación clasificadores
-     W10 Abr08-Abr09    ML-Regresion         Evaluación regresores
-     W11 Abr15-Abr16    Evaluación regres    Evaluación regresores
-     W12 Abr22-Abr23    Aplic-imgs           Aplic-audio
-     W13 Abr29-Abr30    Aplic-audio          PROYECTO-AVANCE 2
-     W14 May06-May07    PROYECTO-AVANCE 2    Parcial 2
-     W15 May13-May14    No-sup: agrup       No-sup: dimension
-     W16 May20-May21    Evalaución No-sup   PROYECTO-AVANCE 3
-     W17 May27-May28    Sustentaciones      Parcial 3
+     W01 ago05-ago07    Intro                FESTIVO
+     W02 ago12-ago14    Python-general       Python-Numpy
+     W03 ago19-ago21    Genetic Alg          Genetic Alg
+     W04 ago26-ago28    Pandas               Pandas
+     W05 sep02-sep04    Visualización        análisis de datos
+     W06 sep09-sep11    PROYECTO-AVANCE 1    Parcial 1
+     W07 sep16-sep18    Intro ML-Supervi     Clasificación de una neurona
+     W08 sep23-sep25    Deep Learning        Deep Learning
+     W09 sep30-oct02    Otros ML             Evaluación clasificadores
+     W10 oct07-oct09    ML-Regresion         Evaluación regresores
+     W11 oct14-oct16    Evaluación regres    Evaluación regresores
+     W12 oct21-oct23    Aplic-imgs           Aplic-audio
+     W13 oct28-oct30    Aplic-audio          PROYECTO-AVANCE 2
+     W14 nov04-nov06    PROYECTO-AVANCE 2    Parcial 2
+     W15 nov11-nov13    No-sup: agrup       No-sup: dimension
+     W16 nov18-nov20    Evalaución No-sup   PROYECTO-AVANCE 3
+     W17 nov25-nov27    Sustentaciones      Parcial 3
 
 
 
 
 
-     Feb 03            -> Inicio de clases
-     Mar 23            -> Fecha limite para reportar primera nota
-     Mar 30            -> Ultimo dia para cancelación asignaturas
-     Mayo 30            -> Finalización de clases
-     jun 03 - jun 06   -> evaluaciones finales
-     jun 09            -> Registro calificaciones finales, con actas.
-     jun 11            -> habilitaciones
-     jun 13            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
+     ago 04            -> Inicio de clases
+     sep 21            -> Fecha limite para reportar primera nota
+     sep 28            -> Ultimo dia para cancelación asignaturas
+     nov 21            -> Finalización de clases
+     nov 24 - nov 28   -> evaluaciones finales
+     dic 01            -> Registro calificaciones finales, con actas.
+     dic 03            -> habilitaciones
+     dic 05            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
 
     
 **ACUERDO n.° acuerdo 278, de 2024**
