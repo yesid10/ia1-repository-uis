@@ -32,3 +32,10 @@
 22. [Reconocimiento de emociones faciales](https://github.com/diegoandres19/ia1--Ingeniebrios---Proyecto-de-Reconocimiento-de-Emociones-Faciales-/tree/main) **Autores** Diego Andres Barragan Ruiz, Michael Andres Fabre Beltran, David Alexander Sandoval Suarez.
 23. [Detector de Sonidos para Seguridad en el Hogar](https://github.com/JuanFernandoBallesterosMaciasUIS/Detector-de-Sonidos-para-Seguridad-en-el-Hogar) **Autores** Juan Fernando Ballesteros Macias, Juan Pablo Herrera Baquero.
 24. [Predicción y Análisis de Rendimiento Estudiantil](https://github.com/JeiGeek/ia1-LosPandas-prediccion_rendimiento_estudiantil) **Autores** Miguel Andres Jaimes Ortiz, Jeison Fernando Guarguati Anaya.
+25. [Detector de Phishing a Partir de una URL](http://github.com/Capape29/DetectorPhishing/tree/main) **Autores** Camilo Palacio, Carlos Ayala, Snheider Olarte.
+26. [Predicción de la Calidad del Vino Rojo](https://github.com/Yippeeclaw/wine_prediction) **Autores** Arley Villamizar, Marisol Osma, Cristian Johnson.
+27. [AFINIX - Sistema Inteligente de Compatibilidad con Machine Learning](https://github.com/n4ncy27/AFINIX) **Autores** Johan Santiago Rojas Naranjo,  Leyson David Celis Acelas, Nancy Liliana Saenz Moreno.
+28. [Clasificador de Nivel de Obesidad](https://github.com/LauraRosas10/Clasificador---Niveles-de-Obesidad/tree/main) **Autores** Laura Rosas, Justin Galvis, Gabriel Vera.
+29. [Análisis y modelado de imágenes dermatológicas con técnicas de Machine Learning](https://github.com/Cvaslml/Skin-Lesion-Image-Analysis) **Autores** Carlos Beltran, Johan Herrera.
+30. [Reconocimiento automático de especies de plantas a partir de imagenes de sus hojas](https://github.com/Blinded4545/Reconocimiento-de-plantas-usando-imagenes-de-sus-hojas-Proyecto-IA-1) **Autores** Camilo Andrés Herrera Celis, Alejandro Moreno Cortes, Marlon David Osorio Monroy
+31. [Proyecto de Detección y Reconocimiento Facial](https://github.com/DavidZT2222709/Modelo-de-detecci-n-de-rostros) **Autores:** David Alejandro Zapata-Toro, Daniel Calderón-Bonilla, Kevin Alexander Salinas-Paez
