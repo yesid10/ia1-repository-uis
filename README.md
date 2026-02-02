@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2025-2
+# Inteligencia Artificial I 2026-1
 
 ## Bienvenidos!
 
@@ -66,43 +66,44 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
 ## Calendario y plazos
 
-                        SESSION 1            SESSION 2              SESSION SATURDAY
+                        SESSION 1            SESSION 2              
 
 
-     W01 ago05-ago07    Intro                FESTIVO
-     W02 ago12-ago14    Python-general       Python-Numpy
-     W03 ago19-ago21    Genetic Alg          Genetic Alg
-     W04 ago26-ago28    Pandas               Pandas
-     W05 sep02-sep04    Visualización        análisis de datos
-     W06 sep09-sep11    PROYECTO-AVANCE 1    Parcial 1
-     W07 sep16-sep18    Intro ML-Supervi     Clasificación de una neurona
-     W08 sep23-sep25    Deep Learning        Deep Learning
-     W09 sep30-oct02    Otros ML             Evaluación clasificadores
-     W10 oct07-oct09    ML-Regresion         Evaluación regresores
-     W11 oct14-oct16    Evaluación regres    Evaluación regresores
-     W12 oct21-oct23    Aplic-imgs           Aplic-audio
-     W13 oct28-oct30    Aplic-audio          PROYECTO-AVANCE 2
-     W14 nov04-nov06    PROYECTO-AVANCE 2    Parcial 2
-     W15 nov11-nov13    No-sup: agrup       No-sup: dimension
-     W16 nov18-nov20    Evalaución No-sup   PROYECTO-AVANCE 3
-     W17 nov25-nov27    Sustentaciones      Parcial 3
+    W01 feb03–feb05    Intro                     Python-general
+    W02 feb10–feb12    Python-general            Python-Numpy
+    W03 feb17–feb19    Genetic Alg               Genetic Alg
+    W04 feb24–feb26    Pandas                    Pandas
+    W05 mar03–mar05    Visualización             análisis de datos
+    W06 mar10–mar12    PROYECTO-AVANCE 1         Parcial 1
+    W07 mar17–mar19    Intro ML-Supervi          Clasificación de una neurona
+    W08 mar24–mar26    Deep Learning             Deep Learning
+    W09 mar31–apr02    Otros ML                  Evaluación clasificadores
+    W10 apr07–apr09    ML-Regresión              Evaluación regresores
+    W11 apr14–apr16    Evaluación regres         Evaluación regresores
+    W12 apr21–apr23    Aplic-imgs                Aplic-audio
+    W13 apr28–apr30    Aplic-audio               PROYECTO-AVANCE 2
+    W14 may05–may07    PROYECTO-AVANCE 2         Parcial 2
+    W15 may12–may14    No-sup: agrup             No-sup: dimension
+    W16 may19–may21    Evaluación No-sup         PROYECTO-AVANCE 3
+    W17 may26–may28    Sustentaciones            Parcial 3
 
 
 
 
 
-     ago 04            -> Inicio de clases
-     sep 21            -> Fecha limite para reportar primera nota
-     sep 28            -> Ultimo dia para cancelación asignaturas
-     nov 21            -> Finalización de clases
-     nov 24 - nov 28   -> evaluaciones finales
-     dic 01            -> Registro calificaciones finales, con actas.
-     dic 03            -> habilitaciones
-     dic 05            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
+
+
+     feb 02            -> Inicio de clases
+     mar 22            -> Fecha limite para reportar primera nota
+     abr 05            -> Ultimo dia para cancelación asignaturas
+     may 29            -> Finalización de clases y evaluaciones finales
+     may 30            -> Registro calificaciones finales, con actas.
+     jun 03            -> habilitaciones
+     jun 05            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
 
     
-**ACUERDO n.° acuerdo 278, de 2024**
-[Calendario academico](https://uis.edu.co/wp-content/uploads/2024/10/0001_20241008_Acuerdo_278.pdf)
+**ACUERDO n.° acuerdo 341, de 2025**
+[Calendario academico](https://documentos.uis.edu.co/wp-content/uploads/2026/01/acuerdo-341-del-25-de-noviembre-de-2025-consejo-academico.pdf)
 
 
 
