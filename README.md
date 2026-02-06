@@ -17,10 +17,13 @@ Vamos a utilizar la plataforma de google para editar, compartir y correr noteboo
 
 
 ## Calificación
-- 30% Talleres
+- 20% Talleres
 - 10% Talleres en clase. (participaciones por cuartiles)
-- 30% Parciales
-- 30% Proyecto funcional IA 
+- 45% Parciales (teórico/práctico)
+    - 15% Componente Moodle + Exploración de datos
+    - 15% Componente Moodle + modelos supervisados
+    - 15% Componente Moodle + modelos no supervisados
+- 25% Proyecto funcional IA 
 
 ** **ATENCIÓN** El estudiante que deje de asistir al 20% de las clases, perderá la asignatura por fallas y se le reportará 0.0 (perdida por fallas)
 
